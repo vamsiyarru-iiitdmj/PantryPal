@@ -39,34 +39,32 @@ UNIT_ALIASES = {
     "clove": "clove", "cloves": "clove", "piece": "piece", "pieces": "piece", "slice": "slice",
     "slices": "slice", "sprig": "sprig", "sprigs": "sprig", "bunch": "bunch", "bunches": "bunch",
     "inch": "inch", "inches": "inch", "can": "can", "cans": "can", "packet": "packet", "packets": "packet",
-    "small": "small", "medium": "medium", "large": "large", "big": "big",
 }
 
 UNIT_DIMENSIONS = {
     "g": "mass", "kg": "mass", "oz": "mass", "lb": "mass",
     "ml": "volume", "l": "volume", "cup": "volume", "tbsp": "volume", "tsp": "volume",
     "clove": "count", "piece": "count", "slice": "count", "sprig": "count", "bunch": "count",
-    "inch": "count", "can": "count", "packet": "count", "small": "count", "medium": "count",
-    "large": "count", "big": "count",
+    "inch": "length", "can": "count", "packet": "count",
 }
 
 # This is an explainable seed taxonomy, not a nutritional claim.  Unclassified
 # values are intentionally retained for frequency-ordered human review.
 CATEGORY_RULES = [
-    ("Meat & Seafood", {"chicken", "mutton", "lamb", "beef", "pork", "fish", "prawn", "shrimp", "crab", "egg", "eggs", "maach", "anchovy", "tuna", "salmon", "sardine", "keema"}),
-    ("Dairy & Eggs", {"milk", "curd", "yogurt", "yoghurt", "cream", "cheese", "paneer", "butter", "ghee", "buttermilk", "hung curd"}),
-    ("Oils & Fats", {"oil", "olive oil", "mustard oil", "sunflower oil", "coconut oil", "sesame oil", "vegetable oil"}),
-    ("Vegetables", {"onion", "tomato", "potato", "carrot", "cabbage", "spinach", "peas", "bell pepper", "capsicum", "brinjal", "eggplant", "okra", "karela", "gourd", "pumpkin", "kaddu", "beetroot", "cauliflower", "broccoli", "mushroom", "radish", "mooli", "turnip", "beans", "corn", "chilli", "chillies", "green chili", "garlic", "ginger", "cucumber", "zucchini", "leek", "celery", "drumstick", "sorrel", "yam", "plantain", "bhindi", "shallots", "iceberg lettuce", "lettuce", "colocasia", "tindora", "gawar phali", "amaranth"}),
-    ("Fruits", {"mango", "banana", "apple", "orange", "lemon", "lime", "pineapple", "grape", "guava", "papaya", "pomegranate", "watermelon", "coconut", "tamarind", "jackfruit", "berry", "berries", "dates", "fig"}),
-    ("Herbs", {"coriander leaves", "coriander", "mint", "curry leaves", "basil", "oregano", "thyme", "rosemary", "parsley", "dill", "fenugreek leaves", "methi leaves", "kasuri methi", "bay leaf", "tulsi", "rose petals"}),
-    ("Spices & Seasonings", {"salt", "pepper", "turmeric", "cumin", "coriander powder", "chilli powder", "garam masala", "mustard seeds", "mustard", "asafoetida", "asafetida", "hing", "fennel", "cardamom", "cinnamon", "clove", "nutmeg", "saffron", "amchur", "masala", "paprika", "vanilla", "baking powder", "baking soda", "methi seeds", "ajwain", "star anise", "kalonji", "mace", "rye", "italian seasoning", "stone flowers", "fenugreek", "cooking soda", "kala jeera"}),
-    ("Pulses & Legumes", {"dal", "lentil", "lentils", "chickpea", "chana", "urad", "moong", "rajma", "beans", "toor", "arhar", "peas", "soya", "soy", "gram"}),
-    ("Grains & Flours", {"rice", "flour", "atta", "wheat", "semolina", "rava", "oats", "quinoa", "millet", "vermicelli", "poha", "besan", "corn flour"}),
-    ("Nuts & Seeds", {"cashew", "almond", "badam", "peanut", "walnut", "pistachio", "sesame", "flax", "chia", "poppy", "melon seeds", "sunflower seeds", "raisins", "dry fruits"}),
-    ("Bakery & Pasta", {"bread", "bun", "tortilla", "pasta", "noodles", "idli", "dosa", "pizza base", "bread crumbs"}),
+    ("Meat & Seafood", {"chicken", "mutton", "lamb", "beef", "pork", "fish", "prawn", "shrimp", "crab", "maach", "anchovy", "tuna", "salmon", "sardine", "keema"}),
+    ("Dairy & Eggs", {"milk", "curd", "yogurt", "yoghurt", "cream", "cheese", "paneer", "butter", "ghee", "buttermilk", "hung curd", "khoya", "mawa", "egg", "eggs"}),
+    ("Oils & Fats", {"oil", "olive oil", "mustard oil", "sunflower oil", "coconut oil", "sesame oil", "vegetable oil", "nutralite classic spread"}),
+    ("Vegetables", {"onion", "tomato", "potato", "carrot", "cabbage", "spinach", "peas", "bell pepper", "capsicum", "brinjal", "eggplant", "okra", "karela", "gourd", "pumpkin", "ash gourd", "white pumpkin", "kaddu", "beetroot", "cauliflower", "broccoli", "mushroom", "radish", "mooli", "turnip", "beans", "corn", "mixed vegetables", "bok choy", "chilli", "chillies", "green chili", "garlic", "ginger", "cucumber", "zucchini", "leek", "celery", "drumstick", "sorrel", "yam", "plantain", "bhindi", "shallots", "iceberg lettuce", "lettuce", "colocasia", "tindora", "gawar phali", "amaranth", "jalapeno", "jalapenos"}),
+    ("Fruits", {"mango", "banana", "apple", "orange", "lemon", "lime", "pineapple", "grape", "guava", "papaya", "pomegranate", "watermelon", "coconut", "tamarind", "jackfruit", "avocado", "kokum", "amla", "fruit", "cherry", "cherries", "prune", "prunes", "cranberry", "cranberries", "blueberry", "blueberries", "apricot", "apricots", "kiwi", "berry", "berries", "strawberry", "strawberries", "olive", "olives", "dates", "fig"}),
+    ("Herbs", {"coriander leaves", "coriander", "fresh herbs", "mint", "curry leaves", "basil", "oregano", "thyme", "rosemary", "parsley", "dill", "fenugreek leaves", "methi leaves", "kasuri methi", "bay leaf", "tulsi", "rose petals", "lemongrass", "mixed herbs"}),
+    ("Spices & Seasonings", {"salt", "pepper", "peppercorn", "peppercorns", "black peppercorns", "turmeric", "cumin", "coriander powder", "chilli powder", "garam masala", "mustard seeds", "mustard", "asafoetida", "asafetida", "hing", "fennel", "cardamom", "cinnamon", "clove", "nutmeg", "saffron", "amchur", "masala", "paprika", "vanilla", "baking powder", "baking soda", "methi seeds", "ajwain", "star anise", "kalonji", "mace", "rye", "italian seasoning", "stone flowers", "fenugreek", "cooking soda", "kala jeera"}),
+    ("Pulses & Legumes", {"dal", "lentil", "lentils", "chickpea", "chana", "urad", "moong", "rajma", "beans", "toor", "arhar", "peas", "soya", "soy", "tofu", "gram"}),
+    ("Grains & Flours", {"rice", "flour", "atta", "maida", "sooji", "suji", "barley", "jowar", "ragi", "wheat", "semolina", "rava", "semiya", "oats", "muesli", "sabudana", "quinoa", "millet", "vermicelli", "poha", "besan", "corn flour"}),
+    ("Nuts & Seeds", {"cashew", "almond", "badam", "peanut", "walnut", "pistachio", "nuts", "mixed nuts", "phool makhana", "sesame", "flax", "chia", "poppy", "melon seeds", "sunflower seeds", "raisins", "dry fruits", "tahini"}),
+    ("Bakery & Pasta", {"bread", "bun", "baguette", "oreo biscuits", "marie biscuit", "puff pastry sheet", "tortilla", "pasta", "noodles", "idli", "dosa", "pizza base", "bread crumbs", "yeast"}),
     ("Sweeteners", {"sugar", "jaggery", "honey", "syrup", "molasses", "chocolate", "dark chocolate", "chocolate chips", "white chocolate", "nutella", "gulkand"}),
-    ("Liquids", {"water", "juice", "stock", "broth", "vinegar", "wine", "tamarind water", "coconut milk"}),
-    ("Packaged & Prepared", {"ketchup", "sauce", "paste", "puree", "pickle", "mayonnaise", "jam", "powder", "mix", "granules", "extract"}),
+    ("Liquids", {"water", "juice", "stock", "broth", "vinegar", "wine", "tamarind water", "coconut milk", "ice", "ice cubes"}),
+    ("Packaged & Prepared", {"ketchup", "sauce", "paste", "puree", "pickle", "gelatin", "mayonnaise", "jam", "chutney", "papad", "badi", "wadi", "tabasco", "sev", "boondi", "powder", "mix", "granules", "extract"}),
 ]
 
 STAPLE_TERMS = {"salt", "water", "oil", "sunflower oil", "mustard oil", "vegetable oil", "ghee", "turmeric powder"}
@@ -94,8 +92,12 @@ def norm_key(value: str) -> str:
     value = re.sub(r"[^a-z0-9 ]+", " ", value)
     value = re.sub(r"\b(the|fresh|whole)\b", " ", value)
     value = re.sub(r"\s+", " ", value).strip()
-    if value.endswith("ies") and len(value) > 4:
+    if value.endswith("leaves") and len(value) > 6:
+        value = value[:-6] + "leaf"
+    elif value.endswith("ies") and len(value) > 4:
         value = value[:-3] + "y"
+    elif value.endswith("oes") and len(value) > 4:
+        value = value[:-2]
     elif value.endswith("s") and not value.endswith("ss") and len(value) > 3:
         value = value[:-1]
     return value
@@ -127,8 +129,11 @@ def split_note(text: str) -> tuple[str, str | None]:
 
 
 NUMBER = r"(?:\d+(?:\.\d+)?|[¼½¾])"
+# Handles simple fractions, mixed fractions (1-1/2), additive quantities
+# (1+1/3, 1/2 + 1/2), and ranges without mistaking them for ingredient names.
+QUANTITY_ATOM = rf"{NUMBER}(?:\s*/\s*{NUMBER})?"
 QUANTITY_RE = re.compile(
-    rf"^(?P<quantity>(?:{NUMBER}\s*-\s*)?{NUMBER}(?:\s*/\s*{NUMBER})?(?:\s+to\s+{NUMBER}(?:\s*/\s*{NUMBER})?)?|a\s+(?:pinch|handful)|few)\s+",
+    rf"^(?P<quantity>(?:\d+\s*-\s*{QUANTITY_ATOM}|{QUANTITY_ATOM}(?:\s*\+\s*{QUANTITY_ATOM})?)(?:\s+to\s+{QUANTITY_ATOM})?|a\s+(?:pinch|handful)|few)\s+",
     re.IGNORECASE,
 )
 
@@ -147,34 +152,87 @@ def extract_aliases(name: str) -> tuple[str, tuple[str, ...]]:
 def parse_ingredient(raw_text: str) -> ParsedIngredient:
     raw_text = clean_text(raw_text)
     main, prep_note = split_note(raw_text)
+    # Some source rows omit the hyphen before usage notes.
+    note_match = re.search(r"\s+(to taste|as per taste|as per use|as required|as needed)$", main, re.I)
+    if note_match:
+        prep_note = prep_note or note_match.group(1)
+        main = main[:note_match.start()].strip()
+
     quantity_raw = unit_raw = unit = None
+    if norm_key(main) in {"as per taste", "as per use", "to taste", "as required", "as needed"}:
+        return ParsedIngredient(raw_text, None, None, None, "Unparsed ingredient fragment", (), main, bool(re.search(r"\boptional\b", raw_text, re.I)))
+
+    # Quantity-only fragments occasionally occur in the source after splitting
+    # malformed comma-separated ingredient strings. Keep the row for audit, but
+    # never promote a bare number/fraction to a canonical food ingredient.
+    if re.fullmatch(r"(?:\d+(?:\s*[-+]\s*\d+)?(?:\s*/\s*\d+)?(?:\s*\+\s*\d+(?:\s*/\s*\d+)?)?|[¼½¾])", main):
+        return ParsedIngredient(raw_text, main, None, None, "Unparsed ingredient fragment", (), prep_note, bool(re.search(r"\boptional\b", raw_text, re.I)))
+
     quantity_match = QUANTITY_RE.match(main)
     if quantity_match:
         quantity_raw = clean_text(quantity_match.group("quantity"))
         main = main[quantity_match.end():].strip()
-    unit_match = re.match(r"^([A-Za-z]+)\b\s*", main)
-    if unit_match:
-        candidate = unit_match.group(1).casefold()
-        if candidate in UNIT_ALIASES:
-            unit_raw = unit_match.group(1)
-            unit = UNIT_ALIASES[candidate]
-            main = main[unit_match.end():].strip()
+
+    # Source translations sometimes say "small teaspoon" or "large cup".
+    # Treat the size word as part of the measurement, not as an ingredient.
+    compound_match = re.match(r"^(small|medium|large|big)\s+(teaspoons?|tablespoons?|cups?|spoons?)\b\s*", main, re.I)
+    if compound_match:
+        unit_raw = clean_text(compound_match.group(0)).strip()
+        size_word, unit_word = compound_match.group(1).casefold(), compound_match.group(2).casefold()
+        if unit_word.startswith("spoon"):
+            unit = "tsp" if size_word == "small" else "tbsp"
+        else:
+            unit = UNIT_ALIASES[unit_word]
+        main = main[compound_match.end():].strip()
+    else:
+        # A word such as "cloves" can be a measurement ("2 cloves garlic") or
+        # the ingredient itself ("1 Cloves (Laung)"). Consume it as a unit only
+        # when meaningful ingredient text remains after the unit.
+        unit_match = re.match(r"^([A-Za-z]+)\b\s*", main)
+        if unit_match:
+            candidate = unit_match.group(1).casefold()
+            remainder = main[unit_match.end():].strip()
+            remainder_name, _ = extract_aliases(remainder)
+            if candidate in UNIT_ALIASES and remainder_name and norm_key(remainder_name):
+                unit_raw = unit_match.group(1)
+                unit = UNIT_ALIASES[candidate]
+                main = remainder
+
     ingredient_name, aliases = extract_aliases(main)
-    ingredient_name = ingredient_name or raw_text
+    ingredient_name = ingredient_name or clean_text(re.sub(r"\([^()]*\)", " ", main)) or raw_text
+    ingredient_name = re.sub(r"[\s\-–—,;:]+$", "", ingredient_name).strip()
+    if not norm_key(ingredient_name):
+        if aliases:
+            ingredient_name = aliases[0]
+            aliases = tuple(alias for alias in aliases if norm_key(alias) != norm_key(ingredient_name))
+        else:
+            ingredient_name = "Unparsed ingredient fragment"
     optional = bool(re.search(r"\boptional\b", raw_text, flags=re.I))
     return ParsedIngredient(raw_text, quantity_raw, unit_raw, unit, ingredient_name, aliases, prep_note, optional)
 
 
-def classify_ingredient(name: str) -> tuple[str, str, str]:
-    key = norm_key(name)
-    tokens = set(key.split())
+def classify_ingredient(name: str, alternatives: Iterable[str] = ()) -> tuple[str, str, str]:
+    keys = [norm_key(name)] + [norm_key(value) for value in alternatives if norm_key(value)]
+    # Prefer specific ingredient phrases and use observed aliases as evidence.
+    # This helps classify regional names when a parenthetical English alias exists.
+    matches: list[tuple[int, str]] = []
     for category, keywords in CATEGORY_RULES:
         for keyword in keywords:
             keyword_key = norm_key(keyword)
-            if keyword_key == key or keyword_key in key or set(keyword_key.split()).issubset(tokens):
-                dimension = "volume" if category in {"Liquids", "Oils & Fats"} else "count"
-                return category, "keyword_rule", dimension
-    return "Other / needs review", "unclassified", "count"
+            if not keyword_key:
+                continue
+            if any(re.search(rf"\b{re.escape(keyword_key)}\b", key) for key in keys):
+                matches.append((len(keyword_key), category))
+    if matches:
+        category = sorted(matches, key=lambda item: item[0], reverse=True)[0][1]
+        mass_categories = {
+            "Meat & Seafood", "Dairy & Eggs", "Vegetables", "Fruits", "Herbs",
+            "Spices & Seasonings", "Pulses & Legumes", "Grains & Flours",
+            "Nuts & Seeds", "Bakery & Pasta", "Sweeteners",
+        }
+        dimension = "volume" if category in {"Liquids", "Oils & Fats"} else ("mass" if category in mass_categories else "count")
+        return category, "keyword_rule", dimension
+    return "Other / needs review", "unclassified", "mass"
 
 
 class UnionFind:
@@ -222,14 +280,16 @@ def load_and_clean(source: Path) -> tuple[pd.DataFrame, pd.DataFrame, dict[str, 
     clean = clean.loc[~duplicate_mask].copy()
     clean["recipe_id"] = range(1, len(clean) + 1)
     def base_diet(value: str) -> str:
-        label = value.casefold()
-        if "non veget" in label:
+        label = clean_text(value).casefold()
+        if "non veget" in label or "non-veget" in label or "nonveget" in label:
             return "non_vegetarian"
         if "eggetarian" in label:
             return "eggetarian"
-        return "vegetarian"
+        if "veget" in label or "vegan" in label:
+            return "vegetarian"
+        return "unknown"
     clean["diet"] = clean["Diet"].map(base_diet)
-    plain_diets = {"vegetarian", "non vegeterian", "eggetarian"}
+    plain_diets = {"vegetarian", "non vegeterian", "non vegetarian", "non-vegetarian", "eggetarian", "vegan"}
     clean["specific_diet"] = clean["Diet"].where(~clean["Diet"].str.casefold().isin(plain_diets), "")
     stats = {"source_rows": raw_rows, "accepted_recipes": len(clean), "rejected_recipes": len(rejects)}
     return clean, rejects, stats
@@ -264,12 +324,21 @@ def build_catalog(parsed: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame, pd.
     catalog_rows, alias_rows = [], []
     for ingredient_id, (key, group) in enumerate(parsed.groupby("canonical_key", sort=True), start=1):
         name = clean_text(group["canonical_name"].iloc[0])
-        category, method, default_dimension = classify_ingredient(name)
+        aliases = set(group["ingredient_name_raw"].map(clean_text))
+        aliases.update(alias.strip() for joined in group["aliases_raw"] for alias in joined.split(" | ") if alias.strip())
+        aliases.add(name)
+        category, method, default_dimension = classify_ingredient(name, aliases)
         catalog_rows.append({
             "ingredient_id": ingredient_id, "canonical_name": name, "canonical_key": key,
             "ingredient_type": category, "classification_method": method,
             "default_unit_dimension": default_dimension,
-            "suggested_units": "ml, l, cup, tbsp, tsp" if default_dimension == "volume" else "piece, bunch, clove, slice",
+            "suggested_units": (
+                "ml, l, cup, tbsp, tsp" if category in {"Liquids", "Oils & Fats"}
+                else "g, kg, piece" if category in {"Vegetables", "Fruits", "Dairy & Eggs", "Meat & Seafood"}
+                else "g, tsp, tbsp" if category in {"Herbs", "Spices & Seasonings", "Sweeteners"}
+                else "g, kg, cup" if category in {"Pulses & Legumes", "Grains & Flours", "Nuts & Seeds"}
+                else "g, ml, piece, packet"
+            ),
             "is_staple": norm_key(name) in STAPLE_TERMS,
             "recipe_occurrences": int(len(group)), "recipe_count": int(group["recipe_id"].nunique()),
         })
@@ -280,6 +349,7 @@ def build_catalog(parsed: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame, pd.
             alias_rows.append({"ingredient_id": ingredient_id, "canonical_name": name, "alias": alias, "alias_key": norm_key(alias)})
     catalog = pd.DataFrame(catalog_rows)
     aliases = pd.DataFrame(alias_rows).drop_duplicates(["ingredient_id", "alias_key"])
+    aliases = aliases[aliases["alias_key"].ne("")].copy()
     parsed = parsed.merge(catalog[["ingredient_id", "canonical_key", "canonical_name"]], on=["canonical_key", "canonical_name"], how="left")
     return catalog, aliases, parsed
 
@@ -301,8 +371,11 @@ def write_outputs(clean: pd.DataFrame, rejects: pd.DataFrame, parsed: pd.DataFra
     aliases.to_csv(OUTPUT_DIR / "ingredient_aliases.csv", index=False)
     recipe_ingredients = parsed[["recipe_id", "ingredient_position", "ingredient_id", "canonical_name", "quantity_raw", "unit", "unit_dimension", "prep_note", "is_optional", "raw_text"]].copy()
     recipe_ingredients.to_csv(OUTPUT_DIR / "recipe_ingredients.csv", index=False)
-    recipe_ingredients[["recipe_id", "canonical_name", "quantity_raw", "unit"]].to_csv(OUTPUT_DIR / "recipe_ingredient_tuples.csv", index=False)
-    ingredient_recipes = recipe_ingredients.merge(recipes[["recipe_id", "recipe_name", "cuisine", "course", "diet"]], on="recipe_id", how="left")
+    # Keep malformed fragments in the detailed audit table, but do not advertise
+    # them as usable ingredients in app-facing tuple/reverse-lookup exports.
+    usable_ingredients = recipe_ingredients[recipe_ingredients["canonical_name"].ne("Unparsed ingredient fragment")].copy()
+    usable_ingredients[["recipe_id", "canonical_name", "quantity_raw", "unit"]].to_csv(OUTPUT_DIR / "recipe_ingredient_tuples.csv", index=False)
+    ingredient_recipes = usable_ingredients.merge(recipes[["recipe_id", "recipe_name", "cuisine", "course", "diet"]], on="recipe_id", how="left")
     ingredient_recipes[["ingredient_id", "canonical_name", "recipe_id", "recipe_name", "cuisine", "course", "diet"]].drop_duplicates().to_csv(OUTPUT_DIR / "ingredient_recipes.csv", index=False)
     unmatched = catalog[catalog["classification_method"].eq("unclassified")].sort_values(["recipe_occurrences", "canonical_name"], ascending=[False, True])
     unmatched.to_csv(OUTPUT_DIR / "ingredient_types_needing_review.csv", index=False)
@@ -322,7 +395,7 @@ def write_outputs(clean: pd.DataFrame, rejects: pd.DataFrame, parsed: pd.DataFra
     pd.DataFrame(
         [{"unit": unit, "dimension": UNIT_DIMENSIONS[unit]} for unit in sorted(UNIT_DIMENSIONS)]
     ).to_csv(OUTPUT_DIR / "units.csv", index=False)
-    suspicious = catalog[catalog["canonical_key"].isin({"long", "as per taste", "as per use", "take"})].copy()
+    suspicious = catalog[catalog["canonical_key"].isin({"long", "as per taste", "as per use", "take", "unparsed ingredient fragment"})].copy()
     suspicious["review_reason"] = "ambiguous_machine-translated ingredient phrase"
     suspicious.sort_values(["recipe_occurrences", "canonical_name"], ascending=[False, True]).to_csv(
         OUTPUT_DIR / "ingredient_parse_needs_review.csv", index=False
@@ -335,7 +408,8 @@ def write_outputs(clean: pd.DataFrame, rejects: pd.DataFrame, parsed: pd.DataFra
     })
     with (OUTPUT_DIR / "data_quality_report.json").open("w", encoding="utf-8") as file:
         json.dump(stats, file, indent=2)
-    (OUTPUT_DIR / "README.md").write_text(
+    if not (OUTPUT_DIR / "README.md").exists():
+        (OUTPUT_DIR / "README.md").write_text(
         "# PantryPal cleaned recipe data\n\n"
         "Generated by `build_recipe_data.py`. Source ZIP remains unchanged.\n\n"
         "- `recipes_clean.csv`: translated recipe catalog and app filters.\n"
@@ -351,7 +425,7 @@ def write_outputs(clean: pd.DataFrame, rejects: pd.DataFrame, parsed: pd.DataFra
         "- `recipe_rejects.csv` and `data_quality_report.json`: reconciliation evidence.\n\n"
         "Category labels are seed metadata inferred from ingredient text; review the exceptions before enforcing category-specific inventory unit rules.\n",
         encoding="utf-8",
-    )
+        )
 
 
 def run_pipeline() -> dict[str, int]:
@@ -374,11 +448,19 @@ def run_parser_tests() -> None:
         "Salt - to taste": (None, None, "Salt", (), "to taste"),
         "Sunflower Oil - as required": (None, None, "Sunflower Oil", (), "as required"),
         "500 grams Vellai Poosanikai (Ash gourd/White Pumpkin)": ("500", "g", "Vellai Poosanikai", ("Ash gourd", "White Pumpkin"), None),
+        "1+1/3 cups Sugar": ("1+1/3", "cup", "Sugar", (), None),
+        "1/2 + 1/2 cups Milk": ("1/2 + 1/2", "cup", "Milk", (), None),
+        "1 Cloves (Laung)": ("1", None, "Cloves", ("Laung",), None),
+        "Salt as per taste": (None, None, "Salt", (), "as per taste"),
+        "1 small Spoon coriander powder": ("1", "tsp", "coriander powder", (), None),
+        "2 Cloves (Laung) -": ("2", None, "Cloves", ("Laung",), None),
     }
     for text, expected in cases.items():
         actual = parse_ingredient(text)
         observed = (actual.quantity_raw, actual.unit, actual.ingredient_name, actual.aliases, actual.prep_note)
         assert observed == expected, f"{text!r}: expected {expected}, got {observed}"
+    fragment = parse_ingredient("1/2")
+    assert (fragment.quantity_raw, fragment.ingredient_name) == ("1/2", "Unparsed ingredient fragment")
     assert split_outside_parentheses("A (one, two), B") == ["A (one, two)", "B"]
     raw = pd.read_csv(SOURCE_FILE, compression="zip", dtype=str, keep_default_na=False)
     real_segments = []

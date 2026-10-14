@@ -1,0 +1,2045 @@
+ingredient_id,canonical_name,alias,alias_key
+1,1/2,1/2,1 2
+2,1/2 + 1/2 cups Milk,1/2 + 1/2 cups Milk,1 2 1 2 cups milk
+3,1/2-1 cup Milk chocolate,1/2-1 cup Milk chocolate,1 2 1 cup milk chocolate
+4,1/2-1 tablespoon Lemon juice,1/2-1 tablespoon Lemon juice,1 2 1 tablespoon lemon juice
+5,1/2 cup All Purpose Flour,1/2 cup All Purpose Flour,1 2 cup all purpose flour
+5,1/2 cup All Purpose Flour,Maida,maida
+6,1/2 cup Baby Potatoes,1/2 cup Baby Potatoes,1 2 cup baby potato
+7,1/2 cup Basmati rice,1/2 cup Basmati rice,1 2 cup basmati rice
+8,1/2 cup carrots,1/2 cup carrots,1 2 cup carrot
+9,1/2 cup Chicken stock,1/2 cup Chicken stock,1 2 cup chicken stock
+10,1/2 cup Curd,1/2 cup Curd,1 2 cup curd
+10,1/2 cup Curd,Dahi,dahi
+10,1/2 cup Curd,Yogurt,yogurt
+11,1/2 cup Digestive biscuit,1/2 cup Digestive biscuit,1 2 cup digestive biscuit
+12,1/2 cup Green zucchini,1/2 cup Green zucchini,1 2 cup green zucchini
+13,1/2 cup Hakka Noodles,1/2 cup Hakka Noodles,1 2 cup hakka noodle
+14,1/2 cup Hung Curd,1/2 cup Hung Curd,1 2 cup hung curd
+14,1/2 cup Hung Curd,Greek Yogurt,greek yogurt
+15,1/2 cup Instant Oats,1/2 cup Instant Oats,1 2 cup instant oat
+15,1/2 cup Instant Oats,Oatmeal,oatmeal
+16,1/2 cup Jowar Flour,1/2 cup Jowar Flour,1 2 cup jowar flour
+16,1/2 cup Jowar Flour,Sorghum,sorghum
+17,1/2 cup Kabuli Chana,1/2 cup Kabuli Chana,1 2 cup kabuli chana
+17,1/2 cup Kabuli Chana,White Chickpeas,white chickpea
+18,1/2 cup Makki Ka Atta,1/2 cup Makki Ka Atta,1 2 cup makki ka atta
+18,1/2 cup Makki Ka Atta,Yellow Corn Meal Flour,yellow corn meal flour
+19,1/2 cup Milk,1/2 cup Milk,1 2 cup milk
+20,1/2 cup Red matta rice,1/2 cup Red matta rice,1 2 cup red matta rice
+21,1/2 cup Rice flour,1/2 cup Rice flour,1 2 cup rice flour
+22,1/2 cup Rice rava,1/2 cup Rice rava,1 2 cup rice rava
+23,1/2 cup Sooji,1/2 cup Sooji,1 2 cup sooji
+23,1/2 cup Sooji,Rava,rava
+23,1/2 cup Sooji,Semolina,semolina
+24,1/2 cup Sour cream,1/2 cup Sour cream,1 2 cup sour cream
+25,1/2 cup Spinach Leaves,1/2 cup Spinach Leaves,1 2 cup spinach leaf
+25,1/2 cup Spinach Leaves,Palak,palak
+26,1/2 cup Sweet Potatoes,1/2 cup Sweet Potatoes,1 2 cup sweet potato
+27,1/2 cup Tender coconut water,1/2 cup Tender coconut water,1 2 cup tender coconut water
+28,1/2 cup Vegetable stock,1/2 cup Vegetable stock,1 2 cup vegetable stock
+29,1/2 cup Water,1/2 cup Water,1 2 cup water
+30,1/2 cup Whole Wheat Flour,1/2 cup Whole Wheat Flour,1 2 cup wheat flour
+31,1/2 cups All Purpose Flour,1/2 cups All Purpose Flour,1 2 cups all purpose flour
+31,1/2 cups All Purpose Flour,Maida,maida
+32,1/2 cups Avarekalu / Lilva Beans,1/2 cups Avarekalu / Lilva Beans,1 2 cups avarekalu lilva bean
+33,1/2 cups Basmati rice,1/2 cups Basmati rice,1 2 cups basmati rice
+34,1/2 cups Bean Sprouts,1/2 cups Bean Sprouts,1 2 cups bean sprout
+35,1/2 cups Buttermilk,1/2 cups Buttermilk,1 2 cups buttermilk
+36,1/2 cups Chocolate chips,1/2 cups Chocolate chips,1 2 cups chocolate chip
+37,1/2 cups Chocolate wafers,1/2 cups Chocolate wafers,1 2 cups chocolate wafer
+38,1/2 cups Fresh cream,1/2 cups Fresh cream,1 2 cups cream
+39,1/2 cups Digestive biscuit,1/2 cups Digestive biscuit,1 2 cups digestive biscuit
+40,1/2 cups Dried Figs,1/2 cups Dried Figs,1 2 cups dried fig
+41,1/2 cups Drumstick Leaves,1/2 cups Drumstick Leaves,1 2 cups drumstick leaf
+41,1/2 cups Drumstick Leaves,Moringa,moringa
+41,1/2 cups Drumstick Leaves,Murungai Keerai,murungai keerai
+42,1/2 cups Foxtail Millet,1/2 cups Foxtail Millet,1 2 cups foxtail millet
+43,1/2 cups Gram flour,1/2 cups Gram flour,1 2 cups gram flour
+43,1/2 cups Gram flour,besan,besan
+44,1/2 cups Hot water,1/2 cups Hot water,1 2 cups hot water
+45,1/2 cups Kabuli Chana,1/2 cups Kabuli Chana,1 2 cups kabuli chana
+45,1/2 cups Kabuli Chana,White Chickpeas,white chickpea
+46,1/2 cups Kale,1/2 cups Kale,1 2 cups kale
+47,1/2 cups Mango,1/2 cups Mango,1 2 cups mango
+47,1/2 cups Mango,Ripe,ripe
+48,1/2 cups Mango Pulp,1/2 cups Mango Pulp,1 2 cups mango pulp
+48,1/2 cups Mango Pulp,Puree,puree
+49,1/2 cups Methi Leaves,1/2 cups Methi Leaves,1 2 cups methi leaf
+49,1/2 cups Methi Leaves,Fenugreek Leaves,fenugreek leaf
+50,1/2 cups Milk,1/2 cups Milk,1 2 cups milk
+51,1/2 cups Mixed vegetables,1/2 cups Mixed vegetables,1 2 cups mixed vegetable
+52,1/2 cups poha,1/2 cups poha,1 2 cups poha
+52,1/2 cups poha,Flattened rice,flattened rice
+53,1/2 Cups Rajma,1/2 Cups Rajma,1 2 cups rajma
+53,1/2 Cups Rajma,Large Kidney Beans,large kidney bean
+54,1/2 cups Rice,1/2 cups Rice,1 2 cups rice
+55,1/2 cups Seeraga Samba rice,1/2 cups Seeraga Samba rice,1 2 cups seeraga samba rice
+55,1/2 cups Seeraga Samba rice,Jeeraga,jeeraga
+56,1/2 cups Sooji,1/2 cups Sooji,1 2 cups sooji
+56,1/2 cups Sooji,Rava,rava
+56,1/2 cups Sooji,Semolina,semolina
+57,1/2 cups Sugar,1/2 cups Sugar,1 2 cups sugar
+58,1/2 cups Sunflower Oil,1/2 cups Sunflower Oil,1 2 cups sunflower oil
+59,1/2 cups Vegetable stock,1/2 cups Vegetable stock,1 2 cups vegetable stock
+60,1/2 cups Vellai Poosanikai,1/2 cups Vellai Poosanikai,1 2 cups vellai poosanikai
+60,1/2 cups Vellai Poosanikai,Ash gourd,ash gourd
+60,1/2 cups Vellai Poosanikai,White Pumpkin,white pumpkin
+61,1/2 cups Vivatta Maida,1/2 cups Vivatta Maida,1 2 cups vivatta maida
+62,1/2 cups Water,1/2 cups Water,1 2 cups water
+63,1/2 cups Whole Wheat Flour,1/2 cups Whole Wheat Flour,1 2 cups wheat flour
+64,1/2 inch Ginger,1/2 inch Ginger,1 2 inch ginger
+65,1/2 liter Chocolate Ice cream,1/2 liter Chocolate Ice cream,1 2 liter chocolate ice cream
+66,1/2 liter Milk,1/2 liter Milk,1 2 liter milk
+67,1/2 liter Vanilla Ice cream,1/2 liter Vanilla Ice cream,1 2 liter vanilla ice cream
+68,1/2 tablespoon Butter,1/2 tablespoon Butter,1 2 tablespoon butter
+69,1/2 tablespoon Coriander Powder,1/2 tablespoon Coriander Powder,1 2 tablespoon coriander powder
+69,1/2 tablespoon Coriander Powder,Dhania,dhania
+70,1/2 tablespoon Coriander Seeds,1/2 tablespoon Coriander Seeds,1 2 tablespoon coriander seed
+70,1/2 tablespoon Coriander Seeds,Dhania,dhania
+71,1/2 tablespoon Corn flour,1/2 tablespoon Corn flour,1 2 tablespoon corn flour
+72,1/2 tablespoon Curry powder,1/2 tablespoon Curry powder,1 2 tablespoon curry powder
+73,1/2 tablespoon Dessicated Coconut,1/2 tablespoon Dessicated Coconut,1 2 tablespoon dessicated coconut
+74,1/2 tablespoon Ginger,1/2 tablespoon Ginger,1 2 tablespoon ginger
+75,1/2 tablespoon Kashmiri Red Chilli Powder,1/2 tablespoon Kashmiri Red Chilli Powder,1 2 tablespoon kashmiri red chilli powder
+76,1/2 tablespoon Lahsun Ki Chutney,1/2 tablespoon Lahsun Ki Chutney,1 2 tablespoon lahsun ki chutney
+76,1/2 tablespoon Lahsun Ki Chutney,Red Garlic Chutney,red garlic chutney
+77,1/2 tablespoon Lemongrass,1/2 tablespoon Lemongrass,1 2 tablespoon lemongrass
+78,1/2 tablespoon Mustard oil,1/2 tablespoon Mustard oil,1 2 tablespoon mustard oil
+79,1/2 tablespoon Peepramul powder,1/2 tablespoon Peepramul powder,1 2 tablespoon peepramul powder
+79,1/2 tablespoon Peepramul powder,ganthoda,ganthoda
+80,1/2 tablespoon Sweet Chutney,1/2 tablespoon Sweet Chutney,1 2 tablespoon sweet chutney
+80,1/2 tablespoon Sweet Chutney,Date & Tamarind,date tamarind
+81,1/2 tablespoons Butter,1/2 tablespoons Butter,1 2 tablespoons butter
+82,1/2 tablespoons Coriander Seeds,1/2 tablespoons Coriander Seeds,1 2 tablespoons coriander seed
+82,1/2 tablespoons Coriander Seeds,Dhania,dhania
+83,1/2 tablespoons Corn flour,1/2 tablespoons Corn flour,1 2 tablespoons corn flour
+84,1/2 tablespoons Garlic,1/2 tablespoons Garlic,1 2 tablespoons garlic
+85,1/2 tablespoons Ginger,1/2 tablespoons Ginger,1 2 tablespoons ginger
+86,1/2 tablespoons Gram flour,1/2 tablespoons Gram flour,1 2 tablespoons gram flour
+86,1/2 tablespoons Gram flour,besan,besan
+87,1/2 tablespoons Instant Oats,1/2 tablespoons Instant Oats,1 2 tablespoons instant oat
+87,1/2 tablespoons Instant Oats,Oatmeal,oatmeal
+88,1/2 tablespoons Mustard seeds,1/2 tablespoons Mustard seeds,1 2 tablespoons mustard seed
+89,1/2 tablespoons Sesame seeds,1/2 tablespoons Sesame seeds,1 2 tablespoons sesame seed
+89,1/2 tablespoons Sesame seeds,Til seeds,til seed
+90,1/2 tablespoons Sunflower Oil,1/2 tablespoons Sunflower Oil,1 2 tablespoons sunflower oil
+91,1/2 tablespoons Whole Wheat Flour,1/2 tablespoons Whole Wheat Flour,1 2 tablespoons wheat flour
+92,1/2 teaspoon Active dry yeast,1/2 teaspoon Active dry yeast,1 2 teaspoon active dry yeast
+93,1/2 teaspoon Brown Sugar,1/2 teaspoon Brown Sugar,1 2 teaspoon brown sugar
+93,1/2 teaspoon Brown Sugar,Demerara Sugar,demerara sugar
+94,1/2 teaspoon Butter,1/2 teaspoon Butter,1 2 teaspoon butter
+95,1/2 teaspoon Coriander Powder,1/2 teaspoon Coriander Powder,1 2 teaspoon coriander powder
+95,1/2 teaspoon Coriander Powder,Dhania,dhania
+96,1/2 teaspoon Dried oregano,1/2 teaspoon Dried oregano,1 2 teaspoon dried oregano
+97,1/2 teaspoon Extra Virgin Olive Oil,1/2 teaspoon Extra Virgin Olive Oil,1 2 teaspoon extra virgin olive oil
+98,1/2 teaspoon Garam masala powder,1/2 teaspoon Garam masala powder,1 2 teaspoon garam masala powder
+99,1/2 teaspoon Ginger Garlic Paste,1/2 teaspoon Ginger Garlic Paste,1 2 teaspoon ginger garlic paste
+100,1/2 teaspoon Kashmiri Red Chilli Powder,1/2 teaspoon Kashmiri Red Chilli Powder,1 2 teaspoon kashmiri red chilli powder
+101,1/2 teaspoon mustard,1/2 teaspoon mustard,1 2 teaspoon mustard
+102,1/2 teaspoon Mustard seeds,1/2 teaspoon Mustard seeds,1 2 teaspoon mustard seed
+103,1/2 teaspoon Paprika powder,1/2 teaspoon Paprika powder,1 2 teaspoon paprika powder
+104,1/2 teaspoon Red Chilli powder,1/2 teaspoon Red Chilli powder,1 2 teaspoon red chilli powder
+105,1/2 teaspoon Salt,1/2 teaspoon Salt,1 2 teaspoon salt
+106,1/2 teaspoon Turmeric powder,1/2 teaspoon Turmeric powder,1 2 teaspoon turmeric powder
+106,1/2 teaspoon Turmeric powder,Haldi,haldi
+107,1/2 teaspoon Vanilla Extract,1/2 teaspoon Vanilla Extract,1 2 teaspoon vanilla extract
+108,1/2 teaspoon Vinegar,1/2 teaspoon Vinegar,1 2 teaspoon vinegar
+109,1/2 teaspoons Baking powder,1/2 teaspoons Baking powder,1 2 teaspoons baking powder
+110,1/2 teaspoons Coriander Powder,1/2 teaspoons Coriander Powder,1 2 teaspoons coriander powder
+110,1/2 teaspoons Coriander Powder,Dhania,dhania
+111,1/2 teaspoons Gram flour,1/2 teaspoons Gram flour,1 2 teaspoons gram flour
+111,1/2 teaspoons Gram flour,besan,besan
+112,1/2 teaspoons Mustard seeds,1/2 teaspoons Mustard seeds,1 2 teaspoons mustard seed
+113,1/2 teaspoons Red Chilli powder,1/2 teaspoons Red Chilli powder,1 2 teaspoons red chilli powder
+114,1/2 teaspoons Vanilla Extract,1/2 teaspoons Vanilla Extract,1 2 teaspoons vanilla extract
+115,1/2 Whole Wheat Flour,1/2 Whole Wheat Flour,1 2 wheat flour
+116,1/3 cups Watermelon,1/3 cups Watermelon,1 3 cups watermelon
+117,1/4-1/2 teaspoon Salt,1/4-1/2 teaspoon Salt,1 4 1 2 teaspoon salt
+118,1/4 Cabbage,1/4 Cabbage,1 4 cabbage
+118,1/4 Cabbage,Muttaikose,muttaikose
+118,1/4 Cabbage,Patta Gobi,patta gobi
+119,1/4 cup Dark Chocolate Chips,1/4 cup Dark Chocolate Chips,1 4 cup dark chocolate chip
+120,1/4 cup Rolled Oats,1/4 cup Rolled Oats,1 4 cup rolled oat
+121,1/4 cup Sugar,1/4 cup Sugar,1 4 cup sugar
+122,1/4 cup White Urad Dal,1/4 cup White Urad Dal,1 4 cup white urad dal
+123,1/4 cups Cashew nuts,1/4 cups Cashew nuts,1 4 cups cashew nut
+124,1/4 cups Rolled Oats,1/4 cups Rolled Oats,1 4 cups rolled oat
+125,1/4 cups Sooji,1/4 cups Sooji,1 4 cups sooji
+125,1/4 cups Sooji,Rava,rava
+125,1/4 cups Sooji,Semolina,semolina
+126,1//4 cups Sugar,1//4 cups Sugar,1 4 cups sugar
+127,1/4 cups Water,1/4 cups Water,1 4 cups water
+128,1/4 cups Whole Wheat Flour,1/4 cups Whole Wheat Flour,1 4 cups wheat flour
+129,1/4 teaspoon Active dry yeast,1/4 teaspoon Active dry yeast,1 4 teaspoon active dry yeast
+130,1/4 teaspoon Baking powder,1/4 teaspoon Baking powder,1 4 teaspoon baking powder
+131,1 teaspoon coriander powder,1 teaspoon coriander powder,1 teaspoon coriander powder
+132,1 tsp turmeric powder,1 tsp turmeric powder,1 tsp turmeric powder
+133,2 tsp cumin seeds,2 tsp cumin seeds,2 tsp cumin seed
+134,3/4-1 cup Green Moong Sprouts,3/4-1 cup Green Moong Sprouts,3 4 1 cup green moong sprout
+135,3/4 cup Coconut milk,3/4 cup Coconut milk,3 4 cup coconut milk
+136,– 3/4 cup Lukewarm Water,– 3/4 cup Lukewarm Water,3 4 cup lukewarm water
+137,3/4 cups Condensed Milk,3/4 cups Condensed Milk,3 4 cups condensed milk
+138,-3 Green Chillies,-3 Green Chillies,3 green chilly
+139,4 tsp asafoetida,4 tsp asafoetida,4 tsp asafoetida
+140,Aachi Fish Masala,Aachi Fish Masala,aachi fish masala
+141,Aam Papad,Aam Papad,aam papad
+141,Aam Papad,Sun Dried Mango,sun dried mango
+142,Aamras,Aamras,aamra
+143,Aar Maach,Aar Maach,aar maach
+143,Aar Maach,fish,fish
+144,according,according,according
+145,Achari masala,Achari masala,achari masala
+146,Achari Mayo,Achari Mayo,achari mayo
+147,Acorn Squash,Acorn Squash,acorn squash
+148,Active dry yeast,active dry yeast,active dry yeast
+149,Ada,Ada,ada
+150,Adobo Sauce,Adobo Sauce,adobo sauce
+151,Aerated water,Aerated water,aerated water
+151,Aerated water,Soda Water,soda water
+152,Agar agar,Agar agar,agar agar
+153,Agathi keerai,Agathi keerai,agathi keerai
+154,Ajwain,Ajwain,ajwain
+154,Ajwain,Carom seeds,carom seed
+155,Alfalfa Powder,Alfalfa Powder,alfalfa powder
+156,Alfalfa Sprouts,Alfalfa Sprouts,alfalfa sprout
+157,All Purpose Flour,all purpose flour,all purpose flour
+157,All Purpose Flour,Maida,maida
+158,All Purpose Pie Crust,All Purpose Pie Crust,all purpose pie crust
+159,All spice powder,All spice powder,all spice powder
+160,almonds,almond,almond
+161,Almond butter,Almond butter,almond butter
+162,Almond essence,Almond essence,almond essence
+162,Almond essence,Badam Essence,badam essence
+163,Almond Meal,Almond Meal,almond meal
+163,Almond Meal,Badam Powder,badam powder
+164,Almond Milk,almond milk,almond milk
+164,Almond Milk,Badam Milk,badam milk
+165,Almond Oil,Almond Oil,almond oil
+165,Almond Oil,Badam Oil,badam oil
+166,Aloe vera extract,Aloe vera extract,aloe vera extract
+167,Aloo Bhujia,Aloo Bhujia,aloo bhujia
+168,Aloo Tikki,Aloo Tikki,aloo tikki
+168,Aloo Tikki,Potato,potato
+169,Alu bukhara,Alu bukhara,alu bukhara
+170,Amaranth leaves,Amaranth leaves,amaranth leaf
+171,Amaranth Seeds,Amaranth Seeds,amaranth seed
+171,Amaranth Seeds,Rajgira,rajgira
+172,Amchoor,Amchoor,amchoor
+173,Amchoor powder,Amchoor powder,amchoor powder
+174,Amchur,Amchur,amchur
+174,Amchur,Dry Mango Powder,dry mango powder
+175,Amchur powder,Amchur powder,amchur powder
+176,Amla,amla,amla
+176,Amla,Gooseberry,gooseberry
+176,Amla,Nellikai,nellikai
+177,Anardana Powder,Anardana Powder,anardana powder
+177,Anardana Powder,Pomegranate Seed Powder,pomegranate seed powder
+178,aniseed,aniseed,aniseed
+179,Apple,apple,apple
+180,Apple cider vinegar,Apple cider vinegar,apple cider vinegar
+181,Apple juice,Apple juice,apple juice
+182,Apple puree,Apple puree,apple puree
+183,Apple Vodka,Apple Vodka,apple vodka
+184,Apricots,Apricots,apricot
+185,arabic,arabic,arabic
+186,arabica,arabica,arabica
+187,arbi,arbi,arbi
+188,Arborio rice,Arborio rice,arborio rice
+189,Arhar dal,arhar dal,arhar dal
+190,Arisithipli,Arisithipli,arisithipli
+191,Arrowroot flour,Arrowroot flour,arrowroot flour
+192,Artichokes,Artichokes,artichoke
+193,Arugula leaves,Arugula leaves,arugula leaf
+194,as much as 1/4 tsp rye,as much as 1/4 tsp rye,as much as 1 4 tsp rye
+195,as per the experiment,as per the experiment,as per experiment
+196,as per taste Red chili powder,as per taste Red chili powder,as per taste red chili powder
+197,as per taste Rye,as per taste Rye,as per taste rye
+198,asafetida,asafetida,asafetida
+199,Asafoetida,asafoetida,asafoetida
+199,Asafoetida,hing,hing
+200,Ash Gourd Chips,Ash Gourd Chips,ash gourd chip
+201,Asparagus,Asparagus,asparagu
+202,Assam tea leaves,Assam tea leaves,assam tea leaf
+203,Aubergine,Aubergine,aubergine
+204,Avarekai,Avarekai,avarekai
+204,Avarekai,Broad Beans,broad bean
+205,Avarekalu / Lilva Beans,Avarekalu / Lilva Beans,avarekalu lilva bean
+206,Avocado,Avocado,avocado
+207,avrekalu,avrekalu,avrekalu
+208,Baby corn,Baby corn,baby corn
+209,Baby Potatoes,Baby Potatoes,baby potato
+210,Baby spinach,Baby spinach,baby spinach
+211,Bacon,Bacon,bacon
+212,Bacon strips,Bacon strips,bacon strip
+213,Badam,Almond,almond
+213,Badam,Badam,badam
+214,Badi,Badi,badi
+214,Badi,wadi,wadi
+215,Badi hari mirch,Badi hari mirch,badi hari mirch
+215,Badi hari mirch,Large Green Chilli,large green chilli
+216,Bagel,Bagel,bagel
+217,Baguette,Baguette,baguette
+218,Baileys Irish Cream,Baileys Irish Cream,baileys irish cream
+219,Bajra,Bajra,bajra
+219,Bajra,seeds,seed
+220,Bajra Dosa Batter,Bajra Dosa Batter,bajra dosa batter
+221,Bajra Flour,Bajra Flour,bajra flour
+221,Bajra Flour,Pearl Millet,pearl millet
+222,Baked beans,Baked beans,baked bean
+223,Baking powder,Baking powder,baking powder
+224,Baking soda,baking soda,baking soda
+225,Balsamic Vinegar,Balsamic Vinegar,balsamic vinegar
+226,Bamboo shoots,Bamboo shoots,bamboo shoot
+227,Bamboo shots,Bamboo shots,bamboo shot
+228,banana,banana,banana
+229,Banana flower,Banana flower,banana flower
+229,Banana flower,Vazhaipoo,vazhaipoo
+230,Banana leaf,Banana leaf,banana leaf
+231,Banana Stem,Banana Stem,banana stem
+232,Barbeque masala,Barbeque masala,barbeque masala
+233,Barbeque sauce,Barbeque sauce,barbeque sauce
+234,Barley,Barley,barley
+234,Barley,seeds,seed
+235,Barley flour,Barley flour,barley flour
+236,Barnyard Millet,Barnyard Millet,barnyard millet
+236,Barnyard Millet,Bhagar Flour,bhagar flour
+237,Basa fish,Basa fish,basa fish
+238,Basella,Basella,basella
+238,Basella,Malabar Spinach,malabar spinach
+239,Basil leaves,Basil leaves,basil leaf
+240,Basil powder,Basil powder,basil powder
+241,Basmati rice,Basmati rice,basmati rice
+242,Bathua leaves,Bathua leaves,bathua leaf
+243,Bay leaf,bay leaf,bay leaf
+243,Bay leaf,tej patta,tej patta
+244,BC Belle Bhat powder,BC Belle Bhat powder,bc belle bhat powder
+245,Bean Paste,Bean Paste,bean paste
+246,Bean Sprouts,Bean Sprouts,bean sprout
+247,Beef,Beef,beef
+248,Beer,Beer,beer
+249,Beetroot,beetroot,beetroot
+250,Beetroot Greens,Beetroot Greens,beetroot green
+251,Beetroot juice,Beetroot juice,beetroot juice
+252,Beetroot Puree,Beetroot Puree,beetroot puree
+253,Ber,Ber,ber
+254,Betel leaves,Betel leaves,betel leaf
+254,Betel leaves,paan,paan
+255,Betel Nut,Betel Nut,betel nut
+255,Betel Nut,Supari,supari
+256,Bhaja masala,Bhaja masala,bhaja masala
+257,Bhakarwdis,Bhakarwdis,bhakarwdi
+258,Bhang paste,Bhang paste,bhang paste
+259,Bhetki fish,Bhetki fish,bhetki fish
+260,Bhindi,Bhindi,bhindi
+260,Bhindi,Lady Finger,lady finger
+260,Bhindi,Okra,okra
+261,Bhindi/Okra/Vendaikkai,Bhindi/Okra/Vendaikkai,bhindi okra vendaikkai
+262,big cardamom,big cardamom,big cardamom
+263,Bimbla,Bilimbi,bilimbi
+263,Bimbla,Bimbla,bimbla
+264,Biryani Masala,Biryani Masala,biryani masala
+265,Biryani Masala Powder,Biryani Masala Powder,biryani masala powder
+266,Bisi Bele Bhat Spice Powder,Bisi Bele Bhat Spice Powder,bisi bele bhat spice powder
+267,Bisleri Fonzo,Bisleri Fonzo,bisleri fonzo
+268,bitter gourd,bitter gourd,bitter gourd
+269,Bitter sweet chocolate,Bitter sweet chocolate,bitter sweet chocolate
+270,Black beans,Black beans,black bean
+271,Black beans sauce,Black beans sauce,black beans sauce
+272,Black cardamom,Badi Elaichi,badi elaichi
+272,Black cardamom,Black cardamom,black cardamom
+273,black Chili Powder,black Chili Powder,black chili powder
+274,black cumin,black cumin,black cumin
+275,Black Currant Ice Cream,Black Currant Ice Cream,black currant ice cream
+276,Black Eyed Beans,Black Eyed Beans,black eyed bean
+276,Black Eyed Beans,Lobia,lobia
+277,black gram,black gram,black gram
+278,Black grapes,Black grapes,black grape
+279,Black olives,Black olives,black olive
+280,whole black pepper,whole black pepper,black pepper
+281,Whole Black Pepper Corns,Black pepper corns,black pepper corn
+282,Black pepper powder,black pepper powder,black pepper powder
+283,Whole Black Peppercorns,Whole Black Peppercorns,black peppercorn
+284,Black raisins,Black raisins,black raisin
+285,Black Rice,black rice,black rice
+286,Black Salt,Black Salt,black salt
+286,Black Salt,Kala Namak,kala namak
+287,black salt or rock salt,black salt or rock salt,black salt or rock salt
+288,Black sesame seeds,Black sesame seeds,black sesame seed
+289,Black Soy Beans,Black Soy Beans,black soy bean
+290,Black tea,Black tea,black tea
+291,Black Urad Dal,black urad dal,black urad dal
+292,Blackberries,Blackberries,blackberry
+293,Blanched tomatoes,Blanched tomatoes,blanched tomato
+294,Blueberries,Blueberries,blueberry
+295,Blueberry Jam,Blueberry Jam,blueberry jam
+296,Bocconcini Cheese,Bocconcini Cheese,bocconcini cheese
+297,Boiled egg,Boiled egg,boiled egg
+298,Boiled Peanuts,Boiled Peanuts,boiled peanut
+299,Bok Choy,Bok Choy,bok choy
+300,Boneless chicken,Boneless chicken,boneless chicken
+301,Boondi,Boondi,boondi
+302,Botis,Botis,boti
+303,Bottle gourd,Bottle gourd,bottle gourd
+303,Bottle gourd,lauki,lauki
+304,Bourbon,Bourbon,bourbon
+305,Bourbon Biscuits,Bourbon Biscuits,bourbon biscuit
+306,Brahmi leaves,Brahmi leaves,brahmi leaf
+307,branch green coriander,branch green coriander,branch green coriander
+308,Brandy,Brandy,brandy
+309,breads,bread,bread
+310,bread crumbs,bread crumbs,bread crumb
+311,Brie cheese,Brie cheese,brie cheese
+312,Brinjal,Baingan,baingan
+312,Brinjal,Brinjal,brinjal
+312,Brinjal,Eggplant,eggplant
+313,Britannia Cheese Block,Britannia Cheese Block,britannia cheese block
+314,Britannia Cheese Cubes,Britannia Cheese Cubes,britannia cheese cube
+315,Britannia Cheese Slice,Britannia Cheese Slice,britannia cheese slice
+316,Britannia Cheese Spread,Britannia Cheese Spread,britannia cheese spread
+317,Britannia Cheezza,Britannia Cheezza,britannia cheezza
+318,Britannia Cream Cheese,Britannia Cream Cheese,britannia cream cheese
+319,Broccoli,Broccoli,broccoli
+320,Broken Raw Rice,Broken Raw Rice,broken raw rice
+321,Broken Wheat,Broken Wheat,broken wheat
+321,Broken Wheat,Dalia,dalia
+321,Broken Wheat,Godumai Rava,godumai rava
+322,Brown cardamom,Badi Elaichi,badi elaichi
+322,Brown cardamom,Brown cardamom,brown cardamom
+323,Brown Rice,Brown Rice,brown rice
+324,Brown rice flakes,Brown rice flakes,brown rice flake
+325,Brown Sugar,Brown Sugar,brown sugar
+325,Brown Sugar,Demerara Sugar,demerara sugar
+326,Brussel sprouts,Brussel sprouts,brussel sprout
+327,Buckwheat Flour,Buckwheat Flour,buckwheat flour
+327,Buckwheat Flour,Kuttu Ka Atta,kuttu ka atta
+328,bud garlic,bud garlic,bud garlic
+329,bud long,bud long,bud long
+330,buds Garlic,buds Garlic,buds garlic
+331,Bulgur wheat,Bulgur wheat,bulgur wheat
+332,Burger buns,Burger buns,burger bun
+333,Butter,butter,butter
+333,Butter,unsalted,unsalted
+334,Buttermilk,Buttermilk,buttermilk
+335,Butternut squash,Butternut squash,butternut squash
+336,Butterscotch Chips,Butterscotch Chips,butterscotch chip
+337,Butterscotch ice cream,Butterscotch ice cream,butterscotch ice cream
+338,Button mushrooms,Button Mushroom,button mushroom
+339,Byadagi Chilli Powder,Byadagi Chilli Powder,byadagi chilli powder
+340,Byadagi Dried Chillies,Byadagi Dried Chillies,byadagi dried chilly
+341,Cabbage,cabbage,cabbage
+341,Cabbage,Muttaikose,muttaikose
+341,Cabbage,Patta Gobi,patta gobi
+342,cabbage leaves,cabbage leaves,cabbage leaf
+343,Cajun spice mix,Cajun spice mix,cajun spice mix
+344,Cake Mix,Cake Mix,cake mix
+345,Candied orange peel,Candied orange peel,candied orange peel
+346,Candy Sugar,Candy Sugar,candy sugar
+347,Cane sugar,Cane sugar,cane sugar
+348,Canned beans,Canned beans,canned bean
+349,Canned black beans,Canned black beans,canned black bean
+350,Canned Cherries,Canned Cherries,canned cherry
+351,Canned tuna,Canned tuna,canned tuna
+352,Canola Oil,Canola Oil,canola oil
+353,Cape Gooseberries,Cape Gooseberries,cape gooseberry
+354,Capers,Capers,caper
+355,capsicum,Capsicum,capsicum
+355,capsicum,green,green
+355,capsicum,pili,pili
+355,capsicum,red,red
+355,capsicum,yellow,yellow
+356,Caramel Sauce,Caramel Sauce,caramel sauce
+357,Caramelized onions,Caramelized onions,caramelized onion
+358,cardamom,cardamom,cardamom
+359,cardamom Crush,cardamom Crush,cardamom crush
+360,Cardamom Pods/Seeds,Cardamom Pods/Seeds,cardamom pods seed
+360,Cardamom Pods/Seeds,Elaichi,elaichi
+361,Cardamom Powder,cardamom powder,cardamom powder
+361,Cardamom Powder,Elaichi,elaichi
+362,Carp fish,Carp fish,carp fish
+363,Carrot,= Carrot,carrot
+363,Carrot,Gajar,gajar
+363,Carrot,Gajjar,gajjar
+364,Carrot Cake,Carrot Cake,carrot cake
+365,Whole cashews,cashew,cashew
+366,Cashew nuts,Cashew nuts,cashew nut
+367,Cassia,Cassia,cassia
+368,cast coriander,cast coriander,cast coriander
+369,Caster Sugar,Caster Sugar,caster sugar
+370,Cauliflower,cauliflower,cauliflower
+370,Cauliflower,gobi,gobi
+371,Cauliflower leaves,Cauliflower leaves,cauliflower leaf
+372,Cayenne Pepper,Cayenne Pepper,cayenne pepper
+373,celery,celery,celery
+374,Chaat Masala Powder,chaat masala powder,chaat masala powder
+375,Chai Masala,Chai Masala,chai masala
+376,chakra flowers,chakra flowers,chakra flower
+377,chakundar,Chakundar,chakundar
+378,Chamomile tea,Chamomile tea,chamomile tea
+379,Champagne,Champagne,champagne
+380,Chana dal,Bengal Gram Dal,bengal gram dal
+380,Chana dal,chana dal,chana dal
+381,Chana Masala Powder,Chana Masala Powder,chana masala powder
+382,Chana stock,Chana stock,chana stock
+383,Chandi's work,Chandi's work,chandi s work
+384,Char Magaz,Char Magaz,char magaz
+385,Charcoal,Charcoal,charcoal
+386,Chayote,Chayote,chayote
+387,Cheddar cheese,Cheddar cheese,cheddar cheese
+388,Cheese,cheese,cheese
+389,Cheese Cubes,Cheese Cubes,cheese cube
+390,Cheese Slices,Cheese Slices,cheese slice
+391,Cheese spread,Cheese spread,cheese spread
+392,Cheetos,Cheetos,cheeto
+393,Chenna,Chenna,chenna
+393,Chenna,Homemade Cottage Cheese,homemade cottage cheese
+394,Fresh Cherries,Fresh Cherries,cherry
+395,Cherry Compote,Cherry Compote,cherry compote
+396,Cherry Preserve /Jam,Cherry Preserve /Jam,cherry preserve jam
+397,Cherry tomatoes,Cherry tomatoes,cherry tomato
+398,Chia Seeds,Chia Seeds,chia seed
+399,Chicken,Chicken,chicken
+400,Chicken breasts,chicken breast,chicken breast
+401,Chicken drumstick,Chicken drumstick,chicken drumstick
+402,Chicken ham,Chicken ham,chicken ham
+403,Chicken legs,Chicken legs,chicken leg
+404,Chicken masala,Chicken masala,chicken masala
+405,Chicken sausage,Chicken sausage,chicken sausage
+406,Chicken stock,chicken stock,chicken stock
+407,Chicken thighs,Chicken thigh,chicken thigh
+408,Chicken Wings,Chicken Wings,chicken wing
+409,chickpea lentils,chickpea lentil,chickpea lentil
+410,Chickpea Sprouts,Chickpea Sprouts,chickpea sprout
+411,chickpeas spices,chickpeas spices,chickpeas spice
+412,Chikki,Chikki,chikki
+412,Chikki,peanut brittle,peanut brittle
+413,Chikoo,Chikoo,chikoo
+413,Chikoo,Sapota Fruit,sapota fruit
+414,Chilled butter,Chilled butter,chilled butter
+415,Chilled water,Chilled water,chilled water
+416,Chilli Garlic Sauce,Chilli Garlic Sauce,chilli garlic sauce
+417,Chilli oil,Chilli oil,chilli oil
+418,Chilli vinegar,Chilli vinegar,chilli vinegar
+419,chilly flax,chilly flax,chilly flax
+420,Chinese 5 Spice Powder,Chinese 5 Spice Powder,chinese 5 spice powder
+421,Chinese cabbage,Chinese cabbage,chinese cabbage
+422,Chinese Potato,Chinese Potato,chinese potato
+423,Chinese rice wine,Chinese rice wine,chinese rice wine
+424,Chipotle Chillies / Peppers,Chipotle Chillies / Peppers,chipotle chillies pepper
+425,Chipotle peppers,Chipotle peppers,chipotle pepper
+426,Chipotle sauce,Chipotle sauce,chipotle sauce
+427,Chironji,Chironji,chironji
+428,Chiroti Rava,Chiroti Rava,chiroti rava
+429,chisemis,chisemis,chisemi
+430,Chivda,Chivda,chivda
+431,Chives,Chives,chive
+432,Choco Thins,Choco Thins,choco thin
+433,Chocolate Bar,Chocolate Bar,chocolate bar
+434,Chocolate Cake,Chocolate Cake,chocolate cake
+435,Chocolate chips,Chocolate chips,chocolate chip
+436,Chocolate ganache,Chocolate ganache,chocolate ganache
+437,Chocolate pearls,Chocolate pearls,chocolate pearl
+438,Chocolate sauce,Chocolate sauce,chocolate sauce
+439,Chocolate Shavings,Chocolate Shavings,chocolate shaving
+440,Chocolate wafers,Chocolate wafers,chocolate wafer
+441,Chow chow,chayote squash,chayote squash
+441,Chow chow,chow chow,chow chow
+442,Chyawanprash,Chyawanprash,chyawanprash
+443,Ciabatta bread,Ciabatta bread,ciabatta bread
+444,cinnamon,Cinnamon,cinnamon
+445,Cinnamon Powder,Cinnamon Powder,cinnamon powder
+445,Cinnamon Powder,Dalchini,dalchini
+446,Cinnamon Stick,Cinnamon Stick,cinnamon stick
+446,Cinnamon Stick,Dalchini,dalchini
+447,Cinnamon Sugar,Cinnamon Sugar,cinnamon sugar
+448,Citric acid crystals,Citric acid crystals,citric acid crystal
+449,Clams,Clams,clam
+450,Clamps,Clamps,clamp
+451,Classic Alfredo Pasta Sauce,Classic Alfredo Pasta Sauce,classic alfredo pasta sauce
+452,Classic Mayonnaise,Classic Mayonnaise,classic mayonnaise
+452,Classic Mayonnaise,With Egg,with egg
+453,Cloves,Cloves,clove
+453,Cloves,Laung,laung
+454,Clove powder,Clove powder,clove powder
+454,Clove powder,Laung,laung
+455,Cluster fig,Cluster fig,cluster fig
+455,Cluster fig,Gular,gular
+456,Coal,Coal,coal
+457,Coca cola,Coca cola,coca cola
+458,Cocoa Powder,Cocoa Powder,cocoa powder
+459,Fresh coconut,coconut,coconut
+460,Coconut cream,Coconut cream,coconut cream
+461,Coconut flakes,Coconut flakes,coconut flake
+462,Coconut flour,Coconut flour,coconut flour
+463,Coconut milk,coconut milk,coconut milk
+464,Coconut Oil,coconut oil,coconut oil
+465,coconut powder,coconut powder,coconut powder
+466,Coconut Sugar,Coconut Sugar,coconut sugar
+467,Coconut Yogurt,Coconut Yogurt,coconut yogurt
+468,Coffee Decoction,Coffee Decoction,coffee decoction
+469,cold water,cold water,cold water
+470,Colocasia Leaves,Arbi,arbi
+470,Colocasia Leaves,Colocasia Leaves,colocasia leaf
+471,Colocasia root,Arbi,arbi
+471,Colocasia root,Colocasia root,colocasia root
+472,Colostrum,Colostrum,colostrum
+472,Colostrum,early milk,early milk
+473,Conchiglie Pasta,Conchiglie Pasta,conchiglie pasta
+474,Condensed Milk,Condensed Milk,condensed milk
+475,Confectioners sugar,Confectioners sugar,confectioners sugar
+476,Congee powder,Congee powder,congee powder
+477,Cooked rice,Cooked rice,cooked rice
+478,Cooking soda,Cooking soda,cooking soda
+479,coriander,coriander,coriander
+480,Coriander Leaves,Coriander leaves,coriander leaf
+480,Coriander Leaves,Dhania,dhania
+481,coriander leaves Finely chopped salt,coriander leaves Finely chopped salt,coriander leaves finely chopped salt
+482,Coriander Powder,coriander powder,coriander powder
+482,Coriander Powder,Dhania,dhania
+483,Coriander Seeds,Coriander Seeds,coriander seed
+483,Coriander Seeds,Dhania,dhania
+484,Corn chips,Corn chips,corn chip
+485,Corn Cob,Corn Cob,corn cob
+486,Corn flakes,Corn flakes,corn flake
+487,Corn flour,Corn flour,corn flour
+488,Corn flour tortilla,Corn flour tortilla,corn flour tortilla
+489,Corn Kernels,Corn Kernels,corn kernel
+490,Corn meal,Corn meal,corn meal
+491,Corn syrup,Corn syrup,corn syrup
+492,cottage cheese,cottage cheese,cottage cheese
+493,Cotton threads,Cotton threads,cotton thread
+494,Couscous,Couscous,couscou
+495,cowpea,cowpea,cowpea
+496,cowpea pod,cowpea pod,cowpea pod
+497,Crabs,Crab,crab
+498,Crab meat,Crab meat,crab meat
+499,Crackers,Crackers,cracker
+500,Cranberries,Cranberries,cranberry
+501,Cranberry juice,Cranberry juice,cranberry juice
+502,Fresh cream,cream,cream
+503,Cream of Tartar,Cream of Tartar,cream of tartar
+504,Crepes,Crepes,crepe
+505,crush 1/2 cup gram flour,crush 1/2 cup gram flour,crush 1 2 cup gram flour
+506,crush 1/2 tsp whole pepper,crush 1/2 tsp whole pepper,crush 1 2 tsp pepper
+507,Crushed ice,Crushed ice,crushed ice
+508,Crusty bread log,Crusty bread log,crusty bread log
+509,Cucumber,Cucumber,cucumber
+510,Cumene seeds,Cumene seeds,cumene seed
+510,Cumene seeds,Jeera,jeera
+511,cumin,cumin,cumin
+512,Cumin powder,cumin powder,cumin powder
+512,Cumin powder,Jeera,jeera
+513,Cumin seeds,cumin seeds,cumin seed
+513,Cumin seeds,Jeera,jeera
+514,cumin seeds Powder,cumin seeds Powder,cumin seeds powder
+515,cup cheese,cup cheese,cup cheese
+516,cups Water,cups Water,cups water
+517,Curd,Curd,curd
+517,Curd,Dahi,dahi
+517,Curd,Yogurt,yogurt
+518,Curd Vada,Curd Vada,curd vada
+519,curry,curry,curry
+520,curry garlic,curry garlic,curry garlic
+521,Curry leaves,curry Leaf,curry leaf
+522,Curry powder,Curry powder,curry powder
+523,Custard apple,Custard apple,custard apple
+523,Custard apple,Sitaphal,sitaphal
+524,Custard powder,Custard powder,custard powder
+525,cut 1 inch ginger,cut 1 inch ginger,cut 1 inch ginger
+526,cut 3 sprigs of mint,cut 3 sprigs of mint,cut 3 sprigs of mint
+527,Dabur Homemade Coconut Milk,Dabur Homemade Coconut Milk,dabur homemade coconut milk
+528,Dabur Homemade Tamarind Paste,Dabur Homemade Tamarind Paste,dabur homemade tamarind paste
+529,Dagad phool,black stone flower,black stone flower
+529,Dagad phool,Dagad phool,dagad phool
+529,Dagad phool,pathar phool,pathar phool
+530,Dal Stock,Dal Stock,dal stock
+531,Dal Sugar,Dal Sugar,dal sugar
+532,Dal Sugar Powder,Dal Sugar Powder,dal sugar powder
+533,Dark chocolate,Dark chocolate,dark chocolate
+534,Dark Chocolate Chips,Dark Chocolate Chips,dark chocolate chip
+535,Dark rum,Dark rum,dark rum
+536,Dark soy sauce,Dark soy sauce,dark soy sauce
+537,Dates,Dates,date
+538,Date syrup,Date syrup,date syrup
+539,Decorative sugar,Cake,cake
+539,Decorative sugar,Candy Sprinkles,candy sprinkle
+539,Decorative sugar,Decorative sugar,decorative sugar
+540,Del Monte Black Olives,Del Monte Black Olives,del monte black olive
+541,Del Monte Cheesy Dip,Del Monte Cheesy Dip,del monte cheesy dip
+542,Del Monte Cheesy Garlic Mayo,Del Monte Cheesy Garlic Mayo,del monte cheesy garlic mayo
+543,Del Monte Chifferi Rigati Pasta,Del Monte Chifferi Rigati Pasta,del monte chifferi rigati pasta
+544,Del Monte Whole Corn Kernels,Del Monte Whole Corn Kernels,del monte corn kernel
+545,Del Monte Farfalle Pasta,Del Monte Farfalle Pasta,del monte farfalle pasta
+546,Del Monte Green Olives,Del Monte Green Olives,del monte green olive
+547,Del Monte Mint Mayo,Del Monte Mint Mayo,del monte mint mayo
+548,Del Monte Penne Rigate Pasta,Del Monte Penne Rigate Pasta,del monte penne rigate pasta
+549,Del Monte Sandwich Spread,Del Monte Sandwich Spread,del monte sandwich spread
+550,Del Monte Spaghetti Pasta,Del Monte Spaghetti Pasta,del monte spaghetti pasta
+551,Del Monte Tandoori Mayo,Del Monte Tandoori Mayo,del monte tandoori mayo
+552,Del Monte Tartare Dip,Del Monte Tartare Dip,del monte tartare dip
+553,Del Monte Tricolour Spirali Pasta,Del Monte Tricolour Spirali Pasta,del monte tricolour spirali pasta
+554,Dessicated Coconut,Dessicated Coconut,dessicated coconut
+555,Dhansak masala,Dhansak masala,dhansak masala
+556,Digestive biscuit,Digestive biscuit,digestive biscuit
+557,Dijon Mustard,Dijon mustard,dijon mustard
+558,Dill leaves,Dill leaves,dill leaf
+559,Dosa rice,Dosa rice,dosa rice
+560,Double Beans,Double Beans,double bean
+561,Double Cream,Double Cream,double cream
+562,Dragon fruit,Dragon fruit,dragon fruit
+562,Dragon fruit,Pitaya,pitaya
+563,Dried Anardana Seeds,Dried Anardana Seeds,dried anardana seed
+563,Dried Anardana Seeds,Pomegranate Seeds Dried,pomegranate seeds dried
+564,Dried basil leaves,Dried basil leaves,dried basil leaf
+565,Dried Chamomile,Dried Chamomile,dried chamomile
+566,Dried Figs,Dried Figs,dried fig
+567,Dried Green Peas,Dried Green Peas,dried green pea
+567,Dried Green Peas,Vatana,vatana
+568,Dried mushrooms,Dried mushrooms,dried mushroom
+569,Dried Neem Flowers,Dried Neem Flowers,dried neem flower
+570,Dried oregano,Dried oregano,dried oregano
+571,Dried raspberries,Dried raspberries,dried raspberry
+572,dried red chillies,dried red chillies,dried red chilly
+573,Dried rose petals,Dried rose petals,dried rose petal
+574,Dried shrimps,Dried shrimps,dried shrimp
+575,Dried Thyme Leaves,Dried Thyme Leaves,dried thyme leaf
+576,Dried turmeric,Dried turmeric,dried turmeric
+577,Dried Yellow/White Peas,Dried Yellow/White Peas,dried yellow white pea
+577,Dried Yellow/White Peas,Vatana,vatana
+578,drops Orange Essence,drops Orange Essence,drops orange essence
+579,drops Rose water,drops Rose water,drops rose water
+580,Drops Vanilla Extract,Drops Vanilla Extract,drops vanilla extract
+581,Drumstick,Drumstick,drumstick
+582,Drumstick Leaves,Drumstick Leaves,drumstick leaf
+582,Drumstick Leaves,Moringa,moringa
+582,Drumstick Leaves,Murungai Keerai,murungai keerai
+583,Dry beans,Dry beans,dry bean
+584,Dry coconut,dry coconut,dry coconut
+584,Dry coconut,kopra,kopra
+585,Dry Corn Kernals,Dry Corn Kernals,dry corn kernal
+586,Dry dates powder,Dry dates powder,dry dates powder
+586,Dry dates powder,kharik pud,kharik pud
+587,Dry Fruits,dry fruits,dry fruit
+588,Dry ginger powder,Dry ginger powder,dry ginger powder
+589,Dry Green Mango,Ambula,ambula
+589,Dry Green Mango,Dry Green Mango,dry green mango
+589,Dry Green Mango,Vathal,vathal
+590,dry kashmiri chillies,dry kashmiri chillies,dry kashmiri chilly
+591,Dry Kashmiri Peppers,Dry Kashmiri Peppers,dry kashmiri pepper
+592,dry mango powder,dry mango powder,dry mango powder
+593,Dry mix herbs,Dry mix herbs,dry mix herb
+594,dry red chili,dry red chili,dry red chili
+595,Dry Red Chilli,dry red chilli,dry red chilli
+596,Dry Red Chillies,Dry Red Chillies,dry red chilly
+597,dry red chilies,dry red chilies,dry red chily
+598,Dry white wine,Dry white wine,dry white wine
+599,Dulce de leche,Dulce de leche,dulce de leche
+600,Edible Silver Foil/Leaf,Chandi Ka Vark,chandi ka vark
+600,Edible Silver Foil/Leaf,Edible Silver Foil/Leaf,edible silver foil leaf
+601,Whole Eggs,egg,egg
+602,Egg noodles,Egg noodles,egg noodle
+603,Egg whites,Egg white,egg white
+604,Egg yolks,Egg yolks,egg yolk
+605,Eggless Mayonnaise,Eggless Mayonnaise,eggless mayonnaise
+606,eggplant,eggplant,eggplant
+607,Elaichi,Elaichi,elaichi
+608,Elbow Pasta,Elbow Pasta,elbow pasta
+609,Elephant yam,Elephant yam,elephant yam
+609,Elephant yam,Ratalu,ratalu
+609,Elephant yam,Senai,senai
+609,Elephant yam,Suran,suran
+610,Emami Rice Bran Oil,Emami Rice Bran Oil,emami rice bran oil
+611,English Cucumber,English Cucumber,english cucumber
+612,English Mustard Sauce,English Mustard Sauce,english mustard sauce
+613,Enos fruit salt,Enos fruit salt,enos fruit salt
+614,Espresso Powder,Espresso Powder,espresso powder
+615,Extra Virgin Olive Oil,Extra Virgin Olive Oil,extra virgin olive oil
+616,Falsa,Falsa,falsa
+617,Farsan,Farsan,farsan
+618,fennel,fennel,fennel
+619,Fennel bulb,Fennel bulb,fennel bulb
+620,Fennel Leaves,Fennel Leaves,fennel leaf
+621,Fennel Powder,Fennel Powder,fennel powder
+622,Fennel seeds,Fennel seeds,fennel seed
+622,Fennel seeds,Saunf,saunf
+623,fenugreek,fenugreek,fenugreek
+624,fenugreek seeds,fenugreek seeds,fenugreek seed
+625,Feta Cheese,Feta Cheese,feta cheese
+626,Fettuccine Pasta,Fettuccine Pasta,fettuccine pasta
+627,Fresh Figs,figs,fig
+628,Figaro Pure Olive Oil,Figaro Pure Olive Oil,figaro pure olive oil
+629,Filter Coffee Powder,Filter Coffee Powder,filter coffee powder
+630,Fish,Fish,fish
+631,Fish fillet,Fish fillet,fish fillet
+632,Fish sauce,Fish sauce,fish sauce
+633,Fistful Green peas,Fistful Green peas,fistful green pea
+633,Fistful Green peas,Matar,matar
+634,fl oz Britannia Cream Cheese,fl oz Britannia Cream Cheese,fl oz britannia cream cheese
+635,fl oz Condensed Milk,fl oz Condensed Milk,fl oz condensed milk
+636,fl oz Evaporated milk,fl oz Evaporated milk,fl oz evaporated milk
+637,Flat Green Beans,Flat Green Beans,flat green bean
+638,Flax seeds,Flax seeds,flax seed
+639,Flax seed powder,flax meal,flax meal
+639,Flax seed powder,Flax seed powder,flax seed powder
+640,Flaxmeal Egg Replacer,Flaxmeal Egg Replacer,flaxmeal egg replacer
+641,flaxseed powder,flaxseed powder,flaxseed powder
+642,flour,besan,besan
+642,flour,flour,flour
+643,Food Color,Food Color,food color
+644,Fox nuts,Fox nuts,fox nut
+645,Foxtail Millet,Foxtail Millet,foxtail millet
+646,Foxtail Millet flour,Foxtail Millet flour,foxtail millet flour
+647,French Beans,French Beans,french bean
+648,French bread,French bread,french bread
+649,French Fries,French Fries,french fry
+650,French Loaf,French Loaf,french loaf
+651,Fresno pepper,Fresno pepper,fresno pepper
+652,Fried Bread Cubes,Croutons,crouton
+652,Fried Bread Cubes,Fried Bread Cubes,fried bread cube
+653,Fried Onions,Fried Onions,fried onion
+654,Fried Rice,Fried Rice,fried rice
+655,Fresh fruits,Fresh fruits,fruit
+656,Galangal,Galangal,galangal
+657,garam masala,garam masala,garam masala
+658,Garam masala powder,Garam Masala Powder,garam masala powder
+659,Garlic,Garlic,garlic
+660,Garlic Butter,garlic butter,garlic butter
+661,garlic chutney,garlic chutney,garlic chutney
+662,Garlic powder,Garlic powder,garlic powder
+663,Garlic salt,Garlic salt,garlic salt
+664,Gawar Phali,Cluster beans,cluster bean
+664,Gawar Phali,Gawar Phali,gawar phali
+664,Gawar Phali,Kothavarangai,kothavarangai
+665,Gelatin,Gelatin,gelatin
+666,Ghee,Ghee,ghee
+667,Gherkins,Gherkins,gherkin
+668,Ghost chilli peppers,bhut jolokia,bhut jolokia
+668,Ghost chilli peppers,Ghost chilli peppers,ghost chilli pepper
+669,Gilka,Gilka,gilka
+669,Gilka,silk squash,silk squash
+669,Gilka,sponge,sponge
+670,Gingelly oil,Gingelly oil,gingelly oil
+671,Ginger,Ginger,ginger
+672,Ginger Ale,Ginger Ale,ginger ale
+673,Ginger Cookies,Ginger Cookies,ginger cooky
+674,Ginger Garlic Paste,ginger garlic paste,ginger garlic paste
+675,Ginger Juice,Ginger Juice,ginger juice
+676,Ginger Paste,Ginger Paste,ginger paste
+677,ginger teriyaki sauce,ginger teriyaki sauce,ginger teriyaki sauce
+678,Glazed Cherries,Glazed Cherries,glazed cherry
+679,gm arabic,gm arabic,gm arabic
+680,gm arabic leaves,gm arabic leaves,gm arabic leaf
+681,gm button mushrooms,gm button mushrooms,gm button mushroom
+682,gm curd,gm curd,gm curd
+683,gm Makhana,gm Makhana,gm makhana
+684,gm mutton,gm mutton,gm mutton
+685,gm Parwal,gm Parwal,gm parwal
+686,gm small potatoes,gm small potatoes,gm small potato
+687,gms Cheese,gms Cheese,gms cheese
+688,gms cottage cheese,gms cottage cheese,gms cottage cheese
+689,gms fenugreek,gms fenugreek,gms fenugreek
+690,Goan recheado masala,Goan recheado masala,goan recheado masala
+691,Goat Cheese,Goat Cheese,goat cheese
+692,Gobi,Gobi,gobi
+693,Gochujang,Gochujang,gochujang
+693,Gochujang,Korean hot pepper paste,korean hot pepper paste
+694,goda masala,goda masala,goda masala
+695,Goji berries,Goji berries,goji berry
+696,Golden Harvest Sona Masuri Rice,Golden Harvest Sona Masuri Rice,golden harvest sona masuri rice
+697,Gond,Edible Gum,edible gum
+697,Gond,Gond,gond
+697,Gond,natural gum,natural gum
+698,Gondhoraj lebu juice,Gondhoraj lebu juice,gondhoraj lebu juice
+699,Gondhoraj lebu lemon,Gondhoraj lebu lemon,gondhoraj lebu lemon
+700,gongura,gongura,gongura
+701,Gongura Leaves,Gongura Leaves,gongura leaf
+701,Gongura Leaves,Red Roselle,red roselle
+702,good,good,good
+703,Goond,Edible Gum,edible gum
+703,Goond,Goond,goond
+704,Gorgonzola cheese,Gorgonzola cheese,gorgonzola cheese
+705,Gouda cheese,Gouda cheese,gouda cheese
+706,gourd,gourd,gourd
+707,Govind Bhog Rice,Govind Bhog Rice,govind bhog rice
+708,Graham cracker crumbs,Graham cracker crumbs,graham cracker crumb
+709,Gram flour,besan,besan
+709,Gram flour,gram flour,gram flour
+710,gram lentils,gram lentils,gram lentil
+711,Grand Marnier,Grand Marnier,grand marnier
+712,Granola,Granola,granola
+713,Grape juice,Grape juice,grape juice
+714,Grapefruit,Grapefruit,grapefruit
+715,Great Northern Beans,Great Northern Beans,great northern bean
+716,green,green,green
+717,Green Amaranth Leaves,Green Amaranth Leaves,green amaranth leaf
+718,Green apple,Green apple,green apple
+719,Green beans,French Beans,french bean
+719,Green beans,green beans,green bean
+720,Green Bell Pepper,Capsicum,capsicum
+720,Green Bell Pepper,Green Bell Pepper,green bell pepper
+721,green capsicum,green capsicum,green capsicum
+722,Green Channa Sprouts,Green Channa Sprouts,green channa sprout
+723,Green Chawli Beans,Barbati,barbati
+723,Green Chawli Beans,Green Chawli Beans,green chawli bean
+723,Green Chawli Beans,Karamani,karamani
+723,Green Chawli Beans,Yard long beans,yard long bean
+724,Fresh green chickpeas,Fresh green chickpeas,green chickpea
+725,green chili,green chili,green chili
+726,Green Chilli,Green Chilli,green chilli
+727,Green Chilli Paste,Green Chilli Paste,green chilli paste
+728,Green Chilli Sauce,green chilli sauce,green chilli sauce
+729,Green Chillies,green chillies,green chilly
+730,green chilies,green chilies,green chily
+731,Green Chutney,Coriander & Mint,coriander mint
+731,Green Chutney,green chutney,green chutney
+732,Green Coffee beans,Green Coffee beans,green coffee bean
+733,green coriander,Green Coriander,green coriander
+734,Green food colour,Green food colour,green food colour
+735,green gram,green gram,green gram
+736,Green Grapes,Green Grapes,green grape
+737,Green Moong Dal,Green Moong Dal,green moong dal
+738,Green Moong Sprouts,Green Moong Sprouts,green moong sprout
+739,Green olives,Green olives,green olive
+740,Green Olive Pesto,Green Olive Pesto,green olive pesto
+741,green onions,green onion,green onion
+742,green onion leaves,green onion leaves,green onion leaf
+743,green onion Leaves of,green onion Leaves of,green onion leaves of
+744,Green peas,green peas,green pea
+744,Green peas,Matar,matar
+745,green peppers,green peppers,green pepper
+746,Green Romaine lettuce,Green Romaine lettuce,green romaine lettuce
+747,Green seedless Grapes,Green seedless Grapes,green seedless grape
+748,Green tea leaves,Green tea leaves,green tea leaf
+749,Fresh Green Toor Dal,Fresh Green Toor Dal,green toor dal
+749,Fresh Green Toor Dal,Pigeon Pea,pigeon pea
+750,green tur dal,green tur dal,green tur dal
+751,Green zucchini,Green zucchini,green zucchini
+752,grind 1 tbsp whole black pepper,grind 1 tbsp whole black pepper,grind 1 tbsp black pepper
+753,Groundnut oil,Groundnut oil,groundnut oil
+754,Groundnut powder,Groundnut powder,groundnut powder
+755,Gruyere Cheese,Gruyere Cheese,gruyere cheese
+756,Guacamole,Guacamole,guacamole
+757,Guava,Guava,guava
+758,Guava juice,Guava juice,guava juice
+759,Guava puree,Guava puree,guava puree
+760,Gulab jamun,Gulab jamun,gulab jamun
+761,Gulab jamun mix,Gulab jamun mix,gulab jamun mix
+762,Gulkand,Gulkand,gulkand
+763,Gunde,bird lime,bird lime
+763,Gunde,Gunde,gunde
+764,Guntur Dried Chillies,Guntur Dried Chillies,guntur dried chilly
+765,Gwar pods,gwar pods,gwar pod
+766,Habenaro sauce,Habenaro sauce,habenaro sauce
+767,Hakka Noodles,Hakka Noodles,hakka noodle
+768,Half and half,Half and half,half and half
+769,Halloumi Cheese,Halloumi Cheese,halloumi cheese
+770,handful Mixed nuts,handful Mixed nuts,handful mixed nut
+771,handful Rice flour,handful Rice flour,handful rice flour
+772,Handful Walnuts,Handful Walnuts,handful walnut
+773,Hara Chana,Hara Chana,hara chana
+774,Hard taco shells,Hard taco shells,hard taco shell
+775,Harissa paste,Harissa paste,harissa paste
+776,Hariyali Chicken Tikka,Hariyali Chicken Tikka,hariyali chicken tikka
+777,Hash Browns,Hash Browns,hash brown
+778,Hazelnut,Hazelnut,hazelnut
+779,Hazelnut Meal,Hazelnut Meal,hazelnut meal
+779,Hazelnut Meal,Powder,powder
+780,Health Mix,Health Mix,health mix
+781,heart leaves,heart leaves,heart leaf
+782,Heavy whipping cream,Heavy whipping cream,heavy whipping cream
+783,Fresh Herbs,Fresh Herbs,herb
+784,Herb Butter,Herb Butter,herb butter
+785,Herring Fish Steaks,Herring Fish Steaks,herring fish steak
+786,Hilsa Fish,Hilsa Fish,hilsa fish
+787,Hog Plum,Amtekai,amtekai
+787,Hog Plum,Hog Plum,hog plum
+788,Homemade Basil Pesto,Homemade Basil Pesto,homemade basil pesto
+789,Homemade Hoisin Sauce,Homemade Hoisin Sauce,homemade hoisin sauce
+790,Homemade Hummus,Homemade Hummus,homemade hummu
+791,Homemade Marinara Sauce,Homemade Marinara Sauce,homemade marinara sauce
+792,Homemade Mole sauce,Homemade Mole sauce,homemade mole sauce
+793,Homemade Pizza And Pasta Sauce,Homemade Pizza And Pasta Sauce,homemade pizza and pasta sauce
+794,Homemade Pizza Dough,Homemade Pizza Dough,homemade pizza dough
+795,Homemade tomato puree,Homemade tomato puree,homemade tomato puree
+796,Homemade Whole Wheat Khakras,Homemade Whole Wheat Khakras,homemade wheat khakra
+797,Honey,Honey,honey
+798,Honey dew melon,Honey dew melon,honey dew melon
+799,Honey Mustard Dressing,Honey Mustard Dressing,honey mustard dressing
+800,Horlicks,Horlicks,horlick
+801,horse,horse,horse
+802,Horse Gram Dal,Horse Gram Dal,horse gram dal
+802,Horse Gram Dal,Kollu,kollu
+802,Horse Gram Dal,Kulith,kulith
+803,Horse Gram Flour,Horse Gram Flour,horse gram flour
+804,horse-powder,horse-powder,horse powder
+805,Hot Dog Bread,Hot Dog Bread,hot dog bread
+806,hot Masala powder,hot Masala powder,hot masala powder
+807,Hot water,Hot water,hot water
+808,Hulled Wheat,Hulled Wheat,hulled wheat
+809,Hung Curd,Greek Yogurt,greek yogurt
+809,Hung Curd,Hung curd,hung curd
+810,Hung-fat,Hung-fat,hung fat
+811,Hung yogurt,Hung yogurt,hung yogurt
+812,ice,Ice,ice
+813,Ice Apple,Ice Apple,ice apple
+813,Ice Apple,Nongu,nongu
+814,Ice cream,Ice cream,ice cream
+815,Ice cream cone,Ice cream cone,ice cream cone
+816,Ice cubes,Ice cubes,ice cube
+817,Ice wine,Ice wine,ice wine
+818,Iceberg lettuce,Iceberg lettuce,iceberg lettuce
+819,Icing Sugar,Icing Sugar,icing sugar
+820,Idiyappam,Idiyappam,idiyappam
+821,Idli,Idli,idli
+822,Idli Dosa Batter,Idli Dosa Batter,idli dosa batter
+823,idli dosa mixture,idli dosa mixture,idli dosa mixture
+824,Idli Dosa Podi,Idli Dosa Podi,idli dosa podi
+824,Idli Dosa Podi,Milagai Powder,milagai powder
+825,Idli Rice,idli rice,idli rice
+826,Indian borage,Doddapatre,doddapatre
+826,Indian borage,Indian borage,indian borage
+827,Indian butter fish,Indian butter fish,indian butter fish
+828,ino fruit salt,ino fruit salt,ino fruit salt
+829,Instant Coffee Powder,Instant Coffee Powder,instant coffee powder
+830,Instant dosa Mix Powder,Instant dosa Mix Powder,instant dosa mix powder
+831,Instant Oats,Instant Oats,instant oat
+831,Instant Oats,Oatmeal,oatmeal
+832,Italian Bread,Italian Bread,italian bread
+833,Italian seasoning,Italian seasoning,italian seasoning
+834,jackfruit,jackfruit,jackfruit
+835,Jackfruit Raw,Jackfruit Raw,jackfruit raw
+835,Jackfruit Raw,Kathal,kathal
+836,Jackfruit Ripe,Jackfruit Ripe,jackfruit ripe
+836,Jackfruit Ripe,Kathal,kathal
+837,Jackfruit Seeds,Jackfruit Seeds,jackfruit seed
+837,Jackfruit Seeds,Kathal,kathal
+838,Jaggery,Jaggery,jaggery
+839,Jal Jeera Powder,Jal Jeera Powder,jal jeera powder
+840,Jam,Jam,jam
+841,Jamun,black plum,black plum
+841,Jamun,Jamun,jamun
+842,Japanese Eggplant,Japanese Eggplant,japanese eggplant
+843,Fresh Jasmine Buds,Fresh Jasmine Buds,jasmine bud
+844,Jasmine Rice,Jasmine Rice,jasmine rice
+845,Jawla fish,Jawla fish,jawla fish
+846,Jello,Jello,jello
+847,Jelly Mix,Jelly Mix,jelly mix
+848,Jowar Flour,jowar flour,jowar flour
+848,Jowar Flour,Sorghum,sorghum
+849,Jowar Seeds,Jowar Seeds,jowar seed
+850,Kababchini,Kababchini,kababchini
+850,Kababchini,Tailed pepper,tailed pepper
+851,Kabuli Chana,Kabuli Chana,kabuli chana
+851,Kabuli Chana,White Chickpeas,white chickpea
+852,Kabuli Channa,Kabuli Channa,kabuli channa
+853,Kachampuli,Kachampuli,kachampuli
+854,Kachri,Kachri,kachri
+854,Kachri,Wild cucumber,wild cucumber
+855,Kaddu,Kaddu,kaddu
+855,Kaddu,Parangikai,parangikai
+855,Kaddu,Pumpkin,pumpkin
+856,Kadhi masala,Kadhi masala,kadhi masala
+857,Kaffir lime leaves,Kaffir lime leaves,kaffir lime leaf
+858,Kala Chana,Brown Chickpeas,brown chickpea
+858,Kala Chana,Kala Chana,kala chana
+859,Kala jeera,Kala jeera,kala jeera
+860,Kalamata Olives,Kalamata Olives,kalamata olive
+861,Kale,Kale,kale
+862,Kali Urad Dal,Kali Urad Dal,kali urad dal
+863,Kalmatta olives,Kalmatta olives,kalmatta olive
+864,Kalonji,Kalonji,kalonji
+864,Kalonji,Onion Nigella Seeds,onion nigella seed
+865,Kalonji seeds,Kalonji seeds,kalonji seed
+866,Kalpasi flower,Kalpasi flower,kalpasi flower
+866,Kalpasi flower,Stone flower,stone flower
+867,Kalpasi leaves,Kalpasi leaves,kalpasi leaf
+868,Kandathipli,Kandathipli,kandathipli
+869,Kapok Bud,Kapok Bud,kapok bud
+870,Karela,Bitter Gourd,bitter gourd
+870,Karela,Karela,karela
+870,Karela,Pavakkai,pavakkai
+871,Kashmiri dry red chilli,Kashmiri dry red chilli,kashmiri dry red chilli
+872,Kashmiri dry red chillies,Kashmiri dry red chillies,kashmiri dry red chilly
+873,Kashmiri masala powder,Kashmiri masala powder,kashmiri masala powder
+874,Kashmiri Rajma,Kashmiri Rajma,kashmiri rajma
+875,Kashmiri red chili powder,Kashmiri red chili powder,kashmiri red chili powder
+876,Kashmiri red chilli,Kashmiri red chilli,kashmiri red chilli
+877,Kashmiri Red Chilli Powder,Kashmiri red chilli powder,kashmiri red chilli powder
+878,kasoori methi,kasoori methi,kasoori methi
+879,Kasundi mustard sauce,Kasundi mustard sauce,kasundi mustard sauce
+880,Kasuri Methi,Dried Fenugreek Leaves,dried fenugreek leaf
+880,Kasuri Methi,Kasuri methi,kasuri methi
+881,Kataifi dough,Kataifi dough,kataifi dough
+882,Kebab Masala,Kebab Masala,kebab masala
+883,Ker,Ker,ker
+884,Kerala Matta Rice,Kerala Matta Rice,kerala matta rice
+885,Kesar milk masala,Kesar milk masala,kesar milk masala
+886,Kewra essence,Kewra essence,kewra essence
+887,Kewra Water,Kewra Water,kewra water
+888,Khaman dhokla,Khaman dhokla,khaman dhokla
+889,Khichdi/Pongal,Khichdi/Pongal,khichdi pongal
+890,Khoya,Khoya,khoya
+890,Khoya,Mawa,mawa
+891,Khurchan,Khurchan,khurchan
+891,Khurchan,leftover from homemade ghee,leftover from homemade ghee
+892,Khus Khus,Khus Khus,khus khu
+893,Khus syrup,Khus syrup,khus syrup
+894,Khuskhus,Khuskhus,khuskhu
+895,kidney beans,kidney beans,kidney bean
+896,Kimchi,Kimchi,kimchi
+897,King fish,King fish,king fish
+898,Kitkat Bars,Kitkat Bars,kitkat bar
+899,Kiwi,Kiwi,kiwi
+900,Knol Khol,Ganth Gobi,ganth gobi
+900,Knol Khol,kadam,kadam
+900,Knol Khol,Knol Khol,knol khol
+901,Knoll Knoll,Knoll Knoll,knoll knoll
+902,Knoll Knoll leaves,Knoll Knoll leaves,knoll knoll leaf
+903,Kodo millet,Kodo millet,kodo millet
+904,Kohl rabi,Kohl rabi,kohl rabi
+905,Kokum,Kokum,kokum
+905,Kokum,Malabar Tamarind,malabar tamarind
+906,Kolhapuri Khanda Lasun Masala,Kolhapuri Khanda Lasun Masala,kolhapuri khanda lasun masala
+907,Kolhapuri Masala,Kolhapuri Masala,kolhapuri masala
+908,Koli masala,Koli masala,koli masala
+909,Kosher salt,Kosher salt,kosher salt
+910,Kunafa Dough,Kunafa Dough,kunafa dough
+910,Kunafa Dough,strands,strand
+911,Kunafa pastry,Kunafa pastry,kunafa pastry
+912,Lady fish,Lady fish,lady fish
+913,Lahsun Ki Chutney,Lahsun Ki Chutney,lahsun ki chutney
+913,Lahsun Ki Chutney,Red Garlic Chutney,red garlic chutney
+914,Lamb,Lamb,lamb
+915,Lamb ribs,Lamb ribs,lamb rib
+916,Lamb trotters,Lamb trotters,lamb trotter
+917,large cardamom,Large Cardamom,large cardamom
+918,large Carrot,Gajjar,gajjar
+918,large Carrot,large Carrot,large carrot
+919,large Whole Eggs,large Whole Eggs,large egg
+920,Lasagna sheets,Lasagna sheets,lasagna sheet
+921,lavang,lavang,lavang
+922,Lavender Flowers,Lavender Flowers,lavender flower
+923,Lebanese cucumber,Lebanese cucumber,lebanese cucumber
+924,Leek,Leek,leek
+925,Leftover roti,Leftover roti,leftover roti
+926,Lemon,lemon,lemon
+927,Lemon glaze,Lemon glaze,lemon glaze
+928,Lemon Grass,Lemon Grass,lemon grass
+929,Lemon juice,lemon juice,lemon juice
+930,Lemon Pound Cake,Lemon Pound Cake,lemon pound cake
+931,Lemon Salt,Lemon Salt,lemon salt
+932,Lemon wedges,Lemon wedges,lemon wedge
+933,Lemon zest,lemon zest,lemon zest
+934,Lemongrass,Lemongrass,lemongrass
+935,lentils,lentil,lentil
+936,lentil sugar,lentil sugar,lentil sugar
+937,lentil water,lentil water,lentil water
+938,Lettuce leaves,Lettuce leaves,lettuce leaf
+939,Light soy sauce,Light soy sauce,light soy sauce
+940,Lima Beans,Lima Beans,lima bean
+941,lime juice,lime juice,lime juice
+942,Lime Wedges,Lime Wedges,lime wedge
+943,Linguine Pasta,Linguine Pasta,linguine pasta
+944,Lion Dates Syrup,Lion Dates Syrup,lion dates syrup
+945,loaf French bread,loaf French bread,loaf french bread
+946,long,long,long
+947,long garlic,long garlic,long garlic
+948,Long Green Brinjal,Long Green Brinjal,long green brinjal
+949,Long pepper,Long pepper,long pepper
+950,Long String Bean,chavli,chavli
+950,Long String Bean,Long String Bean,long string bean
+951,Loose leaf tea,Loose leaf tea,loose leaf tea
+952,Lotus Seeds,Lotus Seeds,lotus seed
+953,Lotus Stem,Lotus Stem,lotus stem
+954,Lukewarm Water,Lukewarm Water,lukewarm water
+955,Lychee,Lychee,lychee
+956,M&M’s chocolate candies,M&M’s chocolate candies,m m s chocolate candy
+957,macaroni,macaroni,macaroni
+958,Macaroni pasta,Macaroni pasta,macaroni pasta
+959,Mace,Javitri,javitri
+959,Mace,mace,mace
+960,Mace powder,Mace powder,mace powder
+961,Mackerel fish,Mackerel fish,mackerel fish
+962,Maharashtrian Goda Masala,Maharashtrian Goda Masala,maharashtrian goda masala
+963,maida,all purpose flour,all purpose flour
+963,maida,maida,maida
+964,Maize Dalia,Broken Corn Meal,broken corn meal
+964,Maize Dalia,Maize Dalia,maize dalia
+965,maize flour,maize flour,maize flour
+966,make 1 cup green gram,make 1 cup green gram,make 1 cup green gram
+967,make 1 cup tomato-puree,make 1 cup tomato-puree,make 1 cup tomato puree
+968,make 2 tablespoons ginger,make 2 tablespoons ginger,make 2 tablespoons ginger
+969,make 3 tomatoes,make 3 tomatoes,make 3 tomato
+970,Makki Ka Atta,Makki Ka Atta,makki ka atta
+970,Makki Ka Atta,Yellow Corn Meal Flour,yellow corn meal flour
+971,Malabar Spinach Leaves,Malabar Spinach Leaves,malabar spinach leaf
+972,Malt vinegar,Malt vinegar,malt vinegar
+973,Maltesers,Maltesers,malteser
+974,Malwani masala,Malwani masala,malwani masala
+975,Manathakkali Kai Vathal,Manathakkali Kai Vathal,manathakkali kai vathal
+976,Manathakkali Keerai,Manathakkali Keerai,manathakkali keerai
+977,Mandi,Mandi,mandi
+978,Mangalorean cucumber,Mangalorean cucumber,mangalorean cucumber
+979,Mango,Mango,mango
+979,Mango,Raw,raw
+979,Mango,Ripe,ripe
+980,Mango coulis,Mango coulis,mango couli
+981,Mango ginger,Manga Inji,manga inji
+981,Mango ginger,Mango ginger,mango ginger
+982,Mango juice,Mango juice,mango juice
+983,Mango pickle,Mango pickle,mango pickle
+984,mango powder,mango powder,mango powder
+985,mango powder Powder,mango powder Powder,mango powder powder
+986,Mango Pulp,Mango Pulp,mango pulp
+986,Mango Pulp,Puree,puree
+987,Mango Shrikhand,Mango Shrikhand,mango shrikhand
+988,Mangodi,Mangodi,mangodi
+989,Maple syrup,Maple syrup,maple syrup
+990,Margarine,Margarine,margarine
+990,Margarine,Reduced Calorie,reduced calorie
+991,Marie Biscuit,Marie Biscuit,marie biscuit
+992,Masauras,Masauras,masaura
+993,Mascarpone Cheese,Mascarpone Cheese,mascarpone cheese
+994,mash,mash,mash
+995,Masoor Dal,masoor dal,masoor dal
+996,Matcha powder,Matcha powder,matcha powder
+997,Matzo Meal,Matzo Meal,matzo meal
+998,Meat masala,Meat masala,meat masala
+999,Medu vada,Medu vada,medu vada
+1000,Melon seeds,melon seeds,melon seed
+1001,mess,mess,mess
+1002,Methi Leaves,Fenugreek Leaves,fenugreek leaf
+1002,Methi Leaves,Methi Leaves,methi leaf
+1003,Methi Powder,Fenugreek Powder,fenugreek powder
+1003,Methi Powder,Methi Powder,methi powder
+1004,Methi Seeds,Fenugreek Seeds,fenugreek seed
+1004,Methi Seeds,Methi Seeds,methi seed
+1005,Mexican seasoning,Mexican seasoning,mexican seasoning
+1006,Milk,milk,milk
+1007,Milk chocolate,Milk chocolate,milk chocolate
+1008,Milk Powder,Milk Powder,milk powder
+1009,millet flour,millet flour,millet flour
+1010,Mini Pita Breads,Mini Pita Breads,mini pita bread
+1011,mint,mint,mint
+1012,mint-finely chopped,mint-finely chopped,mint finely chopped
+1013,Mint Leaves,mint leaves,mint leaf
+1013,Mint Leaves,Pudina,pudina
+1014,Mint Pesto,Mint Pesto,mint pesto
+1015,Mint powder,Mint powder,mint powder
+1015,Mint powder,Pudina,pudina
+1016,Mint Rice,Mint Rice,mint rice
+1017,Mishti doi,Mishti doi,mishti doi
+1018,Mixed Beans,Mixed Beans,mixed bean
+1019,Mixed berries,Mixed berries,mixed berry
+1020,Mixed dry fruits,Mixed dry fruits,mixed dry fruit
+1021,Mixed fruits,Mixed fruits,mixed fruit
+1022,Mixed Grains,Mixed Grains,mixed grain
+1023,Mixed Greens,Mixed Greens,mixed green
+1024,Mixed Herbs,Dried,dried
+1024,Mixed Herbs,mixed herbs,mixed herb
+1025,Mixed lentils,Mixed lentils,mixed lentil
+1026,Mixed millets,Mixed millets,mixed millet
+1027,Mixed nuts,Mixed nuts,mixed nut
+1028,Mixed Spices,Mixed Spices,mixed spice
+1029,Mixed Sprouts,Mixed Sprouts,mixed sprout
+1030,Mixed vegetables,mixed vegetables,mixed vegetable
+1031,Molasses,Molasses,molasse
+1032,Momos,Momos,momo
+1033,Mooli Ke Patte,Mooli Ke Patte,mooli ke patte
+1033,Mooli Ke Patte,Radish Greens,radish green
+1034,Mooli/ Mullangi,Mooli/ Mullangi,mooli mullangi
+1034,Mooli/ Mullangi,Radish,radish
+1035,Mor Milagai,Dried Green Chillies,dried green chilly
+1035,Mor Milagai,Mor Milagai,mor milagai
+1036,Moth Dal,Matki,matki
+1036,Moth Dal,Moth Dal,moth dal
+1037,Moth Sprouts,Matki,matki
+1037,Moth Sprouts,Moth Sprouts,moth sprout
+1038,Motichoor Ladoos,Motichoor Ladoos,motichoor ladoo
+1039,Mozzarella cheese,Mozzarella cheese,mozzarella cheese
+1040,Muesli,Muesli,muesli
+1041,Mughlai Meetha Attar,Mughlai Meetha Attar,mughlai meetha attar
+1042,Multigrain Digestive Biscuits,Multigrain Digestive Biscuits,multigrain digestive biscuit
+1043,Multigrain Digestive Oat Biscuits,Multigrain Digestive Oat Biscuits,multigrain digestive oat biscuit
+1044,Multigrain Digestive Ragi Biscuits,Multigrain Digestive Ragi Biscuits,multigrain digestive ragi biscuit
+1045,Multigrain flour,Multigrain flour,multigrain flour
+1046,Musk Melon,Musk Melon,musk melon
+1047,Mussels,Mussels,mussel
+1048,mustard,mustard,mustard
+1049,Mustard Flowers,Edible,edible
+1049,Mustard Flowers,Mustard Flowers,mustard flower
+1050,Mustard greens,Mustard greens,mustard green
+1051,Mustard oil,mustard Oil,mustard oil
+1052,Mustard powder,Mustard powder,mustard powder
+1053,Mustard sauce,Mustard sauce,mustard sauce
+1054,Mustard seeds,mustard seeds,mustard seed
+1055,Mutton,mutton,mutton
+1056,Mutton Kheema,Mutton Kheema,mutton kheema
+1057,Mutton legs,Mutton legs,mutton leg
+1058,Mutton Liver,Mutton Liver,mutton liver
+1059,Naan,Naan,naan
+1060,Nachos,Nachos,nacho
+1061,Nagkesar/cassia buds,Nagkesar/cassia buds,nagkesar cassia bud
+1062,Namak Para,Namak Para,namak para
+1063,Nando's Peri Peri Chicken Marinade,Nando's Peri Peri Chicken Marinade,nando s peri peri chicken marinade
+1064,Nando's Peri Peri Chicken Sauce,Nando's Peri Peri Chicken Sauce,nando s peri peri chicken sauce
+1065,Napa Cabbage,Napa Cabbage,napa cabbage
+1066,Neem Flowers,Neem Flowers,neem flower
+1067,Neem leaves,Neem leaves,neem leaf
+1068,Nendra Pazham Banana,Nendra Pazham Banana,nendra pazham banana
+1068,Nendra Pazham Banana,Ripe,ripe
+1069,Nilla cookies,Nilla cookies,nilla cooky
+1070,Nolen Gur,Nolen Gur,nolen gur
+1071,Nuggets curry leaves,Nuggets curry leaves,nuggets curry leaf
+1072,Nutella Spread,Nutella Spread,nutella spread
+1073,Nutmeg,Nutmeg,nutmeg
+1074,Nutmeg powder,Nutmeg Powder,nutmeg powder
+1075,Nutralite Cheesy Garlic Mayo,Nutralite Cheesy Garlic Mayo,nutralite cheesy garlic mayo
+1076,Nutralite Classic Spread,Nutralite Classic Spread,nutralite classic spread
+1077,Nutralite Garlic & Oregano Spread,Nutralite Garlic & Oregano Spread,nutralite garlic oregano spread
+1078,Nylon sabakki,Nylon sabakki,nylon sabakki
+1079,oats,oats,oat
+1080,Oat bran,Oat bran,oat bran
+1081,oatmeal,oatmeal,oatmeal
+1082,Oats dosa batter,Oats dosa batter,oats dosa batter
+1083,Oats Flour,Oats Flour,oats flour
+1084,of amla,of amla,of amla
+1085,of batua,of batua,of batua
+1086,of cardamom powder,of cardamom powder,of cardamom powder
+1087,of chicken,of chicken,of chicken
+1088,of chickpea chana or chickpeas,of chickpea chana or chickpeas,of chickpea chana or chickpea
+1089,of coriander,of coriander,of coriander
+1090,of cottage cheese,of cottage cheese,of cottage cheese
+1091,of curry leaves,of curry leaves,of curry leaf
+1092,of green coriander,of green coriander,of green coriander
+1093,of Kalonji seeds,of Kalonji seeds,of kalonji seed
+1094,of mint,of mint,of mint
+1095,of mutton,of mutton,of mutton
+1096,of olive oil,of olive oil,of olive oil
+1097,of strawberries,of strawberries,of strawberry
+1098,of suran,of suran,of suran
+1099,of thyme leaves,of thyme leaves,of thyme leaf
+1100,of water,of water,of water
+1101,oil,oil,oil
+1102,okra,Okra,okra
+1103,olive oil,olive oil,olive oil
+1104,Onion,onion,onion
+1105,Onion powder,Onion powder,onion powder
+1106,Onion Rings,Onion Rings,onion ring
+1107,or 2 Coal,or 2 Coal,or 2 coal
+1108,or 2 Dry Red Chilli,or 2 Dry Red Chilli,or 2 dry red chilli
+1109,or 2 Green Chillies,or 2 Green Chillies,or 2 green chilly
+1110,or 2 Fresh Red chillies,or 2 Fresh Red chillies,or 2 red chilly
+1111,or 2 Yellow food colour,or 2 Yellow food colour,or 2 yellow food colour
+1112,or 4 Green Chillies,or 4 Green Chillies,or 4 green chilly
+1113,or 5 Curry leaves,or 5 Curry leaves,or 5 curry leaf
+1114,Orange,Orange,orange
+1115,Orange Bell pepper,Capsicum,capsicum
+1115,Orange Bell pepper,Orange Bell pepper,orange bell pepper
+1116,Orange blossom water,Orange blossom water,orange blossom water
+1117,Orange color,Orange color,orange color
+1118,Fresh orange juice,Fresh orange juice,orange juice
+1119,Orange liquor,Orange liquor,orange liquor
+1120,Orange marmalade jam,Orange marmalade jam,orange marmalade jam
+1121,Orange peel,Orange peel,orange peel
+1122,Orange pulp,Orange pulp,orange pulp
+1123,Orange Zest,Orange Zest,orange zest
+1123,Orange Zest,Rind,rind
+1124,Fresh oregano,Fresh oregano,oregano
+1125,Oreo biscuits,Oreo biscuits,oreo biscuit
+1126,Orzo pasta,Orzo pasta,orzo pasta
+1127,Oysters,Oysters,oyster
+1128,Oyster sauce,Oyster sauce,oyster sauce
+1129,Pabda fish,Pabda fish,pabda fish
+1130,Pachranga Pickle,Pachranga Pickle,pachranga pickle
+1131,Palm Fruit,Palm Fruit,palm fruit
+1132,Palm jaggery,Palm jaggery,palm jaggery
+1133,Palm sugar,Palm sugar,palm sugar
+1134,Panch Foran Masala,Panch Foran Masala,panch foran masala
+1135,Panch Four Masala,Panch Four Masala,panch four masala
+1136,Panch Phoran Masala,Panch Phoran Masala,panch phoran masala
+1137,Pandan leaf,Pandan leaf,pandan leaf
+1138,Paneer,Homemade Cottage Cheese,homemade cottage cheese
+1138,Paneer,Paneer,paneer
+1139,Pani Puris,Pani Puris,pani puri
+1140,Panini Bread,Panini Bread,panini bread
+1141,Papad,papad,papad
+1142,Papad khar,Papad khar,papad khar
+1143,Papaya,Papaya,papaya
+1144,Papaya juice,Papaya juice,papaya juice
+1145,Papdi puris,Papdi puris,papdi puri
+1146,Paprika powder,paprika powder,paprika powder
+1147,parcel,parcel,parcel
+1148,Parmesan cheese,parmesan cheese,parmesan cheese
+1149,Parmigiano reggiano cheese,Parmigiano reggiano cheese,parmigiano reggiano cheese
+1150,Parseley,Parseley,parseley
+1151,Parshe,Parshe,parshe
+1152,parsley,parsley,parsley
+1153,Parsley leaves,Parsley leaves,parsley leaf
+1154,Parsnip,Parsnip,parsnip
+1155,Parwal,Parwal,parwal
+1156,Passion fruit,Passion fruit,passion fruit
+1157,Pasta,Pasta,pasta
+1158,Pasta Fusilli,Pasta Fusilli,pasta fusilli
+1159,Pastry dough,Pastry dough,pastry dough
+1160,Pav bhaji masala,Pav bhaji masala,pav bhaji masala
+1161,Pav buns,Pav buns,pav bun
+1162,Peaches,Peaches,peache
+1163,peanuts,peanut,peanut
+1164,Peanut Butter,Peanut Butter,peanut butter
+1165,Peanut oil,Peanut oil,peanut oil
+1166,peanut powder,peanut powder,peanut powder
+1167,Pears,Pears,pear
+1168,Pearl onions,Pearl onions,pearl onion
+1168,Pearl onions,Sambar Onions,sambar onion
+1169,Pecans,Pecans,pecan
+1170,peel,peel,peel
+1171,peel and chop,peel and chop,peel and chop
+1172,Penne pasta,Penne pasta,penne pasta
+1173,whole pepper,whole pepper,pepper
+1174,pepper powder,pepper powder,pepper powder
+1175,peppermint,peppermint,peppermint
+1176,Peruvian Beans,Peruvian Beans,peruvian bean
+1177,Pheni,Pheni,pheni
+1178,Phool Makhana,Lotus Seeds,lotus seed
+1178,Phool Makhana,Phool Makhana,phool makhana
+1179,Phulka,Phulka,phulka
+1180,Phyllo dough,Phyllo dough,phyllo dough
+1181,Phyllo Sheets,Phyllo Sheets,phyllo sheet
+1182,Phyllo Tartlet Cups,Phyllo Tartlet Cups,phyllo tartlet cup
+1183,pickle,pickle,pickle
+1184,Pickle masala,Pickle masala,pickle masala
+1185,pickle spice,pickle spice,pickle spice
+1186,Pickled Jalapenos,Pickled Jalapenos,pickled jalapeno
+1187,Pickled onions,Pickled onions,pickled onion
+1188,pigeonpea,pigeonpea,pigeonpea
+1189,Pimiento-stuffed green olives,Pimiento-stuffed green olives,pimiento stuffed green olive
+1190,pinch Ajwain,Carom seeds,carom seed
+1190,pinch Ajwain,pinch Ajwain,pinch ajwain
+1191,pinch Asafoetida,hing,hing
+1191,pinch Asafoetida,Pinch Asafoetida,pinch asafoetida
+1192,pinch Baking powder,pinch Baking powder,pinch baking powder
+1193,pinch Baking soda,pinch Baking soda,pinch baking soda
+1194,pinch Black pepper powder,pinch Black pepper powder,pinch black pepper powder
+1195,pinch Whole Black Peppercorns,pinch Whole Black Peppercorns,pinch black peppercorn
+1196,pinch Black Salt,Kala Namak,kala namak
+1196,pinch Black Salt,pinch Black Salt,pinch black salt
+1197,pinch Cardamom Powder,Elaichi,elaichi
+1197,pinch Cardamom Powder,pinch Cardamom Powder,pinch cardamom powder
+1198,pinch Cayenne Pepper,pinch Cayenne Pepper,pinch cayenne pepper
+1199,pinch Chaat Masala Powder,pinch Chaat Masala Powder,pinch chaat masala powder
+1200,pinch Cinnamon Powder,Dalchini,dalchini
+1200,pinch Cinnamon Powder,pinch Cinnamon Powder,pinch cinnamon powder
+1201,pinch Cocoa Powder,pinch Cocoa Powder,pinch cocoa powder
+1202,pinch Cooking soda,pinch cooking soda,pinch cooking soda
+1203,pinch Coriander Powder,Dhania,dhania
+1203,pinch Coriander Powder,pinch Coriander Powder,pinch coriander powder
+1204,pinch Cumin powder,Jeera,jeera
+1204,pinch Cumin powder,pinch Cumin powder,pinch cumin powder
+1205,pinch Cumin seeds,Jeera,jeera
+1205,pinch Cumin seeds,pinch Cumin seeds,pinch cumin seed
+1206,pinch Edible camphor,pacha karpooram,pacha karpooram
+1206,pinch Edible camphor,pinch Edible camphor,pinch edible camphor
+1207,pinch Enos fruit salt,pinch Enos fruit salt,pinch enos fruit salt
+1208,pinch Food Color,pinch Food Color,pinch food color
+1209,pinch Garam masala powder,pinch Garam masala powder,pinch garam masala powder
+1210,pinch Garlic powder,pinch Garlic powder,pinch garlic powder
+1211,pinch Garlic salt,pinch Garlic salt,pinch garlic salt
+1212,pinch Jaggery,pinch Jaggery,pinch jaggery
+1213,pinch Kala jeera,pinch Kala jeera,pinch kala jeera
+1214,pinch Kalonji,Onion Nigella Seeds,onion nigella seed
+1214,pinch Kalonji,pinch Kalonji,pinch kalonji
+1215,pinch Kashmiri Red Chilli Powder,pinch Kashmiri Red Chilli Powder,pinch kashmiri red chilli powder
+1216,pinch Kasuri Methi,Dried Fenugreek Leaves,dried fenugreek leaf
+1216,pinch Kasuri Methi,pinch Kasuri Methi,pinch kasuri methi
+1217,pinch Kosher salt,pinch Kosher salt,pinch kosher salt
+1218,pinch Lemon juice,pinch Lemon juice,pinch lemon juice
+1219,Pinch Lemon zest,Pinch Lemon zest,pinch lemon zest
+1220,pinch Methi Powder,Fenugreek Powder,fenugreek powder
+1220,pinch Methi Powder,pinch Methi Powder,pinch methi powder
+1221,pinch Nutmeg,pinch Nutmeg,pinch nutmeg
+1222,pinch Nutmeg powder,pinch Nutmeg powder,pinch nutmeg powder
+1223,pinch Orange color,pinch Orange color,pinch orange color
+1224,pinch Raita masala,pinch Raita masala,pinch raita masala
+1225,pinch Red Chilli flakes,pinch Red Chilli flakes,pinch red chilli flake
+1226,pinch Red Chilli powder,pinch Red Chilli powder,pinch red chilli powder
+1227,pinch Rock Salt,pinch Rock Salt,pinch rock salt
+1228,pinch Saffron strands,pinch Saffron strands,pinch saffron strand
+1229,pinch Salt,Pinch Salt,pinch salt
+1230,pinch Sea salt,pinch Sea salt,pinch sea salt
+1231,pinch Sichuan peppercorns,pinch Sichuan peppercorns,pinch sichuan peppercorn
+1232,pinch SSP Asafoetida,Hing,hing
+1232,pinch SSP Asafoetida,pinch SSP Asafoetida,pinch ssp asafoetida
+1233,pinch Sugar,pinch Sugar,pinch sugar
+1234,pinch Turmeric powder,Haldi,haldi
+1234,pinch Turmeric powder,pinch Turmeric powder,pinch turmeric powder
+1235,pinch Yellow food colour,pinch Yellow food colour,pinch yellow food colour
+1236,Pine nuts,Pine nuts,pine nut
+1237,Pineapple,Pineapple,pineapple
+1238,Pineapple Essence,Pineapple Essence,pineapple essence
+1239,Pineapple juice,Pineapple juice,pineapple juice
+1240,Pink Flesh Dragon Fruit/Pitaya,Pink Flesh Dragon Fruit/Pitaya,pink flesh dragon fruit pitaya
+1241,Pink Food colour,Pink Food colour,pink food colour
+1242,Pink Masoor Dal,Pink Masoor Dal,pink masoor dal
+1243,Pinto Beans,Pinto Beans,pinto bean
+1244,Pirandai,Pirandai,pirandai
+1245,Pistachios,Pistachios,pistachio
+1246,Pistachio extract,Pistachio extract,pistachio extract
+1247,Pita chips,Pita chips,pita chip
+1248,Pita saga,Pita saga,pita saga
+1249,Pitted Cherries,Pitted Cherries,pitted cherry
+1250,Pizza base,Pizza base,pizza base
+1251,Pizza seasoning,Pizza seasoning,pizza seasoning
+1252,Plantain Stem,Plantain Stem,plantain stem
+1253,Plums,Plum,plum
+1254,Plum Rose Fruit,Plum Rose Fruit,plum rose fruit
+1255,Plum sauce,Plum sauce,plum sauce
+1256,Poblano Chillies,Poblano Chillies,poblano chilly
+1257,Poha,Flattened rice,flattened rice
+1257,Poha,Poha,poha
+1258,Pohala fish,Pohala fish,pohala fish
+1259,Pointed gourd,Parval,parval
+1259,Pointed gourd,Pointed gourd,pointed gourd
+1260,Polenta,Polenta,polenta
+1261,pomegranate,pomegranate,pomegranate
+1262,Fresh Pomegranate Fruit Kernels,Fresh Pomegranate Fruit Kernels,pomegranate fruit kernel
+1263,Pomegranate juice,Pomegranate juice,pomegranate juice
+1264,Pomegranate molasses,Pomegranate molasses,pomegranate molasse
+1265,pomegranate powder,pomegranate powder,pomegranate powder
+1266,Pomegranate Sauce,Pomegranate Sauce,pomegranate sauce
+1267,Pomfret fish,Pomfret fish,pomfret fish
+1268,Poppy Poppy,Poppy Poppy,poppy poppy
+1269,poppy poppy seeds,poppy poppy seeds,poppy poppy seed
+1270,Poppy seeds,Poppy seeds,poppy seed
+1271,Pork belly,Pork belly,pork belly
+1272,Pork sausage,Pork sausage,pork sausage
+1273,Portobello mushrooms,Portobello mushrooms,portobello mushroom
+1274,Potatoes,Aloo,aloo
+1274,Potatoes,Potato,potato
+1275,Potato Masala,Potato Masala,potato masala
+1276,powder,Laung,laung
+1276,powder,powder,powder
+1277,Prawns,Prawns,prawn
+1278,Preserved pineapple,Preserved pineapple,preserved pineapple
+1279,Pretzels,Pretzels,pretzel
+1280,Processed Cheese,Processed Cheese,processed cheese
+1281,Provolone Cheese,Provolone Cheese,provolone cheese
+1282,Prunes,prune,prune
+1283,Prune Spread,Prune Spread,prune spread
+1284,Pudina Dahi Chutney,Pudina Dahi Chutney,pudina dahi chutney
+1285,Puff Pastry Sheet,Puff Pastry Sheet,puff pastry sheet
+1286,Puffed Grains,Puffed Grains,puffed grain
+1287,Puffed rice,Puffed rice,puffed rice
+1288,Puliodarai Powder,Puliodarai Powder,puliodarai powder
+1289,pumpkin,pumpkin,pumpkin
+1290,Pumpkin flowers,Pumpkin flowers,pumpkin flower
+1291,Pumpkin leaves,Pumpkin leaves,pumpkin leaf
+1292,Pumpkin Pasta Sauce,Pumpkin Pasta Sauce,pumpkin pasta sauce
+1293,Pumpkin pie spice,Pumpkin pie spice,pumpkin pie spice
+1294,Pumpkin puree,Pumpkin puree,pumpkin puree
+1295,Pumpkin seeds,Pumpkin seeds,pumpkin seed
+1296,Punjabi Aloo Samosa,Punjabi Aloo Samosa,punjabi aloo samosa
+1297,Punjabi style mango pickle,Punjabi style mango pickle,punjabi style mango pickle
+1298,Puris used for Pani Puri,Puris used for Pani Puri,puris used for pani puri
+1299,Purple Basil,Purple Basil,purple basil
+1300,Purple cabbage,Purple cabbage,purple cabbage
+1301,Purple Carrots,Purple Carrots,purple carrot
+1302,Purple yam,Purple yam,purple yam
+1303,Quail eggs,Quail eggs,quail egg
+1304,Quinoa,Quinoa,quinoa
+1305,Quinoa flour,Quinoa flour,quinoa flour
+1306,Rabdi,Rabdi,rabdi
+1307,rabodi,dried corn papad,dried corn papad
+1307,rabodi,rabodi,rabodi
+1308,Rabri,Rabri,rabri
+1309,Radhuni,Radhuni,radhuni
+1310,radish,radish,radish
+1311,radish leaves,radish leaves,radish leaf
+1312,radishes,radishes,radishe
+1313,Ragi Dosa Batter,Ragi Dosa Batter,ragi dosa batter
+1314,Ragi Dosa Battter,Ragi Dosa Battter,ragi dosa battter
+1315,Ragi Flour,Finger Millet,finger millet
+1315,Ragi Flour,Nagli,nagli
+1315,Ragi Flour,ragi flour,ragi flour
+1316,Ragi Rava,Ragi Rava,ragi rava
+1317,Ragi Seeds,Ragi Seeds,ragi seed
+1318,Raisins,Raisins,raisin
+1319,Rajgira Flour,Amaranth Flour,amaranth flour
+1319,Rajgira Flour,Rajgira Flour,rajgira flour
+1320,Rajma,Large Kidney Beans,large kidney bean
+1320,Rajma,Rajma,rajma
+1321,Ranch Sauce,Ranch Sauce,ranch sauce
+1322,Ras el hanout spice blend,Ras el hanout spice blend,ras el hanout spice blend
+1323,Rasam Powder,Rasam Powder,rasam powder
+1324,Rasgulla,Rasgulla,rasgulla
+1325,Rasgulla syrup,Rasgulla syrup,rasgulla syrup
+1326,Fresh raspberries,Fresh raspberries,raspberry
+1327,Raspberry Compote,Raspberry Compote,raspberry compote
+1328,Ratan jot,alkanet,alkanet
+1328,Ratan jot,Ratan jot,ratan jot
+1329,Raw Banana,Raw Banana,raw banana
+1330,Raw banana peel,Raw banana peel,raw banana peel
+1331,raw mango,raw mango,raw mango
+1332,Raw papaya,Raw papaya,raw papaya
+1333,Raw Peanuts,Moongphali,moongphali
+1333,Raw Peanuts,Raw Peanuts,raw peanut
+1334,Raw rice,Raw rice,raw rice
+1335,Reacheado Masala,Reacheado Masala,reacheado masala
+1336,recipe All Purpose Pie Crust,recipe All Purpose Pie Crust,recipe all purpose pie crust
+1337,recipe Chocolate ganache,recipe Chocolate ganache,recipe chocolate ganache
+1338,recipe Pastry dough,recipe Pastry dough,recipe pastry dough
+1339,Red Amaranth Leaves,Red Amaranth Leaves,red amaranth leaf
+1340,Red baby radish,Red baby radish,red baby radish
+1341,Red Bell pepper,Capsicum,capsicum
+1341,Red Bell pepper,Red Bell pepper,red bell pepper
+1342,Red Black Eyed Beans,Azuki,azuki
+1342,Red Black Eyed Beans,Red Black Eyed Beans,red black eyed bean
+1343,Red cabbage,Red cabbage,red cabbage
+1344,red chili,red chili,red chili
+1345,red chili powder,red chili powder,red chili powder
+1346,Fresh Red Chilli,Fresh Red Chilli,red chilli
+1347,Red Chilli flakes,red chilli flakes,red chilli flake
+1348,red chilli flax,red chilli flax,red chilli flax
+1349,Red Chilli Paste,Red Chilli Paste,red chilli paste
+1350,Red Chilli powder,red chilli powder,red chilli powder
+1351,Red Chilli sauce,red chilli sauce,red chilli sauce
+1352,Fresh Red chillies,Fresh Red chillies,red chilly
+1353,Red Food Color,Red Food Color,red food color
+1354,Red grapes,Red grapes,red grape
+1355,Red khara sev,Red khara sev,red khara sev
+1356,Red matta rice,Red matta rice,red matta rice
+1357,Red mustard seeds,Red mustard seeds,red mustard seed
+1358,Red onion,Red onion,red onion
+1359,Red Poha,Flattened Red Rice,flattened red rice
+1359,Red Poha,Red Poha,red poha
+1360,Red Radish,Red Radish,red radish
+1361,Red Romaine lettuce,Red Romaine lettuce,red romaine lettuce
+1362,Red seedless grapes,Red seedless grapes,red seedless grape
+1363,Red wine,Red wine,red wine
+1364,Red Wine Vinaigrette,Red Wine Vinaigrette,red wine vinaigrette
+1365,Red Yellow and Green Bell Peppers,Capsicum,capsicum
+1365,Red Yellow and Green Bell Peppers,Red Yellow and Green Bell Peppers,red yellow and green bell pepper
+1366,Red Yellow or Green Bell Pepper,Capsicum,capsicum
+1366,Red Yellow or Green Bell Pepper,Red Yellow or Green Bell Pepper,red yellow or green bell pepper
+1367,Refried beans,Refried beans,refried bean
+1368,Reserved water,Reserved water,reserved water
+1369,Rice,rice,rice
+1370,Rice ada,Rice ada,rice ada
+1371,Rice flour,rice flour,rice flour
+1372,Rice Noodles,Flat,flat
+1372,Rice Noodles,Rice noodles,rice noodle
+1373,Rice paper rolls,Rice paper rolls,rice paper roll
+1374,Rice puttu,Rice puttu,rice puttu
+1375,Rice rava,rice rava,rice rava
+1376,Rice Vermicelli Noodles,Rice Vermicelli Noodles,rice vermicelli noodle
+1376,Rice Vermicelli Noodles,Thin,thin
+1377,Rice Vinegar,Rice Vinegar,rice vinegar
+1378,Rice Water,Rice Water,rice water
+1379,Rice Wine Vinegar,Rice Wine Vinegar,rice wine vinegar
+1380,Ricotta Cheese,Ricotta Cheese,ricotta cheese
+1381,Ridge Gourd,Peerkangai,peerkangai
+1381,Ridge Gourd,Ridge Gourd,ridge gourd
+1381,Ridge Gourd,Turai,turai
+1382,Ridge Gourd Skin,Peerkangai,peerkangai
+1382,Ridge Gourd Skin,Ridge Gourd Skin,ridge gourd skin
+1382,Ridge Gourd Skin,Turai,turai
+1383,Ripe Bananas,Ripe Bananas,ripe banana
+1384,Risotto,Risotto,risotto
+1385,Risotto Rice,Risotto Rice,risotto rice
+1386,roasted chana dal,roasted chana dal,roasted chana dal
+1387,roasted chana lentils,roasted chana lentils,roasted chana lentil
+1388,Roasted Gram Dal,Pottukadalai,pottukadalai
+1388,Roasted Gram Dal,Roasted Gram Dal,roasted gram dal
+1389,Roasted Gram Flour,Roasted Gram Flour,roasted gram flour
+1389,Roasted Gram Flour,Sattu Ka Atta,sattu ka atta
+1390,Roasted Peanuts,Moongphali,moongphali
+1390,Roasted Peanuts,Roasted Peanuts,roasted peanut
+1391,Roasted tomato pasta sauce,Roasted tomato pasta sauce,roasted tomato pasta sauce
+1392,Roasted Tomato Sauce,Roasted Tomato Sauce,roasted tomato sauce
+1393,Rock Salt,Rock Salt,rock salt
+1394,Rocket leaves,Rocket leaves,rocket leaf
+1395,Rohu fish,Rohu fish,rohu fish
+1396,Rolled Oats,Rolled Oats,rolled oat
+1397,Rolled Oats Or Instant Oats,Rolled Oats Or Instant Oats,rolled oats or instant oat
+1398,Rooh afza sharbat,Rooh afza sharbat,rooh afza sharbat
+1399,Roomali roti,Roomali roti,roomali roti
+1400,Rose Essence,Rose Essence,rose essence
+1401,Rose Petals,Fresh rose petals,rose petal
+1402,Rose syrup,Rose syrup,rose syrup
+1403,Rose water,rose water,rose water
+1404,Rosemary,rosemary,rosemary
+1405,roti,roti,roti
+1406,Route Pasta,Route Pasta,route pasta
+1407,royal cumin,royal cumin,royal cumin
+1408,Rum,Rum,rum
+1409,Runner beans,Runner beans,runner bean
+1410,Rusk,Rusk,rusk
+1411,rye,rye,rye
+1412,Rye Bread,Rye Bread,rye bread
+1413,Sabudana,Sabudana,sabudana
+1413,Sabudana,Tapioca Pearls,tapioca pearl
+1414,Sabza seeds,Sabza seeds,sabza seed
+1415,saffron,saffron,saffron
+1416,Saffron strands,Saffron strands,saffron strand
+1417,Sage,Sage,sage
+1418,Salad leaves,Salad leaves,salad leaf
+1419,Salmon fillet,Salmon fillet,salmon fillet
+1420,Salt,Salt,salt
+1421,Salt and Pepper,Salt and Pepper,salt and pepper
+1422,Salted butter,Salted butter,salted butter
+1423,Sama Flour,Little Millet,little millet
+1423,Sama Flour,Sama Flour,sama flour
+1424,Sambal oelek,Sambal oelek,sambal oelek
+1425,Sambal paste,Sambal paste,sambal paste
+1426,Sambar Powder,sambar powder,sambar powder
+1427,Samosas,Samosas,samosa
+1428,Samvat rice,Samvat rice,samvat rice
+1429,Sangri,Sangri,sangri
+1430,Saoji masala,Saoji masala,saoji masala
+1431,Sardine fish,Sardine fish,sardine fish
+1432,Sarsaparilla,Mahali root,mahali root
+1432,Sarsaparilla,Sarsaparilla,sarsaparilla
+1433,Sauerkraut,Sauerkraut,sauerkraut
+1434,save,save,save
+1435,Schezwan sauce,Schezwan sauce,schezwan sauce
+1436,scoop Vanilla Ice cream,scoop Vanilla Ice cream,scoop vanilla ice cream
+1437,Sea salt,Sea salt,sea salt
+1438,Seaweed Sheets,Seaweed Sheets,seaweed sheet
+1439,Seer fish,Seer fish,seer fish
+1440,Seeraga Samba rice,Jeeraga,jeeraga
+1440,Seeraga Samba rice,Seeraga Samba rice,seeraga samba rice
+1441,Semia,Semia,semia
+1442,Semiya,Semiya,semiya
+1442,Semiya,Vermicelli,vermicelli
+1443,semolina,semolina,semolina
+1444,Serrano Pepper,Serrano Pepper,serrano pepper
+1445,sesame,sesame,sesame
+1445,sesame,white,white
+1446,Sesame Oil,Gingelly,gingelly
+1446,Sesame Oil,sesame oil,sesame oil
+1447,Sesame powder,sesame powder,sesame powder
+1448,Sesame seeds,Sesame seeds,sesame seed
+1448,Sesame seeds,Til seeds,til seed
+1448,Sesame seeds,white,white
+1449,sesame seeds Oil,sesame seeds Oil,sesame seeds oil
+1450,Sev,Sev,sev
+1451,Seven up,Seven up,seven up
+1452,Shallots,Shallot,shallot
+1453,Shark fish,Shark fish,shark fish
+1454,Shell Pasta,Shell Pasta,shell pasta
+1455,Sherry,Sherry,sherry
+1456,Shiitake mushrooms,Shiitake mushrooms,shiitake mushroom
+1457,Shortbread cookies,Shortbread cookies,shortbread cooky
+1458,Shrikhand,Shrikhand,shrikhand
+1459,Shrimps,Shrimps,shrimp
+1460,Sichuan peppercorns,Sichuan peppercorns,sichuan peppercorn
+1461,Silver Balls,Silver Balls,silver ball
+1462,Singhade,Singhade,singhade
+1462,Singhade,water chestnut,water chestnut
+1463,Singoda Flour,Singoda Flour,singoda flour
+1463,Singoda Flour,Water Chestnut,water chestnut
+1464,Slider bun,Slider bun,slider bun
+1465,Slivered Almonds,Badam,badam
+1465,Slivered Almonds,Slivered Almonds,slivered almond
+1466,Small Brinjal,Baingan,baingan
+1466,Small Brinjal,Eggplant,eggplant
+1466,Small Brinjal,Small Brinjal,small brinjal
+1467,Small Green brinjal,green aubergine,green aubergine
+1467,Small Green brinjal,Small Green brinjal,small green brinjal
+1468,small onions,small onion,small onion
+1469,small potatoes,small potatoes,small potato
+1470,Snake gourd,pudulangai,pudulangai
+1470,Snake gourd,Snake gourd,snake gourd
+1471,Snow peas,Snow peas,snow pea
+1472,Soba noodles,Soba noodles,soba noodle
+1473,soda,soda,soda
+1474,Soft Taco Shells,Soft Taco Shells,soft taco shell
+1475,Sooji,Rava,rava
+1475,Sooji,Semolina,semolina
+1475,Sooji,Sooji,sooji
+1476,Sorghum,Sorghum,sorghum
+1477,Sorrel Leaves,Gongura,gongura
+1477,Sorrel Leaves,Sorrel Leaves,sorrel leaf
+1478,Soup buns,Soup buns,soup bun
+1479,Sour cream,Sour cream,sour cream
+1480,Sourdough bread,Sourdough bread,sourdough bread
+1481,Soy Chunks,Nuggets,nugget
+1481,Soy Chunks,soy chunks,soy chunk
+1482,Soy Flakes,Soy Flakes,soy flake
+1483,Soy flour,Soy flour,soy flour
+1484,Soy granules,Soy granules,soy granule
+1485,Soy milk,Soy milk,soy milk
+1486,Soy sauce,Soy sauce,soy sauce
+1487,Soya Chaap,Soya Chaap,soya chaap
+1488,soya chunks,soya chunks,soya chunk
+1489,Soya sauce,Soya sauce,soya sauce
+1490,Soybeans,Soybeans,soybean
+1490,Soybeans,Whole Soya dal,soya dal
+1491,Spaghetti Pasta,Spaghetti Pasta,spaghetti pasta
+1492,Spinach,spinach,spinach
+1493,Spinach Basil Sauce,Spinach Basil Sauce,spinach basil sauce
+1494,Spinach Leaves,Palak,palak
+1494,Spinach Leaves,Spinach Leaves,spinach leaf
+1495,Spirali pasta,Spirali pasta,spirali pasta
+1496,Spirulina,Spirulina,spirulina
+1497,Split Methi Seeds,Methi Kuria,methi kuria
+1497,Split Methi Seeds,Split Methi Seeds,split methi seed
+1498,Split Mustard Seeds,Rai Kuria,rai kuria
+1498,Split Mustard Seeds,Split Mustard Seeds,split mustard seed
+1499,Sponge cake slice,Sponge cake slice,sponge cake slice
+1500,Spoon whole black pepper,Spoon whole black pepper,spoon black pepper
+1501,Spoon coconut,Spoon coconut,spoon coconut
+1502,Spoon cumin powder,Spoon cumin powder,spoon cumin powder
+1503,spoon curry leaves,spoon curry leaves,spoon curry leaf
+1504,spoon gram flour,spoon gram flour,spoon gram flour
+1505,. Spoon oil,. Spoon oil,spoon oil
+1506,Spoon peanuts,Spoon peanuts,spoon peanut
+1507,Sprig Extract of Natural Bourbon Vanilla,Sprig Extract of Natural Bourbon Vanilla,sprig extract of natural bourbon vanilla
+1508,Sprig Ginger Teriyaki Sauce,Sprig Ginger Teriyaki Sauce,sprig ginger teriyaki sauce
+1509,Spring Onion,Bulb & Greens,bulb green
+1509,Spring Onion,Spring Onion,spring onion
+1510,Spring Onion Bulbs,Spring Onion Bulbs,spring onion bulb
+1511,Spring Onion Greens,Spring Onion Greens,spring onion green
+1512,Spring Roll Wrappers,Spring Roll Wrappers,spring roll wrapper
+1513,Sprite,Sprite,sprite
+1514,sprouts,sprouts,sprout
+1515,sprouted moong,sprouted moong,sprouted moong
+1516,Sprouted Ragi,Sprouted Ragi,sprouted ragi
+1517,Squid,Squid,squid
+1518,Sriracha sauce,Sriracha sauce,sriracha sauce
+1519,SSP Asafoetida,Hing,hing
+1519,SSP Asafoetida,SSP Asafoetida,ssp asafoetida
+1520,Stalk Celery,Stalk Celery,stalk celery
+1521,Stalk Coriander Leaves,Dhania,dhania
+1521,Stalk Coriander Leaves,Stalk Coriander Leaves,stalk coriander leaf
+1522,Stalk Lemon Grass,Stalk Lemon Grass,stalk lemon grass
+1523,Stalk Lemongrass,Stalk Lemongrass,stalk lemongrass
+1524,Stalk Parsley leaves,Stalk Parsley leaves,stalk parsley leaf
+1525,Stalk Spring Onion,Bulb & Greens,bulb green
+1525,Stalk Spring Onion,Stalk Spring Onion,stalk spring onion
+1526,Stalk Spring Onion Greens,stalk Spring Onion Greens,stalk spring onion green
+1527,Stalks Asparagus,Stalks Asparagus,stalks asparagu
+1528,Stalks Celery,stalks Celery,stalks celery
+1529,Stalks Knol khol Leaves,Ganth Gobi leaves,ganth gobi leaf
+1529,Stalks Knol khol Leaves,Stalks Knol khol Leaves,stalks knol khol leaf
+1530,Stalks Leek,Stalks Leek,stalks leek
+1531,Stalks Lemon Grass,Stalks Lemon Grass,stalks lemon grass
+1532,Stalks Lemongrass,Stalks Lemongrass,stalks lemongrass
+1533,Stalks Parsley leaves,Stalks Parsley leaves,stalks parsley leaf
+1534,Stalks Rasna,Stalks Rasna,stalks rasna
+1535,Stalks Spinach Leaves,Palak,palak
+1535,Stalks Spinach Leaves,Stalks Spinach Leaves,stalks spinach leaf
+1536,Stalks Spring Onion,Bulb & Greens,bulb green
+1536,Stalks Spring Onion,stalks Spring Onion,stalks spring onion
+1537,Stalks Spring Onion Greens,Stalks Spring Onion Greens,stalks spring onion green
+1538,Star Anees,Star Anees,star anee
+1539,star anis,star anis,star ani
+1540,Star anise,star anise,star anise
+1541,Star fruit,Star fruit,star fruit
+1542,Stock Celery,Stock Celery,stock celery
+1543,stock green coriander,stock green coriander,stock green coriander
+1544,Stock Lemongrass,Stock Lemongrass,stock lemongrass
+1545,Stone flower,Stone flower,stone flower
+1546,Strawberries,Strawberries,strawberry
+1547,Strawberry Cake,Strawberry Cake,strawberry cake
+1548,Strawberry Compote,Strawberry Compote,strawberry compote
+1549,Strawberry Essense,Strawberry Essense,strawberry essense
+1550,Strawberry jam,Strawberry jam,strawberry jam
+1551,Strawberry Vodka,Strawberry Vodka,strawberry vodka
+1552,Strawberry wafers,Strawberry wafers,strawberry wafer
+1553,Submarine Bread,Submarine Bread,submarine bread
+1553,Submarine Bread,Subway Bread,subway bread
+1554,Sugar,Sugar,sugar
+1555,Sugar snap peas,Sugar snap peas,sugar snap pea
+1556,Sugar syrup,Sugar syrup,sugar syrup
+1557,Sugarcane Juice,Sugarcane Juice,sugarcane juice
+1558,Sultanas,Sultanas,sultana
+1559,Sumac,Sumac,sumac
+1560,Summac,Summac,summac
+1561,Summer Salad,Summer Salad,summer salad
+1562,Sun Dried Tomatoes,Sun Dried Tomatoes,sun dried tomato
+1563,Sun Dried Tomato Pesto,Sun Dried Tomato Pesto,sun dried tomato pesto
+1564,Sundakkai,Sundakkai,sundakkai
+1564,Sundakkai,Turkey Berries,turkey berry
+1565,Sundkai,Sundkai,sundkai
+1566,Sundried tomatoes,Sundried tomatoes,sundried tomato
+1567,Sunflower Oil,Sunflower Oil,sunflower oil
+1568,Sunflower seeds,Sunflower seeds,sunflower seed
+1569,suran,suran,suran
+1570,Sweet and Spicy Red Chilli Sauce,Sweet and Spicy Red Chilli Sauce,sweet and spicy red chilli sauce
+1570,Sweet and Spicy Red Chilli Sauce,Tomato Chilli Sauce,tomato chilli sauce
+1571,Sweet Boondi,Sweet Boondi,sweet boondi
+1572,Sweet Chutney,Date & Tamarind,date tamarind
+1572,Sweet Chutney,Sweet Chutney,sweet chutney
+1573,Sweet corn,sweet corn,sweet corn
+1574,Sweet paan mix,Sweet paan mix,sweet paan mix
+1575,Sweet piquanté pepper,Sweet piquanté pepper,sweet piquant pepper
+1576,Sweet Potatoes,Sweet Potato,sweet potato
+1577,Sweetened coconut flakes,Sweetened coconut flakes,sweetened coconut flake
+1578,Swiss cheese,Swiss cheese,swiss cheese
+1579,Tabasco Original,Tabasco Original,tabasco original
+1580,tablespoon Badam,Almond,almond
+1580,tablespoon Badam,tablespoon Badam,tablespoon badam
+1581,tablespoon Dates,tablespoon Dates,tablespoon date
+1582,Taco seasoning,Taco seasoning,taco seasoning
+1583,Tagliatelle pasta,Tagliatelle pasta,tagliatelle pasta
+1584,Tahini,Tahini,tahini
+1585,take out 1 teaspoon cumin seeds,take out 1 teaspoon cumin seeds,take out 1 teaspoon cumin seed
+1586,Tamarind,tamarind,tamarind
+1587,tamarind chutney,tamarind chutney,tamarind chutney
+1588,Tamarind Paste,tamarind Paste,tamarind paste
+1589,tamarind sauce,tamarind sauce,tamarind sauce
+1590,Tamarind Water,tamarind water,tamarind water
+1591,Tandoori chicken masala,Tandoori chicken masala,tandoori chicken masala
+1592,Tandoori masala,Tandoori masala,tandoori masala
+1593,Tapioca Flour,Sago,sago
+1593,Tapioca Flour,Tapioca Flour,tapioca flour
+1594,Tapioca root,Tapioca root,tapioca root
+1595,Taro root,Taro root,taro root
+1596,Tarragon,Tarragon,tarragon
+1597,Tawa Paratha,Tawa Paratha,tawa paratha
+1598,Tea bags,Tea bags,tea bag
+1599,Tea leaves,tea leaves,tea leaf
+1600,Tea Monk Bodh Second Flush Black Tea,Tea Monk Bodh Second Flush Black Tea,tea monk bodh second flush black tea
+1601,Tea Monk Oolong Tea,Tea Monk Oolong Tea,tea monk oolong tea
+1602,Tea Monk Seiki Peppermint Green Tea,Tea Monk Seiki Peppermint Green Tea,tea monk seiki peppermint green tea
+1603,teaspoon Cashew nuts,teaspoon Cashew nuts,teaspoon cashew nut
+1604,Teaspoon celery,Teaspoon celery,teaspoon celery
+1605,teaspoon Raisins,teaspoon Raisins,teaspoon raisin
+1606,Teaspoon turmeric powder,Teaspoon turmeric powder,teaspoon turmeric powder
+1607,Tender coconut meat,Tender coconut meat,tender coconut meat
+1608,Tender coconut water,Tender coconut water,tender coconut water
+1609,Tender Mango,Appe Midi,appe midi
+1609,Tender Mango,Tender Mango,tender mango
+1610,Tequila,Tequila,tequila
+1611,Teriyaki Sauce,Teriyaki Sauce,teriyaki sauce
+1612,Tetley Long Leaf Green Tea,Tetley Long Leaf Green Tea,tetley long leaf green tea
+1613,Thai basil leaves,Thai Basil leaves,thai basil leaf
+1614,Thai Green Curry paste,Thai Green Curry paste,thai green curry paste
+1615,Thai Jasmine Rice,Thai Jasmine Rice,thai jasmine rice
+1616,Thai Red chilli,Birds Eye Chilli,birds eye chilli
+1616,Thai Red chilli,Thai Red chilli,thai red chilli
+1617,Thai Red Curry Paste,Thai Red Curry Paste,thai red curry paste
+1618,Thai Sweet Chilli Sauce,Thai Sweet Chilli Sauce,thai sweet chilli sauce
+1619,Thai Yellow Curry Paste,Thai Yellow Curry Paste,thai yellow curry paste
+1620,Thandai Masala,Thandai Masala,thandai masala
+1621,Thandai Powder,Thandai Powder,thandai powder
+1622,Thandai syrup,Thandai syrup,thandai syrup
+1623,Thattai,Thattai,thattai
+1624,Thin Semiya,Seviyan,seviyan
+1624,Thin Semiya,Thin Semiya,thin semiya
+1625,Thonnai,dried leaves,dried leaf
+1625,Thonnai,Thonnai,thonnai
+1626,Fresh Thyme leaves,Fresh Thyme leaves,thyme leaf
+1627,tighten 3 cloves garlic,tighten 3 cloves garlic,tighten 3 cloves garlic
+1628,tighten it,tighten it,tighten it
+1629,Tikka Masala,Tikka Masala,tikka masala
+1630,Tinda,Apple Gourd,apple gourd
+1630,Tinda,Tinda,tinda
+1631,Tindora,Dondakaya,dondakaya
+1631,Tindora,Kovakkai,kovakkai
+1631,Tindora,Tindora,tindora
+1632,Tofu,tofu,tofu
+1633,Tomatillo,Tomatillo,tomatillo
+1634,Tomato,Tomato,tomato
+1635,Tomato Basil Pasta Sauce,Tomato Basil Pasta Sauce,tomato basil pasta sauce
+1636,Tomato Ketchup,Tomato Ketchup,tomato ketchup
+1637,tomato puree,tomato puree,tomato puree
+1638,Tomato Salsa,Tomato Salsa,tomato salsa
+1639,Toothpicks,Toothpicks,toothpick
+1640,Tortillas,Tortillas,tortilla
+1641,Triple sec,Triple sec,triple sec
+1642,trumpet,trumpet,trumpet
+1643,Tulsi,holy basil,holy basil
+1643,Tulsi,Tulsi,tulsi
+1644,tur dal,tur dal,tur dal
+1645,Turkey Berries,Turkey Berries,turkey berry
+1646,turmeric,turmeric,turmeric
+1647,Turmeric leaves,Turmeric leaves,turmeric leaf
+1648,Turmeric powder,Haldi,haldi
+1648,Turmeric powder,turmeric powder,turmeric powder
+1649,Fresh turmeric root,Fresh turmeric root,turmeric root
+1650,Turnips,Turnips,turnip
+1651,Tutti frutti,Tutti frutti,tutti frutti
+1652,Tutti frutti ice cream,Tutti frutti ice cream,tutti frutti ice cream
+1653,Tzatziki,Tzatziki,tzatziki
+1654,Udon noodles,Udon noodles,udon noodle
+1655,Udupi Sambar Powder,Udupi Sambar Powder,udupi sambar powder
+1656,Unparsed ingredient fragment,Unparsed ingredient fragment,unparsed ingredient fragment
+1657,urad dal,urad dal,urad dal
+1658,Urad Dal Flour,urad dal flour,urad dal flour
+1659,Urad dal papad,Urad dal papad,urad dal papad
+1660,Vangi Bath Powder,Vangi Bath Powder,vangi bath powder
+1661,Vanilla custard,Vanilla custard,vanilla custard
+1662,Vanilla Extract,Vanilla Extract,vanilla extract
+1663,Vanilla Ice cream,Vanilla Ice cream,vanilla ice cream
+1664,Veeba Burger Mayonnaise,Veeba Burger Mayonnaise,veeba burger mayonnaise
+1665,Veeba Carrot Cucumber Sandwich Spread,Veeba Carrot Cucumber Sandwich Spread,veeba carrot cucumber sandwich spread
+1666,Veeba Harissa Sauce,Veeba Harissa Sauce,veeba harissa sauce
+1667,Veeba Pasta sauce,Veeba Pasta sauce,veeba pasta sauce
+1668,Veeba Pizza & Pasta Sauce,Veeba Pizza & Pasta Sauce,veeba pizza pasta sauce
+1669,Veeba Sriracha sauce,Veeba Sriracha sauce,veeba sriracha sauce
+1670,Veeba Sweet Chilli Sauce,Veeba Sweet Chilli Sauce,veeba sweet chilli sauce
+1671,Veg Hakka Noodles,Veg Hakka Noodles,veg hakka noodle
+1672,Vegetable stock,vegetable stock,vegetable stock
+1673,Vellai Poosanikai,Ash gourd,ash gourd
+1673,Vellai Poosanikai,Vellai Poosanikai,vellai poosanikai
+1673,Vellai Poosanikai,White Pumpkin,white pumpkin
+1674,Vinegar,Vinegar,vinegar
+1675,Vivatta Maida,Vivatta Maida,vivatta maida
+1676,Walking Catfish,Walking Catfish,walking catfish
+1677,Walnuts,Walnuts,walnut
+1678,Water,Water,water
+1679,Watermelon,watermelon,watermelon
+1680,Watermelon rind,Watermelon rind,watermelon rind
+1681,Watermelon seeds,Watermelon seeds,watermelon seed
+1682,Weet bix,Weet bix,weet bix
+1683,Wheat Berries/ Whole Wheat,Wheat Berries/ Whole Wheat,wheat berries wheat
+1684,Wheat Bran,wheat bran,wheat bran
+1685,Whole Wheat Bread crumbs,Whole Wheat Bread crumbs,wheat bread crumb
+1686,Whole Wheat Brown Bread,Whole Wheat Brown Bread,wheat brown bread
+1687,Wheat Flakes,Cereal,cereal
+1687,Wheat Flakes,Wheat Flakes,wheat flake
+1688,Whole Wheat Flour,wheat flour,wheat flour
+1689,Whole Wheat Flour Tortilla,Whole Wheat Flour Tortilla,wheat flour tortilla
+1690,Wheat Germ,wheat germ,wheat germ
+1691,Wheat Grass,Wheat Grass,wheat grass
+1692,Wheat Grass Powder,Wheat Grass Powder,wheat grass powder
+1693,Wheat Noodles,Wheat Noodles,wheat noodle
+1694,Whole Wheat Oatmeal Cookies,Whole Wheat Oatmeal Cookies,wheat oatmeal cooky
+1695,Whole Wheat Pita Bread,Whole Wheat Pita Bread,wheat pita bread
+1696,Whole Wheat Pizza Dough,Whole Wheat Pizza Dough,wheat pizza dough
+1697,Whole Wheat Tawa Paratha,Whole Wheat Tawa Paratha,wheat tawa paratha
+1698,white Bacardi rum,white Bacardi rum,white bacardi rum
+1699,White beans,White beans,white bean
+1700,White broad beans,White broad beans,white broad bean
+1701,White Butter,White Butter,white butter
+1702,White Chocolate,White Chocolate,white chocolate
+1703,White garbanzo,White garbanzo,white garbanzo
+1704,White hibiscus leaves,White hibiscus leaves,white hibiscus leaf
+1705,White onion,White onion,white onion
+1706,White pepper powder,White pepper powder,white pepper powder
+1707,White Urad Dal,white urad dal,white urad dal
+1708,white urad Lentils,white urad Lentils,white urad lentil
+1709,White vinegar,White vinegar,white vinegar
+1710,White Wine,White Wine,white wine
+1711,White wine vinegar,White wine vinegar,white wine vinegar
+1712,Wild Rice,Wild Rice,wild rice
+1713,Wonton wraps,Wonton wraps,wonton wrap
+1714,wood,wood,wood
+1715,Wood apple,bael fruit,bael fruit
+1715,Wood apple,Wood apple,wood apple
+1716,Worcestershire sauce,Worcestershire sauce,worcestershire sauce
+1717,Yakisoba noodles,Yakisoba noodles,yakisoba noodle
+1718,Yellow Bell Pepper,Capsicum,capsicum
+1718,Yellow Bell Pepper,Yellow Bell Pepper,yellow bell pepper
+1719,Yellow Fenugreek Seeds,Yellow Fenugreek Seeds,yellow fenugreek seed
+1720,Yellow food colour,Yellow food colour,yellow food colour
+1721,Yellow Moong Dal,Yellow Moong Dal,yellow moong dal
+1722,Yellow mustard seeds,Yellow mustard seeds,yellow mustard seed
+1723,Yellow squash,Yellow squash,yellow squash
+1724,Yellow Zucchini,Yellow Zucchini,yellow zucchini
+1725,Yield,Yield,yield
+1726,yogurt,yogurt,yogurt
+1727,Za'atar,Za'atar,za atar
+1728,Ziti Pasta,Ziti Pasta,ziti pasta

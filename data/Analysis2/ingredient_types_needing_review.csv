@@ -1,0 +1,344 @@
+ingredient_id,canonical_name,canonical_key,ingredient_type,classification_method,default_unit_dimension,suggested_units,is_staple,recipe_occurrences,recipe_count
+1656,Unparsed ingredient fragment,unparsed ingredient fragment,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,44,35
+946,long,long,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,32,31
+146,Achari Mayo,achari mayo,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,9,9
+219,Bajra,bajra,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,9,9
+456,Coal,coal,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,9,8
+551,Del Monte Tandoori Mayo,del monte tandoori mayo,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,9,8
+1162,Peaches,peache,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,9,8
+158,All Purpose Pie Crust,all purpose pie crust,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,8,8
+427,Chironji,chironji,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,8,8
+431,Chives,chive,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,8,8
+441,Chow chow,chow chow,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,8,8
+600,Edible Silver Foil/Leaf,edible silver foil leaf,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,8,8
+656,Galangal,galangal,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,8,8
+756,Guacamole,guacamole,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,8,8
+774,Hard taco shells,hard taco shell,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,8,8
+953,Lotus Stem,lotus stem,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,8,8
+1169,Pecans,pecan,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,8,8
+1253,Plums,plum,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,8,8
+1408,Rum,rum,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,8,8
+1651,Tutti frutti,tutti frutti,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,8,8
+594,dry red chili,dry red chili,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,8,8
+730,green chilies,green chily,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,8,8
+193,Arugula leaves,arugula leaf,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,7,7
+317,Britannia Cheezza,britannia cheezza,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,7,7
+385,Charcoal,charcoal,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,7,7
+494,Couscous,couscou,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,7,7
+1653,Tzatziki,tzatziki,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,7,7
+152,Agar agar,agar agar,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,6,6
+212,Bacon strips,bacon strip,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,6,6
+254,Betel leaves,betel leaf,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,6,6
+650,French Loaf,french loaf,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,6,6
+861,Kale,kale,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,6,6
+886,Kewra essence,kewra essence,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,6,6
+1070,Nolen Gur,nolen gur,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,6,5
+1139,Pani Puris,pani puri,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,6,6
+1251,Pizza seasoning,pizza seasoning,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,6,6
+1400,Rose Essence,rose essence,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,6,6
+1496,Spirulina,spirulina,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,6,6
+1727,Za'atar,za atar,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,6,6
+1344,red chili,red chili,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,6,6
+1569,suran,suran,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,6,6
+354,Capers,caper,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,5,5
+386,Chayote,chayote,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,5,5
+468,Coffee Decoction,coffee decoction,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,5,5
+697,Gond,gond,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,5,5
+712,Granola,granola,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,5,5
+778,Hazelnut,hazelnut,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,5,5
+790,Homemade Hummus,homemade hummu,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,5,5
+894,Khuskhus,khuskhu,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,5,5
+1029,Mixed Sprouts,mixed sprout,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,5,5
+1167,Pears,pear,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,5,5
+1394,Rocket leaves,rocket leaf,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,5,5
+1417,Sage,sage,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,5,5
+1598,Tea bags,tea bag,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,5,5
+1599,Tea leaves,tea leaf,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,5,5
+597,dry red chilies,dry red chily,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,5,5
+716,green,green,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,5,5
+878,kasoori methi,kasoori methi,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,5,5
+1175,peppermint,peppermint,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,5,5
+202,Assam tea leaves,assam tea leaf,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,4,4
+242,Bathua leaves,bathua leaf,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,4,4
+541,Del Monte Cheesy Dip,del monte cheesy dip,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,4,4
+549,Del Monte Sandwich Spread,del monte sandwich spread,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,4,4
+556,Digestive biscuit,digestive biscuit,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,4,4
+1326,Fresh raspberries,raspberry,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,4,4
+708,Graham cracker crumbs,graham cracker crumb,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,4,4
+920,Lasagna sheets,lasagna sheet,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,4,4
+1155,Parwal,parwal,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,4,4
+1179,Phulka,phulka,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,4,4
+1260,Polenta,polenta,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,4,4
+1512,Spring Roll Wrappers,spring roll wrapper,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,4,4
+1559,Sumac,sumac,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,4,4
+1594,Tapioca root,tapioca root,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,4,4
+1596,Tarragon,tarragon,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,4,4
+1597,Tawa Paratha,tawa paratha,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,4,4
+1639,Toothpicks,toothpick,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,4,4
+1539,star anis,star ani,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,4,4
+167,Aloo Bhujia,aloo bhujia,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,3,3
+216,Bagel,bagel,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,3,3
+326,Brussel sprouts,brussel sprout,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,3,3
+765,Gwar pods,gwar pod,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,3,3
+787,Hog Plum,hog plum,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,3,3
+826,Indian borage,indian borage,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,3,3
+900,Knol Khol,knol khol,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,3,3
+1023,Mixed Greens,mixed green,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,3,3
+1037,Moth Sprouts,moth sprout,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,3,3
+1042,Multigrain Digestive Biscuits,multigrain digestive biscuit,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,3,3
+1060,Nachos,nacho,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,3,3
+1067,Neem leaves,neem leaf,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,3,3
+1145,Papdi puris,papdi puri,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,3,3
+1308,Rabri,rabri,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,3,3
+1324,Rasgulla,rasgulla,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,3,3
+1328,Ratan jot,ratan jot,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,3,3
+1418,Salad leaves,salad leaf,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,3,3
+1558,Sultanas,sultana,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,3,3
+1561,Summer Salad,summer salad,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,3,3
+377,chakundar,chakundar,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,3,3
+495,cowpea,cowpea,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,3,3
+1206,pinch Edible camphor,pinch edible camphor,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,3,3
+1208,pinch Food Color,pinch food color,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,3,3
+1312,radishes,radishe,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,3,3
+1642,trumpet,trumpet,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,3,3
+1,1/2,1 2,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+39,1/2 cups Digestive biscuit,1 2 cups digestive biscuit,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+156,Alfalfa Sprouts,alfalfa sprout,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+169,Alu bukhara,alu bukhara,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,1
+190,Arisithipli,arisithipli,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+201,Asparagus,asparagu,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+226,Bamboo shoots,bamboo shoot,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+248,Beer,beer,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+263,Bimbla,bimbla,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+290,Black tea,black tea,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+292,Blackberries,blackberry,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+305,Bourbon Biscuits,bourbon biscuit,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+306,Brahmi leaves,brahmi leaf,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+336,Butterscotch Chips,butterscotch chip,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+448,Citric acid crystals,citric acid crystal,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+457,Coca cola,coca cola,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,1
+493,Cotton threads,cotton thread,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+499,Crackers,cracker,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+552,Del Monte Tartare Dip,del monte tartare dip,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+569,Dried Neem Flowers,dried neem flower,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+571,Dried raspberries,dried raspberry,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+643,Food Color,food color,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+667,Gherkins,gherkin,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+669,Gilka,gilka,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+734,Green food colour,green food colour,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+760,Gulab jamun,gulab jamun,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+841,Jamun,jamun,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+852,Kabuli Channa,kabuli channa,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+867,Kalpasi leaves,kalpasi leaf,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+868,Kandathipli,kandathipli,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+892,Khus Khus,khus khu,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+925,Leftover roti,leftover roti,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+952,Lotus Seeds,lotus seed,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+973,Maltesers,malteser,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+975,Manathakkali Kai Vathal,manathakkali kai vathal,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+1046,Musk Melon,musk melon,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+1061,Nagkesar/cassia buds,nagkesar cassia bud,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+1078,Nylon sabakki,nylon sabakki,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+1127,Oysters,oyster,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+1154,Parsnip,parsnip,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+1181,Phyllo Sheets,phyllo sheet,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+1279,Pretzels,pretzel,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+1306,Rabdi,rabdi,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+1353,Red Food Color,red food color,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+1427,Samosas,samosa,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+1499,Sponge cake slice,sponge cake slice,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+1513,Sprite,sprite,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+1582,Taco seasoning,taco seasoning,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+1601,Tea Monk Oolong Tea,tea monk oolong tea,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+1612,Tetley Long Leaf Green Tea,tetley long leaf green tea,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+1625,Thonnai,thonnai,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+1703,White garbanzo,white garbanzo,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+144,according,according,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+195,as per the experiment,as per experiment,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+679,gm arabic,gm arabic,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+702,good,good,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+1235,pinch Yellow food colour,pinch yellow food colour,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+1434,save,save,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,2,2
+11,1/2 cup Digestive biscuit,1 2 cup digestive biscuit,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+46,1/2 cups Kale,1 2 cups kale,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+142,Aamras,aamra,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+147,Acorn Squash,acorn squash,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+149,Ada,ada,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+153,Agathi keerai,agathi keerai,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+172,Amchoor,amchoor,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+192,Artichokes,artichoke,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+203,Aubergine,aubergine,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+211,Bacon,bacon,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+227,Bamboo shots,bamboo shot,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+253,Ber,ber,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+257,Bhakarwdis,bhakarwdi,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+267,Bisleri Fonzo,bisleri fonzo,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+302,Botis,boti,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+304,Bourbon,bourbon,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+308,Brandy,brandy,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+335,Butternut squash,butternut squash,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+353,Cape Gooseberries,cape gooseberry,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+367,Cassia,cassia,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+378,Chamomile tea,chamomile tea,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+379,Champagne,champagne,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+383,Chandi's work,chandi s work,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+384,Char Magaz,char magaz,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+392,Cheetos,cheeto,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+430,Chivda,chivda,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+432,Choco Thins,choco thin,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+442,Chyawanprash,chyawanprash,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+450,Clamps,clamp,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+449,Clams,clam,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+504,Crepes,crepe,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+510,Cumene seeds,cumene seed,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+535,Dark rum,dark rum,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+565,Dried Chamomile,dried chamomile,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+599,Dulce de leche,dulce de leche,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+607,Elaichi,elaichi,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+616,Falsa,falsa,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+617,Farsan,farsan,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+649,French Fries,french fry,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+843,Fresh Jasmine Buds,jasmine bud,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+692,Gobi,gobi,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+701,Gongura Leaves,gongura leaf,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+703,Goond,goond,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+711,Grand Marnier,grand marnier,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+714,Grapefruit,grapefruit,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+722,Green Channa Sprouts,green channa sprout,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+748,Green tea leaves,green tea leaf,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+768,Half and half,half and half,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+777,Hash Browns,hash brown,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+794,Homemade Pizza Dough,homemade pizza dough,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+800,Horlicks,horlick,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+810,Hung-fat,hung fat,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+820,Idiyappam,idiyappam,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+846,Jello,jello,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+853,Kachampuli,kachampuli,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+869,Kapok Bud,kapok bud,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+881,Kataifi dough,kataifi dough,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+883,Ker,ker,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+888,Khaman dhokla,khaman dhokla,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+889,Khichdi/Pongal,khichdi pongal,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+896,Kimchi,kimchi,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+898,Kitkat Bars,kitkat bar,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+901,Knoll Knoll,knoll knoll,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+902,Knoll Knoll leaves,knoll knoll leaf,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+904,Kohl rabi,kohl rabi,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+910,Kunafa Dough,kunafa dough,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+911,Kunafa pastry,kunafa pastry,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+922,Lavender Flowers,lavender flower,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+951,Loose leaf tea,loose leaf tea,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+955,Lychee,lychee,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+976,Manathakkali Keerai,manathakkali keerai,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+977,Mandi,mandi,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+988,Mangodi,mangodi,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+990,Margarine,margarine,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+992,Masauras,masaura,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+997,Matzo Meal,matzo meal,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+999,Medu vada,medu vada,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1005,Mexican seasoning,mexican seasoning,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1017,Mishti doi,mishti doi,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1022,Mixed Grains,mixed grain,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1028,Mixed Spices,mixed spice,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1032,Momos,momo,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1038,Motichoor Ladoos,motichoor ladoo,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1041,Mughlai Meetha Attar,mughlai meetha attar,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1047,Mussels,mussel,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1059,Naan,naan,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1062,Namak Para,namak para,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1066,Neem Flowers,neem flower,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1069,Nilla cookies,nilla cooky,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1137,Pandan leaf,pandan leaf,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1150,Parseley,parseley,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1151,Parshe,parshe,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1159,Pastry dough,pastry dough,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1177,Pheni,pheni,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1182,Phyllo Tartlet Cups,phyllo tartlet cup,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1180,Phyllo dough,phyllo dough,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1241,Pink Food colour,pink food colour,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1244,Pirandai,pirandai,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1247,Pita chips,pita chip,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1248,Pita saga,pita saga,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1286,Puffed Grains,puffed grain,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1296,Punjabi Aloo Samosa,punjabi aloo samosa,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1298,Puris used for Pani Puri,puris used for pani puri,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1309,Radhuni,radhuni,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1322,Ras el hanout spice blend,ras el hanout spice blend,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1327,Raspberry Compote,raspberry compote,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1384,Risotto,risotto,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1398,Rooh afza sharbat,rooh afza sharbat,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1399,Roomali roti,roomali roti,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1410,Rusk,rusk,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1414,Sabza seeds,sabza seed,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1424,Sambal oelek,sambal oelek,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1429,Sangri,sangri,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1432,Sarsaparilla,sarsaparilla,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1433,Sauerkraut,sauerkraut,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1438,Seaweed Sheets,seaweed sheet,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1441,Semia,semia,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1451,Seven up,seven up,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1455,Sherry,sherry,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1457,Shortbread cookies,shortbread cooky,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1458,Shrikhand,shrikhand,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1461,Silver Balls,silver ball,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1474,Soft Taco Shells,soft taco shell,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1476,Sorghum,sorghum,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1517,Squid,squid,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1527,Stalks Asparagus,stalks asparagu,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1529,Stalks Knol khol Leaves,stalks knol khol leaf,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1534,Stalks Rasna,stalks rasna,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1538,Star Anees,star anee,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1560,Summac,summac,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1565,Sundkai,sundkai,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1595,Taro root,taro root,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1600,Tea Monk Bodh Second Flush Black Tea,tea monk bodh second flush black tea,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1602,Tea Monk Seiki Peppermint Green Tea,tea monk seiki peppermint green tea,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1610,Tequila,tequila,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1623,Thattai,thattai,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1633,Tomatillo,tomatillo,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1641,Triple sec,triple sec,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1676,Walking Catfish,walking catfish,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1682,Weet bix,weet bix,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1704,White hibiscus leaves,white hibiscus leaf,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1713,Wonton wraps,wonton wrap,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1720,Yellow food colour,yellow food colour,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1723,Yellow squash,yellow squash,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1725,Yield,yield,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+178,aniseed,aniseed,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+185,arabic,arabic,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+186,arabica,arabica,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+187,arbi,arbi,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+207,avrekalu,avrekalu,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+329,bud long,bud long,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+376,chakra flowers,chakra flower,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+411,chickpeas spices,chickpeas spice,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+429,chisemis,chisemi,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+496,cowpea pod,cowpea pod,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+519,curry,curry,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+683,gm Makhana,gm makhana,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+685,gm Parwal,gm parwal,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+680,gm arabic leaves,gm arabic leaf,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+700,gongura,gongura,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+781,heart leaves,heart leaf,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+801,horse,horse,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+921,lavang,lavang,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+957,macaroni,macaroni,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+994,mash,mash,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1001,mess,mess,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1081,oatmeal,oatmeal,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1085,of batua,of batua,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1098,of suran,of suran,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1107,or 2 Coal,or 2 coal,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1111,or 2 Yellow food colour,or 2 yellow food colour,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1147,parcel,parcel,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1170,peel,peel,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1171,peel and chop,peel and chop,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1188,pigeonpea,pigeonpea,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1336,recipe All Purpose Pie Crust,recipe all purpose pie crust,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1338,recipe Pastry dough,recipe pastry dough,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1405,roti,roti,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1473,soda,soda,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1514,sprouts,sprout,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1628,tighten it,tighten it,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1698,white Bacardi rum,white bacardi rum,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
+1714,wood,wood,Other / needs review,unclassified,mass,"g, ml, piece, packet",False,1,1
