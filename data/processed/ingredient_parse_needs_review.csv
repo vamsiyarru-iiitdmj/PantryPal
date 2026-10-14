@@ -1,4 +1,0 @@
-ingredient_id,canonical_name,canonical_key,ingredient_type,classification_method,default_unit_dimension,suggested_units,is_staple,recipe_occurrences,recipe_count,review_reason
-1001,long,long,Other / needs review,unclassified,count,"piece, bunch, clove, slice",False,32,31,ambiguous_machine-translated ingredient phrase
-248,as per taste,as per taste,Other / needs review,unclassified,count,"piece, bunch, clove, slice",False,11,11,ambiguous_machine-translated ingredient phrase
-251,as per use,as per use,Other / needs review,unclassified,count,"piece, bunch, clove, slice",False,2,2,ambiguous_machine-translated ingredient phrase

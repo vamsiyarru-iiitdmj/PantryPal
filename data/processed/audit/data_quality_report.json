@@ -1,0 +1,11 @@
+{
+  "source_rows": 6871,
+  "accepted_recipes": 5990,
+  "rejected_recipes": 881,
+  "parsed_ingredient_rows": 72790,
+  "canonical_ingredients": 1728,
+  "aliases": 2044,
+  "typed_ingredients": 1385,
+  "unclassified_ingredients": 343,
+  "mapped_ingredient_row_percent": 100.0
+}
