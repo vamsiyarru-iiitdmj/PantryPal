@@ -1,0 +1,429 @@
+recipe_id,ingredient_position,ingredient_id,ingredient_name,quantity_raw,unit,unit_dimension,prep_note,is_optional,raw_text
+6,1,434,Poppy seeds,1,cup,volume,,False,1 cup Poppy seeds
+6,2,437,Potatoes,2,,unspecified,diced,False,2 Potatoes (Aloo) - diced
+6,3,376,Onion,1,,unspecified,sliced (optional),True,1 Onion - sliced (optional)
+6,4,292,Kalonji,1,tsp,volume,,False,1 teaspoon Kalonji (Onion Nigella Seeds)
+6,5,244,Green Chillies,2,,unspecified,slit,False,2 Green Chillies - slit
+6,6,558,Sunflower Oil,2,tbsp,volume,,False,2 tablespoons Sunflower Oil
+6,7,356,Mustard oil,2,tbsp,volume,,False,2 tablespoons Mustard oil
+6,8,585,Turmeric powder,1/2,tsp,volume,,False,1/2 teaspoon Turmeric powder (Haldi)
+6,9,501,Salt,,,unspecified,to taste,False,Salt - to taste
+6,10,148,Coriander Leaves,2,tbsp,volume,chopped,False,2 tablespoons Coriander (Dhania) Leaves - chopped
+10,1,509,Seeraga Samba rice,500,g,mass,washed and soaked,False,500 grams Seeraga (Jeeraga) Samba rice - washed and soaked
+10,2,225,Ghee,1,tbsp,volume,,False,1 tablespoon Ghee
+10,3,49,Bay leaf,1,,unspecified,,False,1 Bay leaf (tej patta)
+10,4,548,Star anise,1,,unspecified,,False,1 Star anise
+10,5,135,Cinnamon Stick,1,,unspecified,,False,1 Cinnamon Stick (Dalchini)
+10,6,96,Cardamom Pods/Seeds,2,,unspecified,,False,2 Cardamom (Elaichi) Pods/Seeds
+10,7,137,Cloves,1,clove,count,,False,1 clove Cloves (Laung)
+10,8,117,Chicken,500,g,mass,cleaned and washed,False,500 grams Chicken - cleaned and washed
+10,9,558,Sunflower Oil,4,tbsp,volume,,False,4 tablespoons Sunflower Oil
+10,10,227,Ginger,2,inch,length,finely chopped,False,2 inch Ginger - finely chopped
+10,11,221,Garlic,4,clove,count,finely chopped,False,4 cloves Garlic - finely chopped
+10,12,376,Onions,3,,unspecified,sliced,False,3 Onions - sliced
+10,13,578,Tomatoes,2,,unspecified,chopped,False,2 Tomatoes - chopped
+10,14,462,Red Chilli powder,3,tsp,volume,,False,3 teaspoons Red Chilli powder
+10,15,501,Salt,,,unspecified,to taste,False,Salt - to taste
+10,16,149,Coriander Powder,2,tsp,volume,,False,2 teaspoons Coriander Powder (Dhania)
+10,17,163,Curd,3,tbsp,volume,,False,3 tablespoons Curd (Dahi / Yogurt)
+10,18,344,Mint Leaves,1/4,cup,volume,roughly torn,False,1/4 cup Mint Leaves (Pudina) - roughly torn
+11,1,429,Poha,1,cup,volume,you can use thin as well,False,1 cup Poha (Flattened rice) - you can use thin as well
+11,2,283,Jaggery,1/2,cup,volume,grated,False,1/2 cup Jaggery - grated
+11,3,139,Fresh coconut,1/4,cup,volume,grated,False,1/4 cup Fresh coconut - grated
+11,4,97,Cardamom Powder,1,tsp,volume,,False,1 teaspoon Cardamom Powder (Elaichi)
+11,5,599,Water,,,unspecified,for soaking poha,False,Water - for soaking poha
+13,1,117,Chicken,500,g,mass,,False,500 grams Chicken
+13,2,376,Onions,2,,unspecified,finely chopped,False,2 Onions - finely chopped
+13,3,196,Dry Red Chillies,4,,unspecified,,False,4 Dry Red Chillies
+13,4,221,Garlic,7,clove,count,,False,7 cloves Garlic
+13,5,227,Ginger,1,inch,length,,False,1 inch Ginger
+13,6,615,White wine vinegar,1/4,cup,volume,,False,1/4 cup White wine vinegar
+13,7,358,Mustard seeds,1,tsp,volume,,False,1 teaspoon Mustard seeds
+13,8,558,Sunflower Oil,,,unspecified,as required,False,Sunflower Oil - as required
+13,9,501,Salt,,,unspecified,to taste,False,Salt - to taste
+13,10,137,Cloves,4,,unspecified,,False,4 Cloves (Laung)
+13,11,96,Cardamom Pods/Seeds,3,,unspecified,,False,3 Cardamom (Elaichi) Pods/Seeds
+13,12,134,Cinnamon Powder,1,tsp,volume,,False,1 teaspoon Cinnamon Powder (Dalchini)
+13,13,64,Whole Black Peppercorns,1/2,tbsp,volume,,False,1/2 tablespoon Whole Black Peppercorns
+13,14,162,Cumin seeds,1,tbsp,volume,,False,1 tablespoon Cumin seeds (Jeera)
+14,1,117,Chicken,500,g,mass,chopped to cubes with bone,False,500 grams Chicken - chopped to cubes with bone
+14,2,376,Onion,1,,unspecified,chopped,False,1 Onion - chopped
+14,3,221,Garlic,2,tbsp,volume,minced,False,2 tablespoons Garlic - minced
+14,4,227,Ginger,2,tsp,volume,grated,False,2 teaspoons Ginger - grated
+14,5,244,Green Chillies,3,,unspecified,chopped,False,3 Green Chillies - chopped
+14,6,501,Salt,,,unspecified,to taste,False,Salt - to taste
+14,7,311,Lemon juice,2,tbsp,volume,(and 1 teaspoon more),False,2 tablespoons Lemon juice - (and 1 teaspoon more)
+14,8,164,Curry leaves,12,,unspecified,,False,12 Curry leaves
+14,9,149,Coriander Powder,2,tsp,volume,,False,2 teaspoons Coriander Powder (Dhania)
+14,10,585,Turmeric powder,1/2,tsp,volume,,False,1/2 teaspoon Turmeric powder (Haldi)
+14,11,558,Sunflower Oil,,,unspecified,to cook,False,Sunflower Oil - to cook
+14,12,64,Whole Black Peppercorns,2-1/2,tbsp,volume,freshly crushed,False,2-1/2 tablespoons Whole Black Peppercorns - freshly crushed
+14,13,148,Coriander Leaves,1/2,cup,volume,chopped,False,1/2 cup Coriander (Dhania) Leaves - chopped
+15,1,142,Colocasia root,300,g,mass,,False,300 grams Colocasia root (Arbi)
+15,2,4,Ajwain,1,tbsp,volume,,False,1 tablespoon Ajwain (Carom seeds)
+15,3,376,Onion,1,,unspecified,thinly sliced,False,1 Onion - thinly sliced
+15,4,221,Garlic,2,clove,count,finely chopped,False,2 cloves Garlic - finely chopped
+15,5,585,Turmeric powder,1/2,tsp,volume,,False,1/2 teaspoon Turmeric powder (Haldi)
+15,6,462,Red Chilli powder,1,tsp,volume,,False,1 teaspoon Red Chilli powder
+15,7,164,Curry leaves,1,sprig,count,finely chopped,False,1 sprig Curry leaves - finely chopped
+15,8,148,Coriander Leaves,1,sprig,count,finely chopped,False,1 sprig Coriander (Dhania) Leaves - finely chopped
+19,1,390,Paneer,250,g,mass,Chop,False,250 grams Paneer - Chop
+19,2,532,Spinach,500,g,mass,Wash and chop,False,500 grams Spinach - Wash and chop
+19,3,578,Tomato,1,,unspecified,Puree,False,1 Tomato - Puree
+19,4,221,Garlic,2,clove,count,Tighten,False,2 cloves Garlic - Tighten
+19,5,227,Ginger,2,inch,length,Tighten,False,2 inch Ginger - Tighten
+19,6,244,Green Chillies,2,,unspecified,Cut it straight,False,2 Green Chillies - Cut it straight
+19,7,162,Cumin seeds,1/2,tsp,volume,,False,1/2 tsp Cumin seeds
+19,8,134,cinnamon powder,1 / 4,tsp,volume,,False,1 / 4 tsp cinnamon powder
+19,9,161,cumin powder,1,tsp,volume,,False,1 tsp cumin powder
+19,10,585,turmeric powder,1/4,tsp,volume,,False,1/4 tsp turmeric powder
+19,11,220,garam masala powder,1,tsp,volume,,False,1 tsp garam masala powder
+19,12,158,cream,2,tbsp,volume,,False,2 tbsp cream
+19,13,86,butter,1,tbsp,volume,,False,1 tbsp butter
+19,14,501,salt,,,unspecified,as per taste,False,salt - as per taste
+80,1,390,Paneer,200,g,mass,cut into cubes,False,200 gram Paneer (Homemade Cottage Cheese) - cut into cubes
+80,2,578,Tomatoes,3,,unspecified,pureed,False,3 Tomatoes - pureed
+80,3,462,Red Chilli powder,1,tsp,volume,,False,1 teaspoon Red Chilli powder
+80,4,161,Cumin powder,1,tsp,volume,,False,1 teaspoon Cumin powder (Jeera)
+80,5,220,Garam masala powder,1,tsp,volume,,False,1 teaspoon Garam masala powder
+80,6,158,Fresh cream,1/4,cup,volume,,False,1/4 cup Fresh cream
+80,7,86,Butter,2,tbsp,volume,,False,2 tablespoons Butter
+80,8,501,Salt,,,unspecified,to taste,False,Salt - to taste
+80,9,299,Kasuri Methi,1,tsp,volume,,False,1 teaspoon Kasuri Methi (Dried Fenugreek Leaves)
+80,10,376,Onion,1,,unspecified,,False,1 Onion
+80,11,227,Ginger,1,inch,length,peeled,False,1 inch Ginger - peeled
+80,12,221,Garlic,6,clove,count,,False,6 cloves Garlic
+80,13,100,Cashew nuts,2,tbsp,volume,,False,2 tablespoon Cashew nuts
+81,1,178,Dosa rice,2,cup,volume,,False,2 cups Dosa rice
+81,2,70,Black Urad Dal,1/2,cup,volume,,False,1/2 cup Black Urad Dal (Split)
+81,3,339,Methi Seeds,1,tsp,volume,,False,1 teaspoon Methi Seeds (Fenugreek Seeds)
+81,4,501,Salt,1/2,tsp,volume,,False,1/2 teaspoon Salt
+81,5,558,Sunflower Oil,,,unspecified,or castor oil as needed to fry the dosa.,False,Sunflower Oil - or castor oil as needed to fry the dosa.
+81,6,455,Red Bell pepper,1,,unspecified,chopped,False,1 Red Bell pepper (Capsicum) - chopped
+81,7,578,Tomato,2,,unspecified,chopped,False,2 Tomato - chopped
+81,8,466,Red onion,1,,unspecified,chopped finely,False,1 Red onion - chopped finely
+81,9,244,Green Chillies,2,,unspecified,remove seeds and chop them fine,False,2 Green Chillies - remove seeds and chop them fine
+81,10,227,Ginger,1/2,inch,length,chopped finely,False,1/2 inch Ginger - chopped finely
+81,11,221,Garlic,2,clove,count,,False,2 cloves Garlic
+81,12,164,Curry leaves,20,,unspecified,,False,20 Curry leaves
+81,13,195,Dry Red Chilli,1,,unspecified,,False,1 Dry Red Chilli
+81,14,358,Mustard seeds,1/2,tsp,volume,,False,1/2 teaspoon Mustard seeds
+81,15,162,Cumin seeds,1/2,tsp,volume,,False,1/2 teaspoon Cumin seeds (Jeera)
+81,16,25,Asafoetida,,,unspecified,a pinch,False,Asafoetida (hing) - a pinch
+81,17,148,Coriander Leaves,2,tbsp,volume,chopped,False,2 tablespoon Coriander (Dhania) Leaves - chopped
+83,1,340,Milk,1-1/2,l,volume,,False,1 1/2 liter Milk
+83,2,143,Condensed Milk,1/3,cup,volume,,False,1/3 cup Condensed Milk
+83,3,311,Lemon juice,1,tbsp,volume,,False,1 tablespoon Lemon juice
+83,4,554,Sugar,1,cup,volume,,False,1 cup Sugar
+83,5,96,Cardamom Pods/Seeds,4,,unspecified,,False,4 Cardamom (Elaichi) Pods/Seeds
+83,6,349,Mixed nuts,,,unspecified,like flaked almonds and pistachios for garnish,False,Mixed nuts - like flaked almonds and pistachios for garnish
+150,1,14,amla,6,,unspecified,,False,6 amla
+150,2,585,turmeric powder,1/4,tsp,volume,,False,1/4 teaspoon turmeric powder
+150,3,501,salt,,,unspecified,as per taste,False,salt - as per taste
+150,4,578,tomato,1,,unspecified,,False,1 tomato
+150,5,227,ginger,1/4,tsp,volume,,False,1/4 teaspoon ginger
+150,6,344,mint leaves,10-15,,unspecified,,False,10-15 mint leaves
+150,7,246,green coriander,1/4,cup,volume,chopped,False,1/4 cup green coriander - chopped
+150,8,244,green chillies,2,,unspecified,,False,2 green chillies
+150,9,162,cumin seeds,1,tsp,volume,,False,1 teaspoon cumin seeds
+150,10,63,black pepper powder,1/2,tsp,volume,,False,1/2 teaspoon black pepper powder
+150,11,225,ghee,2,tsp,volume,,False,2 teaspoons ghee
+150,12,355,mustard,1,tsp,volume,,False,1 teaspoon mustard
+150,13,194,dry red chili,1,,unspecified,break,False,1 dry red chili - break
+150,14,25,asafoetida,,,unspecified,a pinch,False,asafoetida - a pinch
+165,1,70,Black Urad Dal,1,cup,volume,,False,1 cup Black Urad Dal (Whole)
+165,2,108,Chana dal,1/4,cup,volume,,False,1/4 cup Chana dal (Bengal Gram Dal)
+165,3,376,Onion,1,,unspecified,finely chopped,False,1 Onion - finely chopped
+165,4,578,Tomato,1,,unspecified,finely chopped,False,1 Tomato - finely chopped
+165,5,244,Green Chillies,2,,unspecified,finely chopped,False,2 Green Chillies - finely chopped
+165,6,227,Ginger,1,inch,length,grated,False,1 inch Ginger - grated
+165,7,221,Garlic,2,clove,count,finely chopped,False,2 cloves Garlic - finely chopped
+165,8,4,Ajwain,1/2,tsp,volume,,False,1/2 teaspoon Ajwain (Carom seeds)
+165,9,462,Red Chilli powder,1/4,tsp,volume,,False,1/4 teaspoon Red Chilli powder
+165,10,220,Garam masala powder,1/2,tsp,volume,,False,1/2 teaspoon Garam masala powder
+165,11,135,Cinnamon Stick,1,inch,length,,False,1 inch Cinnamon Stick (Dalchini)
+165,12,501,Salt,,,unspecified,to taste,False,Salt - to taste
+165,13,558,Sunflower Oil,,,unspecified,as required,False,Sunflower Oil - as required
+176,1,605,Whole Wheat Flour,1,cup,volume,,False,1 cup Whole Wheat Flour
+176,2,108,Chana dal,1/2,cup,volume,,False,1/2 cup Chana dal (Bengal Gram Dal)
+176,3,162,Cumin seeds,1,tsp,volume,,False,1 teaspoon Cumin seeds (Jeera)
+176,4,462,Red Chilli powder,1,tsp,volume,,False,1 teaspoon Red Chilli powder
+176,5,149,Coriander Powder,1,tsp,volume,,False,1 teaspoon Coriander Powder (Dhania)
+176,6,585,Turmeric powder,1/4,tsp,volume,,False,1/4 teaspoon Turmeric powder (Haldi)
+176,7,148,Coriander Leaves,1,tbsp,volume,chopped finely (optional),True,1 tablespoon Coriander (Dhania) Leaves - chopped finely (optional)
+176,8,501,Salt,,,unspecified,to taste,False,Salt - to taste
+176,9,558,Sunflower Oil,,,unspecified,to deep fry,False,Sunflower Oil - to deep fry
+199,1,117,Chicken,1/2,kg,mass,,False,1/2 kg Chicken
+199,2,462,Red Chilli powder,1,tsp,volume,,False,1 teaspoon Red Chilli powder
+199,3,585,Turmeric powder,1/2,tsp,volume,,False,1/2 teaspoon Turmeric powder (Haldi)
+199,4,150,Coriander Seeds,1,tsp,volume,,False,1 teaspoon Coriander (Dhania) Seeds
+199,5,162,Cumin seeds,1,tsp,volume,,False,1 teaspoon Cumin seeds (Jeera)
+199,6,135,Cinnamon Stick,2,inch,length,,False,2 inch Cinnamon Stick (Dalchini)
+199,7,137,Cloves,4,,unspecified,,False,4 Cloves (Laung)
+199,8,434,Poppy seeds,1,tsp,volume,roasted,False,1 teaspoon Poppy seeds - roasted
+199,9,221,Garlic,1,tsp,volume,minced,False,1 teaspoon Garlic - minced
+199,10,227,Ginger,1,tsp,volume,minced,False,1 teaspoon Ginger - minced
+199,11,244,Green Chillies,4,,unspecified,,False,4 Green Chillies
+199,12,501,Salt,,,unspecified,to taste,False,Salt - to taste
+199,13,558,Sunflower Oil,1,tbsp,volume,,False,1 tablespoon Sunflower Oil
+199,14,376,Onion,1,cup,volume,chopped,False,1 cup Onion - chopped
+199,15,139,Fresh coconut,1,cup,volume,grated,False,1 cup Fresh coconut - grated
+199,16,565,Tamarind Paste,1,tsp,volume,,False,1 teaspoon Tamarind Paste
+199,17,148,Coriander Leaves,,,unspecified,for garnish,False,Coriander (Dhania) Leaves - for garnish
+225,1,508,Seer fish,2,,unspecified,,False,2 Seer fish
+225,2,585,Turmeric powder,1/2,tsp,volume,,False,1/2 teaspoon Turmeric powder (Haldi)
+225,3,462,Red Chilli powder,2,tsp,volume,,False,2 teaspoons Red Chilli powder
+225,4,13,Amchur,2,tsp,volume,,False,2 teaspoons Amchur (Dry Mango Powder)
+225,5,220,Garam masala powder,3,tsp,volume,,False,3 teaspoons Garam masala powder
+225,6,4,Ajwain,1,tsp,volume,pound,False,1 teaspoon Ajwain (Carom seeds) - pound
+225,7,229,Ginger Garlic Paste,1,tsp,volume,,False,1 teaspoon Ginger Garlic Paste
+225,8,299,Kasuri Methi,1,tsp,volume,,False,1 teaspoon Kasuri Methi (Dried Fenugreek Leaves)
+225,9,235,Gram flour,1-1/2,tsp,volume,,False,1 1/2 teaspoons Gram flour (besan)
+225,10,311,Lemon juice,1,,unspecified,,False,1 Lemon juice
+225,11,501,Salt,,,unspecified,to taste,False,Salt - to taste
+225,12,367,Nutralite Classic Spread,,,unspecified,,False,Nutralite Classic Spread
+232,1,303,King fish,500,g,mass,sliced,False,500 grams King fish - sliced
+232,2,376,Onion,1,,unspecified,very finely chopped,False,1 Onion - very finely chopped
+232,3,244,Green Chillies,4,,unspecified,slit,False,4 Green Chillies - slit
+232,4,140,Coconut milk,3/4,cup,volume,,False,3/4 cup Coconut milk
+232,5,558,Sunflower Oil,,,unspecified,as required,False,Sunflower Oil - as required
+232,6,149,Coriander Powder,2,tbsp,volume,,False,2 tablespoons Coriander Powder (Dhania)
+232,7,462,Red Chilli powder,1,tbsp,volume,,False,1 tablespoon Red Chilli powder
+232,8,564,Tamarind,25,g,mass,,False,25 grams Tamarind
+232,9,585,Turmeric powder,1,tbsp,volume,,False,1 tablespoon Turmeric powder (Haldi)
+232,10,164,Curry leaves,,,unspecified,Handful,False,Curry leaves - Handful
+232,11,501,Salt,,,unspecified,to taste,False,Salt - to taste
+240,1,390,Paneer,250,g,mass,cut into thick rectangular chunks,False,250 grams Paneer (Homemade Cottage Cheese) - cut into thick rectangular chunks
+240,2,578,Tomatoes,5,,unspecified,pureed,False,5 Tomatoes - pureed
+240,3,295,Kashmiri dry red chilli,2,tsp,volume,,False,2 teaspoon Kashmiri dry red chilli
+240,4,405,pinch Asafoetida,1,,unspecified,,False,1 pinch Asafoetida (hing)
+240,5,162,Cumin seeds,1/2,tsp,volume,,False,1/2 teaspoon Cumin seeds (Jeera)
+240,6,210,Fennel seeds,2,tbsp,volume,make into powder,False,2 tablespoons Fennel seeds (Saunf) - make into powder
+240,7,192,Dry ginger powder,1/2,tsp,volume,,False,1/2 teaspoon Dry ginger powder
+240,8,585,Turmeric powder,1/2,tsp,volume,,False,1/2 teaspoon Turmeric powder (Haldi)
+240,9,220,Garam masala powder,1,tsp,volume,,False,1 teaspoon Garam masala powder
+240,10,225,Ghee,1,tsp,volume,,False,1 teaspoon Ghee
+240,11,49,Bay leaf,1,tsp,volume,,False,1 teaspoon Bay leaf (tej patta)
+240,12,59,Black cardamom,2,,unspecified,,False,2 Black cardamom (Badi Elaichi)
+240,13,97,Cardamom Powder,4,,unspecified,,False,4 Cardamom Powder (Elaichi)
+240,14,135,Cinnamon Stick,1,,unspecified,,False,1 Cinnamon Stick (Dalchini)
+240,15,356,Mustard oil,5,tbsp,volume,or oil of your choice,False,5 tablespoon Mustard oil - or oil of your choice
+240,16,599,Water,1/2,cup,volume,,False,1/2 cup Water
+265,1,48,Basmati rice,2,cup,volume,,False,2 cups Basmati rice
+265,2,599,Water,,,unspecified,,False,Water
+265,3,376,Onions,2,,unspecified,,False,2 Onions
+265,4,227,Ginger,1/2,inch,length,,False,1/2 inch Ginger
+265,5,244,Green Chillies,3 to 5,,unspecified,(adjust),False,3 to 5 Green Chillies - (adjust)
+265,6,221,Garlic,2,clove,count,,False,2 cloves Garlic
+265,7,558,Sunflower Oil,,,unspecified,,False,Sunflower Oil
+265,8,471,Red Yellow or Green Bell Pepper,3,,unspecified,,False,3 Red Yellow or Green Bell Pepper (Capsicum)
+265,9,98,Carrot,1,,unspecified,cut into julienne,False,1 Carrot (Gajjar) - cut into julienne
+265,10,225,Ghee,,,unspecified,to garnish,False,Ghee - to garnish
+265,11,548,Star anise,1,,unspecified,,False,1 Star anise
+265,12,137,Cloves,2,,unspecified,,False,2 Cloves (Laung)
+265,13,135,Cinnamon Stick,1,inch,length,,False,1 inch Cinnamon Stick (Dalchini)
+265,14,195,Dry Red Chilli,1,,unspecified,,False,1 Dry Red Chilli
+265,15,49,Bay leaves,1,,unspecified,,False,1 Bay leaves (tej patta)
+265,16,64,Whole Black Peppercorns,1/4,tsp,volume,,False,1/4 teaspoon Whole Black Peppercorns
+265,17,585,Turmeric powder,1,tsp,volume,,False,1 teaspoon Turmeric powder (Haldi)
+265,18,63,Black pepper powder,1,tsp,volume,,False,1 teaspoon Black pepper powder
+265,19,462,Red Chilli powder,1/2,tsp,volume,,False,1/2 teaspoon Red Chilli powder
+265,20,162,Cumin seeds,1,tsp,volume,,False,1 teaspoon Cumin seeds (Jeera)
+265,21,150,Coriander Seeds,1/2,tsp,volume,,False,1/2 teaspoon Coriander (Dhania) Seeds
+265,22,13,Amchur,1/2,tsp,volume,,False,1/2 teaspoon Amchur (Dry Mango Powder)
+265,23,501,Salt,,,unspecified,to taste,False,Salt - to taste
+265,24,437,Potatoes,2,,unspecified,chopped into cubes,False,2 Potatoes (Aloo) - chopped into cubes
+265,25,106,Chaat Masala Powder,1/4,tsp,volume,,False,1/4 teaspoon Chaat Masala Powder
+265,26,311,Lemon juice,,,unspecified,from 1 lemon,False,Lemon juice - from 1 lemon
+265,27,63,Black pepper powder,1/4,tsp,volume,,False,1/4 teaspoon Black pepper powder
+265,28,501,Salt,,,unspecified,to taste,False,Salt - to taste
+273,1,437,Potatoes,2,,unspecified,cubed,False,2 Potatoes (Aloo) - cubed
+273,2,103,Cauliflower,1/2,cup,volume,cut into small florets,False,1/2 cup Cauliflower (gobi) - cut into small florets
+273,3,98,Carrots,1/2,cup,volume,finely chopped,False,1/2 cup Carrots (Gajjar) - finely chopped
+273,4,237,Green beans,1/2,cup,volume,finely chopped,False,1/2 cup Green beans (French Beans) - finely chopped
+273,5,251,Green peas,1/2,cup,volume,,False,1/2 cup Green peas (Matar)
+273,6,90,Cabbage,1/2,cup,volume,finely shredded,False,1/2 cup Cabbage (Patta Gobi/ Muttaikose) - finely shredded
+273,7,238,Green Bell Pepper,1,,unspecified,finely chopped,False,1 Green Bell Pepper (Capsicum) - finely chopped
+273,8,227,Ginger,1,inch,length,grated,False,1 inch Ginger - grated
+273,9,221,Garlic,3,clove,count,grated,False,3 cloves Garlic - grated
+273,10,376,Onion,1,,unspecified,finely chopped,False,1 Onion - finely chopped
+273,11,578,Tomatoes,2,,unspecified,finely chopped,False,2 Tomatoes - finely chopped
+273,12,462,Red Chilli powder,1,tsp,volume,,False,1 teaspoon Red Chilli powder
+273,13,149,Coriander Powder,1,tsp,volume,,False,1 teaspoon Coriander Powder (Dhania)
+273,14,397,Pav bhaji masala,1,tbsp,volume,,False,1 tablespoon Pav bhaji masala
+273,15,111,Cheese,2,tbsp,volume,,False,2 tablespoons Cheese
+273,16,86,Butter,2,tbsp,volume,,False,2 tablespoons Butter
+273,17,501,Salt,,,unspecified,to taste,False,Salt - to taste
+298,1,473,Rice,1,cup,volume,washed and soaked in water,False,1 cup Rice - washed and soaked in water
+298,2,118,Chicken breasts,300,g,mass,cut into small pieces,False,300 grams Chicken breasts - cut into small pieces
+298,3,322,Mace,1,,unspecified,,False,1 Mace (Javitri)
+298,4,135,Cinnamon Stick,1,inch,length,,False,1 inch Cinnamon Stick (Dalchini)
+298,5,137,Cloves,3,,unspecified,,False,3 Cloves (Laung)
+298,6,322,Mace,1,,unspecified,,False,1 Mace (Javitri)
+298,7,227,Ginger,1,inch,length,,False,1 inch Ginger
+298,8,221,Garlic,4,clove,count,chopped,False,4 cloves Garlic - chopped
+298,9,376,Onion,1,,unspecified,sliced,False,1 Onion - sliced
+298,10,163,Curd,1,cup,volume,,False,1 cup Curd (Dahi / Yogurt)
+298,11,462,Red Chilli powder,1,tbsp,volume,,False,1 tablespoon Red Chilli powder
+298,12,585,Turmeric powder,1/2,tsp,volume,,False,1/2 teaspoon Turmeric powder (Haldi)
+298,13,149,Coriander Powder,1,tsp,volume,,False,1 teaspoon Coriander Powder (Dhania)
+298,14,63,Black pepper powder,1,tsp,volume,,False,1 teaspoon Black pepper powder
+298,15,100,Cashew nuts,1,tbsp,volume,,False,1 tablespoon Cashew nuts
+298,16,32,Badam,5,,unspecified,crushed,False,5 Badam (Almond) - crushed
+298,17,501,Salt,,,unspecified,to taste,False,Salt - to taste
+298,18,558,Sunflower Oil,,,unspecified,,False,Sunflower Oil
+309,1,22,Arhar dal,1/2,cup,volume,cooked,False,1/2 cup Arhar dal (Split Toor Dal) - cooked
+309,2,578,Tomatoes,2,,unspecified,cut into cubes,False,2 Tomatoes - cut into cubes
+309,3,566,Tamarind Water,1,cup,volume,,False,1 cup Tamarind Water
+309,4,283,Jaggery,1,tbsp,volume,,False,1 tablespoon Jaggery
+309,5,148,Coriander Leaves,2,sprig,count,finely chopped,False,2 sprig Coriander (Dhania) Leaves - finely chopped
+309,6,339,Methi Seeds,1/2,tsp,volume,,False,1/2 teaspoon Methi Seeds (Fenugreek Seeds)
+309,7,358,Mustard seeds,1/2,tsp,volume,,False,1/2 teaspoon Mustard seeds
+309,8,162,Cumin seeds,1,tsp,volume,,False,1 teaspoon Cumin seeds (Jeera)
+309,9,150,Coriander Seeds,2,tbsp,volume,,False,2 tablespoons Coriander (Dhania) Seeds
+309,10,139,Fresh coconut,1,tbsp,volume,grated,False,1 tablespoon Fresh coconut - grated
+309,11,196,Dry Red Chillies,4,,unspecified,,False,4 Dry Red Chillies
+309,12,25,Asafoetida,1/4,tsp,volume,,False,1/4 teaspoon Asafoetida (hing)
+309,13,164,Curry leaves,1,sprig,count,,False,1 sprig Curry leaves
+309,14,225,Ghee,1,tbsp,volume,,False,1 tablespoon Ghee
+309,15,358,Mustard seeds,1/2,tsp,volume,,False,1/2 teaspoon Mustard seeds
+309,16,195,Dry Red Chilli,1,,unspecified,,False,1 Dry Red Chilli
+309,17,164,Curry leaves,1,sprig,count,,False,1 sprig Curry leaves
+322,1,108,Chana dal,1,cup,volume,,False,1 cup Chana dal (Bengal Gram Dal)
+322,2,27,Avarekalu / Lilva Beans,1,cup,volume,,False,1 cup Avarekalu / Lilva Beans
+322,3,235,Gram flour,3,tbsp,volume,,False,3 tablespoons Gram flour (besan)
+322,4,462,Red Chilli powder,1/2,tsp,volume,,False,1/2 teaspoon Red Chilli powder
+322,5,210,Fennel seeds,1/2,tsp,volume,,False,1/2 teaspoon Fennel seeds (Saunf)
+322,6,376,Onion,1,,unspecified,chopped,False,1 Onion - chopped
+322,7,196,Dry Red Chillies,4,,unspecified,,False,4 Dry Red Chillies
+322,8,221,Garlic,4,clove,count,finely chopped,False,4 cloves Garlic - finely chopped
+322,9,164,Curry leaves,1,sprig,count,,False,1 sprig Curry leaves
+322,10,25,Asafoetida,,,unspecified,a pinch,False,Asafoetida (hing) - a pinch
+322,11,501,Salt,,,unspecified,as required,False,Salt - as required
+322,12,558,Sunflower Oil,,,unspecified,for frying,False,Sunflower Oil - for frying
+335,1,98,Carrot,2,,unspecified,grated,False,2 Carrot (Gajjar) - grated
+335,2,337,Methi Leaves,1,cup,volume,chopped,False,1 cup Methi Leaves (Fenugreek Leaves) - chopped
+335,3,162,Cumin seeds,2,tsp,volume,,False,2 teaspoon Cumin seeds (Jeera)
+335,4,462,Red Chilli powder,1,tsp,volume,,False,1 teaspoon Red Chilli powder
+335,5,585,Turmeric powder,1/2,tsp,volume,,False,1/2 teaspoon Turmeric powder (Haldi)
+335,6,162,Cumin seeds,2,tsp,volume,,False,2 teaspoon Cumin seeds (Jeera)
+335,7,285,Jowar Flour,1-1/2,cup,volume,,False,1-1/2 cups Jowar Flour (Sorghum)
+335,8,605,Whole Wheat Flour,1,cup,volume,,False,1 cup Whole Wheat Flour
+335,9,501,Salt,,,unspecified,to taste,False,Salt - to taste
+335,10,558,Sunflower Oil,,,unspecified,,False,Sunflower Oil
+355,1,438,Prawns,500,g,mass,cleaned and deveined,False,500 grams Prawns - cleaned and deveined
+355,2,139,Fresh coconut,3,tbsp,volume,grated,False,3 tablespoons Fresh coconut - grated
+355,3,150,Coriander Seeds,2,tbsp,volume,,False,2 tablespoons Coriander (Dhania) Seeds
+355,4,210,Fennel seeds,1,tsp,volume,,False,1 teaspoon Fennel seeds (Saunf)
+355,5,63,Black pepper powder,1,tsp,volume,,False,1 teaspoon Black pepper powder
+355,6,161,Cumin powder,1,tsp,volume,,False,1 teaspoon Cumin powder (Jeera)
+355,7,165,Curry powder,1/2,tsp,volume,,False,1/2 teaspoon Curry powder
+355,8,585,Turmeric powder,1/2,tsp,volume,,False,1/2 teaspoon Turmeric powder (Haldi)
+355,9,460,Red Chilli flakes,1,tsp,volume,ground,False,1 teaspoon Red Chilli flakes - ground
+355,10,376,Onion,1,,unspecified,finely chopped,False,1 Onion - finely chopped
+355,11,221,Garlic,3,clove,count,minced,False,3 cloves Garlic - minced
+355,12,227,Ginger,1,inch,length,minced,False,1 inch Ginger - minced
+355,13,140,Coconut milk,50,ml,volume,thick,False,50 ml Coconut milk - thick
+355,14,311,Lemon juice,1,tsp,volume,,False,1 teaspoon Lemon juice
+355,15,501,Salt,,,unspecified,to taste,False,Salt - to taste
+355,16,558,Sunflower Oil,3,tbsp,volume,,False,3 tablespoons Sunflower Oil
+355,17,164,Curry leaves,6,,unspecified,for garnish,False,6 Curry leaves - for garnish
+432,1,438,Prawns,15,,unspecified,,False,15 Prawns
+432,2,376,Onion,2,,unspecified,finely chopped,False,2 Onion - finely chopped
+432,3,578,Tomato,3,,unspecified,,False,3 Tomato
+432,4,229,Ginger Garlic Paste,2,tsp,volume,,False,2 teaspoon Ginger Garlic Paste
+432,5,599,Water,2,cup,volume,,False,2 cups Water
+432,6,64,Whole Black Peppercorns,5,,unspecified,,False,5 Whole Black Peppercorns
+432,7,196,Dry Red Chillies,4,,unspecified,,False,4 Dry Red Chillies
+432,8,358,Mustard seeds,1/4,tsp,volume,,False,1/4 teaspoon Mustard seeds
+432,9,135,Cinnamon Stick,1,inch,length,,False,1 inch Cinnamon Stick (Dalchini)
+432,10,164,Curry leaves,1,sprig,count,,False,1 sprig Curry leaves
+432,11,148,Coriander Leaves,,,unspecified,A handful (chopped),False,Coriander (Dhania) Leaves - A handful (chopped)
+432,12,585,Turmeric powder,1/2,tsp,volume,,False,1/2 teaspoon Turmeric powder (Haldi)
+432,13,161,Cumin powder,1/2,tsp,volume,,False,1/2 teaspoon Cumin powder (Jeera)
+432,14,565,Tamarind Paste,1/4,tsp,volume,,False,1/4 teaspoon Tamarind Paste
+432,15,578,Tomato,2,tbsp,volume,paste,False,2 tablespoon Tomato - paste
+432,16,558,Sunflower Oil,4,tsp,volume,,False,4 teaspoon Sunflower Oil
+432,17,501,Salt,,,unspecified,to taste,False,Salt - to taste
+439,1,6,almonds,1,cup,volume,,False,1 cup almonds
+439,2,225,ghee,1/2,cup,volume,,False,1/2 cup ghee
+439,3,340,milk,3/4,cup,volume,,False,3/4 cup milk
+439,4,605,wheat flour,1,tbsp,volume,,False,1 tablespoon wheat flour
+439,5,554,sugar,3/4,cup,volume,,False,3/4 cup sugar
+439,6,499,saffron,2,,unspecified,,False,2 saffron
+439,7,6,almond,1,,unspecified,silver coating (for garnish),False,1 almond - silver coating (for garnish)
+504,1,376,Onion,1,,unspecified,chopped,False,1 Onion - chopped
+504,2,188,Drumstick,1,,unspecified,chopped to 2 inch long,False,1 Drumstick - chopped to 2 inch long
+504,3,578,Tomato,1,,unspecified,,False,1 Tomato
+504,4,22,Arhar dal,1,cup,volume,soaked for 10 minutes and cooked,False,1 cup Arhar dal (Split Toor Dal) - soaked for 10 minutes and cooked
+504,5,164,Curry leaves,2,sprig,count,,False,2 sprig Curry leaves
+504,6,150,Coriander Seeds,1,tbsp,volume,,False,1 tablespoon Coriander (Dhania) Seeds
+504,7,162,Cumin seeds,1/2,tbsp,volume,,False,1/2 tablespoon Cumin seeds (Jeera)
+504,8,339,Methi Seeds,1/4,tbsp,volume,,False,1/4 tablespoon Methi Seeds (Fenugreek Seeds)
+504,9,501,Salt,,,unspecified,to taste,False,Salt - to taste
+504,10,565,Tamarind Paste,1,tbsp,volume,,False,1 tablespoon Tamarind Paste
+504,11,585,Turmeric powder,1/2,tsp,volume,,False,1/2 teaspoon Turmeric powder (Haldi)
+504,12,462,Red Chilli powder,1/2,tsp,volume,,False,1/2 teaspoon Red Chilli powder
+504,13,196,Dry Red Chillies,4,,unspecified,soaked,False,4 Dry Red Chillies - soaked
+504,14,139,Fresh coconut,1/4,cup,volume,grated,False,1/4 cup Fresh coconut - grated
+504,15,358,Mustard seeds,1/2,tsp,volume,,False,1/2 teaspoon Mustard seeds
+504,16,226,Gingelly oil,,,unspecified,for tadka,False,Gingelly oil - for tadka
+504,17,225,Ghee,2,tsp,volume,,False,2 teaspoons Ghee
+653,1,524,Sooji,1-1/4,cup,volume,,False,1 1/4 cups Sooji (Semolina/ Rava)
+653,2,27,Avarekalu / Lilva Beans,1-1/2,cup,volume,,False,1 1/2 cups Avarekalu / Lilva Beans
+653,3,376,Onion,1,,unspecified,chopped,False,1 Onion - chopped
+653,4,244,Green Chillies,3,,unspecified,slit,False,3 Green Chillies - slit
+653,5,227,Ginger,1,inch,length,grated,False,1 inch Ginger - grated
+653,6,190,Dry coconut,1/2,cup,volume,grated,False,1/2 cup Dry coconut (kopra) - grated
+653,7,162,Cumin seeds,1/2,tsp,volume,,False,1/2 teaspoon Cumin seeds (Jeera)
+653,8,358,Mustard seeds,1/2,tsp,volume,,False,1/2 teaspoon Mustard seeds
+653,9,612,White Urad Dal,1/2,tsp,volume,,False,1/2 teaspoon White Urad Dal (Split)
+653,10,108,Chana dal,1/2,tsp,volume,,False,1/2 teaspoon Chana dal (Bengal Gram Dal)
+653,11,585,Turmeric powder,1,tsp,volume,,False,1 teaspoon Turmeric powder (Haldi)
+653,12,164,Curry leaves,6,,unspecified,,False,6 Curry leaves
+653,13,64,Whole Black Peppercorns,1,tsp,volume,,False,1 teaspoon Whole Black Peppercorns -
+653,14,501,Salt,,,unspecified,to taste,False,Salt - to taste
+653,15,599,Water,3,cup,volume,,False,3 cups Water
+653,16,225,Ghee,1,tbsp,volume,,False,1 tablespoon Ghee
+653,17,558,Sunflower Oil,2,tbsp,volume,,False,2 tablespoon Sunflower Oil
+772,1,605,Whole Wheat Flour,3-1/2,cup,volume,,False,3-1/2 cups Whole Wheat Flour
+772,2,225,Ghee,3/4,cup,volume,,False,3/4 cup Ghee
+772,3,37,Baking soda,1/3,tsp,volume,,False,1/3 teaspoon Baking soda
+772,4,163,Curd,2,tbsp,volume,,False,2 tablespoons Curd (Dahi / Yogurt)
+772,5,4,Ajwain,1/2,tsp,volume,,False,1/2 teaspoon Ajwain (Carom seeds)
+772,6,501,Salt,1,tsp,volume,to taste,False,1 teaspoon Salt - to taste
+772,7,320,Lukewarm Water,,,unspecified,to knead the flour,False,Lukewarm Water - to knead the flour
+772,8,488,Roasted Gram Flour,1-1/2,cup,volume,,False,1-1/2 cups Roasted Gram Flour (Sattu Ka Atta)
+772,9,227,Ginger,1,inch,length,grated,False,1 inch Ginger - grated
+772,10,221,Garlic,2,clove,count,grated,False,2 cloves Garlic - grated
+772,11,244,Green Chillies,2,,unspecified,finely chopped,False,2 Green Chillies - finely chopped
+772,12,148,Coriander Leaves,,,unspecified,a small bunch finely chopped,False,Coriander (Dhania) Leaves - a small bunch finely chopped
+772,13,4,Ajwain,1/2,tsp,volume,,False,1/2 teaspoon Ajwain (Carom seeds)
+772,14,292,Kalonji,1/2,tsp,volume,,False,1/2 teaspoon Kalonji (Onion Nigella Seeds)
+772,15,210,Fennel seeds,1/2,tsp,volume,pounded,False,1/2 teaspoon Fennel seeds (Saunf) - pounded
+772,16,356,Mustard oil,1,tbsp,volume,,False,1 tablespoon Mustard oil
+772,17,501,Salt,,,unspecified,to taste,False,Salt - to taste
+772,18,311,Lemon juice,1,tsp,volume,,False,1 teaspoon Lemon juice
+923,1,244,Green Chillies,2,,unspecified,chopped,False,2 Green Chillies - chopped
+923,2,227,Ginger,1,inch,length,chopped,False,1 inch Ginger - chopped
+923,3,599,Water,1/4,cup,volume,,False,1/4 cup Water
+923,4,235,Gram flour,1-1/2,cup,volume,,False,1-1/2 cups Gram flour (besan)
+923,5,599,Water,1/2,cup,volume,or more if required,False,1/2 cup Water - or more if required
+923,6,501,Salt,1,tsp,volume,to taste,False,1 teaspoon Salt - to taste
+923,7,146,Cooking soda,1/4,tsp,volume,,False,1/4 teaspoon Cooking soda
+923,8,206,Enos fruit salt,1,tsp,volume,,False,1 teaspoon Enos fruit salt
+923,9,554,Sugar,1,tsp,volume,,False,1 teaspoon Sugar
+923,10,585,Turmeric powder,1/4,tsp,volume,,False,1/4 teaspoon Turmeric powder (Haldi)
+923,11,558,Sunflower Oil,1,tbsp,volume,,False,1 tablespoon Sunflower Oil
+923,12,311,Lemon juice,1,tbsp,volume,,False,1 tablespoon Lemon juice
+923,13,558,Sunflower Oil,1,tsp,volume,,False,1 teaspoon Sunflower Oil
+923,14,358,Mustard seeds,1,tsp,volume,,False,1 teaspoon Mustard seeds
+923,15,162,Cumin seeds,1,tsp,volume,,False,1 teaspoon Cumin (Jeera) seeds
+923,16,244,Green Chillies,4,,unspecified,slit,False,4 Green Chillies - slit
+923,17,164,Curry leaves,2,sprig,count,,False,2 sprig Curry leaves
+923,18,554,Sugar,2,tbsp,volume,,False,2 tablespoons Sugar
+923,19,501,Salt,1/4,tsp,volume,,False,1/4 teaspoon Salt
+923,20,599,Water,1/2,cup,volume,,False,1/2 cup Water
+923,21,311,Lemon juice,2,tbsp,volume,,False,2 tablespoons Lemon juice
+923,22,139,Fresh coconut,1/4,cup,volume,grated,False,1/4 cup Fresh coconut - grated
+923,23,148,Coriander Leaves,6,sprig,count,finely chopped,False,6 sprig Coriander (Dhania) Leaves - finely chopped

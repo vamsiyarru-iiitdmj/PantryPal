@@ -64,3 +64,32 @@ Review the highest-frequency rows in `data/processed/ingredient_types_needing_re
 - Reverse lookup `ingredient_recipes.csv` regenerated successfully with 69,482 rows. `recipe_ingredient_tuples.csv` has 72,746 rows; all 44 placeholder fragments remain only in the detailed `recipe_ingredients.csv` audit table and are excluded from the app-facing tuple/reverse lookup.
 - README Version 2 counts updated. See `data/processed/schema.md` for column semantics and `data/processed/README.md` for the version history and core-vs-audit file guide.
 - Remaining high-priority issue: a common malformed source token `long` still appears 32 times as an unclassified ingredient candidate and should be inspected in its raw context. Review alias conflicts before alias-to-canonical matching; do not assume all conflicts are erroneous. Unit conversion and inventory deduction remain out of scope for this data-cleaning pass.
+
+
+
+## Fresh recipe data analysis — v3 (2026-10-15)
+
+- Restarted the recipe selection and parsing in a separate folder: `data/demo_analysis_v3/`; older analysis folders and the original ZIP remain intact.
+- Source inspected: 6,871 rows, with translated recipe names, ingredients, instructions, metadata, and URLs.
+- The new pipeline applies a strict eligibility gate: short translated recipe names, usable translated instructions, reasonable time/serving values, known base diet, no duplicate normalized names, and no selected recipe with unclassified ingredient identities.
+- New exports include the 1,000-recipe catalogue, canonical ingredients, aliases, detailed recipe-ingredient links, compact quantity tuples, reverse ingredient lookup, 30-recipe demo shortlist, type/unit summary, and audit reports.
+- Folder documentation: `data/demo_analysis_v3/README.md`, `docs/schema.md`, and `docs/HANDOFF.md`.
+- Do not treat suggested units as conversion factors or alias collisions as automatically resolvable. Verify the final run in `audit/quality_report.json` and `audit/validation_checks.json` before app integration.
+
+
+
+### Final validated v3 snapshot — 2026-10-15
+
+- Pipeline rebuild completed successfully via `data/demo_analysis_v3/run_all.py`.
+- 6,871 source rows; 3,443 strict-eligible candidates; 1,000 selected unique recipes.
+- 623 canonical ingredients, 791 alias rows, 12,218 detailed recipe–ingredient rows, 12,218 compact quantity tuples, and 11,720 reverse ingredient–recipe pairs.
+- 30 curated demo recipes are included in the selected 1,000.
+- Validation status: PASS. No selected unclassified ingredients, numeric-leading ingredient names, parenthetical/bracketed recipe-name aliases, packet-type categories, or orphan relationship keys. Alias collisions: 24 keys, retained for review.
+- Ingredient form is a separate attribute (e.g. liquid, powder/blend, paste/puree, dried, fresh/cut, whole/solid). See `data/demo_analysis_v3/exports/ingredient_alias_type_units.csv` for alias + type/form + quantity-unit guidance.
+
+
+
+### Legacy analysis folder organization
+
+- Moved the flawed `data/Analysis/` and `data/Analysis2/` folders into `data/archive_legacy_analysis/Analysis/` and `data/archive_legacy_analysis/Analysis2/` respectively. They are out of the active data path but retained for recovery/comparison.
+- Left `data/processed/` and the original source ZIP untouched until the new v3 exports are deliberately integrated.

@@ -1,0 +1,14 @@
+ingredient_type,ingredient_count,default_unit_dimensions,ingredient_forms,suggested_units,observed_units_in_source
+Bakery & Pasta,30,mass,dried | liquid | powder_or_blend | whole_or_solid,"g, kg, cup",cup | g | packet | tbsp | tsp
+Dairy & Eggs,39,mass,fresh_or_cut | liquid | whole_or_solid,"g, kg, piece",cup | g | l | ml | tbsp | tsp
+Fruits,74,mass,dried | fresh_or_cut | fresh_or_whole | liquid | paste_or_puree | powder_or_blend,"g, kg, piece",cup | g | ml | tbsp | tsp
+Grains & Flours,53,mass,liquid | powder_or_blend | whole_or_solid,"g, kg, cup",cup | g | tbsp | tsp
+Herbs,33,mass,dried | fresh_or_cut | fresh_or_whole | powder_or_blend,"g, tsp, tbsp",clove | cup | g | inch | sprig | tbsp | tsp
+Liquids,39,volume,liquid,"ml, l, cup, tbsp, tsp",cup | g | l | ml | tbsp | tsp
+Meat & Seafood,25,mass,dried | fresh_or_whole | liquid,"g, kg, piece",cup | g | kg | tbsp
+Nuts & Seeds,30,mass,dried | liquid | whole_or_solid,"g, kg, cup",cup | g | tbsp | tsp
+Oils & Fats,11,volume,whole_or_solid,"ml, tbsp, tsp",cup | tbsp | tsp
+Pulses & Legumes,23,mass,fresh_or_cut | whole_or_solid,"g, kg, cup",cup | g | tbsp | tsp
+Spices & Seasonings,105,mass,dried | liquid | powder_or_blend | whole_or_solid,"g, tsp, tbsp",clove | cup | g | inch | tbsp | tsp
+Sweeteners,21,mass,liquid | whole_or_solid,"g, tsp, tbsp",cup | g | inch | tbsp | tsp
+Vegetables,140,mass,dried | fresh_or_cut | fresh_or_whole | liquid | paste_or_puree | powder_or_blend,"g, kg, piece",clove | cup | g | inch | kg | piece | sprig | tbsp | tsp

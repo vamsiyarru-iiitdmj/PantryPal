@@ -1,0 +1,792 @@
+ingredient_id,canonical_name,alias,alias_key,alias_source
+1,Aam Papad,Aam Papad,aam papad,primary_name_or_parenthetical_source_alias
+1,Aam Papad,Sun Dried Mango,sun dried mango,primary_name_or_parenthetical_source_alias
+2,Achari masala,Achari masala,achari masala,primary_name_or_parenthetical_source_alias
+3,Active dry yeast,Active dry yeast,active dry yeast,primary_name_or_parenthetical_source_alias
+4,Ajwain,Ajwain,ajwain,primary_name_or_parenthetical_source_alias
+4,Ajwain,Carom seeds,carom seed,primary_name_or_parenthetical_source_alias
+5,All Purpose Flour,All Purpose Flour,all purpose flour,primary_name_or_parenthetical_source_alias
+5,All Purpose Flour,Maida,maida,primary_name_or_parenthetical_source_alias
+6,almonds,almond,almond,primary_name_or_parenthetical_source_alias
+7,Almond butter,Almond butter,almond butter,primary_name_or_parenthetical_source_alias
+8,Almond essence,Almond essence,almond essence,primary_name_or_parenthetical_source_alias
+8,Almond essence,Badam Essence,badam essence,primary_name_or_parenthetical_source_alias
+9,Almond Meal,Almond Meal,almond meal,primary_name_or_parenthetical_source_alias
+9,Almond Meal,Badam Powder,badam powder,primary_name_or_parenthetical_source_alias
+10,Almond Milk,Almond Milk,almond milk,primary_name_or_parenthetical_source_alias
+10,Almond Milk,Badam Milk,badam milk,primary_name_or_parenthetical_source_alias
+11,Aloe vera extract,Aloe vera extract,aloe vera extract,primary_name_or_parenthetical_source_alias
+12,Aloo Tikki,Aloo Tikki,aloo tikki,primary_name_or_parenthetical_source_alias
+12,Aloo Tikki,Potato,potato,primary_name_or_parenthetical_source_alias
+13,Amchur,Amchur,amchur,primary_name_or_parenthetical_source_alias
+13,Amchur,Dry Mango Powder,dry mango powder,primary_name_or_parenthetical_source_alias
+14,Amla,amla,amla,primary_name_or_parenthetical_source_alias
+14,Amla,Gooseberry,gooseberry,primary_name_or_parenthetical_source_alias
+14,Amla,Nellikai,nellikai,primary_name_or_parenthetical_source_alias
+15,Anardana Powder,Anardana Powder,anardana powder,primary_name_or_parenthetical_source_alias
+15,Anardana Powder,Pomegranate Seed Powder,pomegranate seed powder,primary_name_or_parenthetical_source_alias
+16,Apple,Apple,apple,primary_name_or_parenthetical_source_alias
+17,Apple cider vinegar,Apple cider vinegar,apple cider vinegar,primary_name_or_parenthetical_source_alias
+18,Apple juice,Apple juice,apple juice,primary_name_or_parenthetical_source_alias
+19,Apple Vodka,Apple Vodka,apple vodka,primary_name_or_parenthetical_source_alias
+20,Apricots,Apricots,apricot,primary_name_or_parenthetical_source_alias
+21,Arborio rice,Arborio rice,arborio rice,primary_name_or_parenthetical_source_alias
+22,Arhar dal,arhar dal,arhar dal,primary_name_or_parenthetical_source_alias
+23,Arrowroot flour,Arrowroot flour,arrowroot flour,primary_name_or_parenthetical_source_alias
+24,asafetida,asafetida,asafetida,primary_name_or_parenthetical_source_alias
+25,Asafoetida,Asafoetida,asafoetida,primary_name_or_parenthetical_source_alias
+25,Asafoetida,hing,hing,primary_name_or_parenthetical_source_alias
+26,Avarekai,Avarekai,avarekai,primary_name_or_parenthetical_source_alias
+26,Avarekai,Broad Beans,broad bean,primary_name_or_parenthetical_source_alias
+27,Avarekalu / Lilva Beans,Avarekalu / Lilva Beans,avarekalu lilva bean,primary_name_or_parenthetical_source_alias
+28,Avocado,Avocado,avocado,primary_name_or_parenthetical_source_alias
+29,Baby corn,Baby corn,baby corn,primary_name_or_parenthetical_source_alias
+30,Baby Potatoes,Baby Potatoes,baby potato,primary_name_or_parenthetical_source_alias
+31,Baby spinach,Baby spinach,baby spinach,primary_name_or_parenthetical_source_alias
+32,Badam,Almond,almond,primary_name_or_parenthetical_source_alias
+32,Badam,Badam,badam,primary_name_or_parenthetical_source_alias
+33,Baguette,Baguette,baguette,primary_name_or_parenthetical_source_alias
+34,Bajra Flour,Bajra Flour,bajra flour,primary_name_or_parenthetical_source_alias
+34,Bajra Flour,Pearl Millet,pearl millet,primary_name_or_parenthetical_source_alias
+35,Baked beans,Baked beans,baked bean,primary_name_or_parenthetical_source_alias
+36,Baking powder,Baking powder,baking powder,primary_name_or_parenthetical_source_alias
+37,Baking soda,Baking soda,baking soda,primary_name_or_parenthetical_source_alias
+38,Balsamic Vinegar,Balsamic Vinegar,balsamic vinegar,primary_name_or_parenthetical_source_alias
+39,Banana flower,Banana flower,banana flower,primary_name_or_parenthetical_source_alias
+39,Banana flower,Vazhaipoo,vazhaipoo,primary_name_or_parenthetical_source_alias
+40,Banana leaf,Banana leaf,banana leaf,primary_name_or_parenthetical_source_alias
+41,Barbeque masala,Barbeque masala,barbeque masala,primary_name_or_parenthetical_source_alias
+42,Barbeque sauce,Barbeque sauce,barbeque sauce,primary_name_or_parenthetical_source_alias
+43,Barley,Barley,barley,primary_name_or_parenthetical_source_alias
+43,Barley,seeds,seed,primary_name_or_parenthetical_source_alias
+44,Barnyard Millet,Barnyard Millet,barnyard millet,primary_name_or_parenthetical_source_alias
+45,Basa fish,Basa fish,basa fish,primary_name_or_parenthetical_source_alias
+46,Basella,Basella,basella,primary_name_or_parenthetical_source_alias
+46,Basella,Malabar Spinach,malabar spinach,primary_name_or_parenthetical_source_alias
+47,Basil leaves,Basil leaves,basil leaf,primary_name_or_parenthetical_source_alias
+48,Basmati rice,Basmati rice,basmati rice,primary_name_or_parenthetical_source_alias
+49,Bay leaf,bay leaf,bay leaf,primary_name_or_parenthetical_source_alias
+49,Bay leaf,tej patta,tej patta,primary_name_or_parenthetical_source_alias
+50,Bean Paste,Bean Paste,bean paste,primary_name_or_parenthetical_source_alias
+51,Bean Sprouts,Bean Sprouts,bean sprout,primary_name_or_parenthetical_source_alias
+52,Beetroot,beetroot,beetroot,primary_name_or_parenthetical_source_alias
+53,Betel Nut,Betel Nut,betel nut,primary_name_or_parenthetical_source_alias
+53,Betel Nut,Supari,supari,primary_name_or_parenthetical_source_alias
+54,Bhetki fish,Bhetki fish,bhetki fish,primary_name_or_parenthetical_source_alias
+55,Bhindi,Bhindi,bhindi,primary_name_or_parenthetical_source_alias
+55,Bhindi,Lady Finger,lady finger,primary_name_or_parenthetical_source_alias
+55,Bhindi,Okra,okra,primary_name_or_parenthetical_source_alias
+56,Biryani Masala Powder,Biryani Masala Powder,biryani masala powder,primary_name_or_parenthetical_source_alias
+57,Black beans,Black beans,black bean,primary_name_or_parenthetical_source_alias
+58,Black beans sauce,Black beans sauce,black beans sauce,primary_name_or_parenthetical_source_alias
+59,Black cardamom,Badi Elaichi,badi elaichi,primary_name_or_parenthetical_source_alias
+59,Black cardamom,Black cardamom,black cardamom,primary_name_or_parenthetical_source_alias
+60,Black Eyed Beans,Black Eyed Beans,black eyed bean,primary_name_or_parenthetical_source_alias
+60,Black Eyed Beans,Lobia,lobia,primary_name_or_parenthetical_source_alias
+61,Black olives,Black olives,black olive,primary_name_or_parenthetical_source_alias
+62,Black pepper corns,Black pepper corns,black pepper corn,primary_name_or_parenthetical_source_alias
+63,Black pepper powder,black pepper powder,black pepper powder,primary_name_or_parenthetical_source_alias
+64,Whole Black Peppercorns,Whole Black Peppercorns,black peppercorn,primary_name_or_parenthetical_source_alias
+65,Black raisins,Black raisins,black raisin,primary_name_or_parenthetical_source_alias
+66,Black Rice,Black Rice,black rice,primary_name_or_parenthetical_source_alias
+67,Black Salt,Black Salt,black salt,primary_name_or_parenthetical_source_alias
+67,Black Salt,Kala Namak,kala namak,primary_name_or_parenthetical_source_alias
+68,black salt or rock salt,black salt or rock salt,black salt or rock salt,primary_name_or_parenthetical_source_alias
+69,Black sesame seeds,Black sesame seeds,black sesame seed,primary_name_or_parenthetical_source_alias
+70,Black Urad Dal,black urad dal,black urad dal,primary_name_or_parenthetical_source_alias
+71,Boiled Peanuts,Boiled Peanuts,boiled peanut,primary_name_or_parenthetical_source_alias
+72,Bok Choy,Bok Choy,bok choy,primary_name_or_parenthetical_source_alias
+73,Boneless chicken,Boneless chicken,boneless chicken,primary_name_or_parenthetical_source_alias
+74,Bottle gourd,Bottle gourd,bottle gourd,primary_name_or_parenthetical_source_alias
+74,Bottle gourd,lauki,lauki,primary_name_or_parenthetical_source_alias
+75,Brinjal,Baingan,baingan,primary_name_or_parenthetical_source_alias
+75,Brinjal,Brinjal,brinjal,primary_name_or_parenthetical_source_alias
+75,Brinjal,Eggplant,eggplant,primary_name_or_parenthetical_source_alias
+76,Britannia Cheese Block,Britannia Cheese Block,britannia cheese block,primary_name_or_parenthetical_source_alias
+77,Britannia Cheese Spread,Britannia Cheese Spread,britannia cheese spread,primary_name_or_parenthetical_source_alias
+78,Britannia Cream Cheese,Britannia Cream Cheese,britannia cream cheese,primary_name_or_parenthetical_source_alias
+79,Broccoli,Broccoli,broccoli,primary_name_or_parenthetical_source_alias
+80,Broken Raw Rice,Broken Raw Rice,broken raw rice,primary_name_or_parenthetical_source_alias
+81,Broken Wheat,Broken Wheat,broken wheat,primary_name_or_parenthetical_source_alias
+81,Broken Wheat,Dalia,dalia,primary_name_or_parenthetical_source_alias
+81,Broken Wheat,Godumai Rava,godumai rava,primary_name_or_parenthetical_source_alias
+82,Brown Rice,Brown Rice,brown rice,primary_name_or_parenthetical_source_alias
+83,Brown Sugar,Brown Sugar,brown sugar,primary_name_or_parenthetical_source_alias
+83,Brown Sugar,Demerara Sugar,demerara sugar,primary_name_or_parenthetical_source_alias
+84,bud garlic,bud garlic,bud garlic,primary_name_or_parenthetical_source_alias
+85,Burger buns,Burger buns,burger bun,primary_name_or_parenthetical_source_alias
+86,Butter,butter,butter,primary_name_or_parenthetical_source_alias
+86,Butter,unsalted,unsalted,primary_name_or_parenthetical_source_alias
+87,Buttermilk,Buttermilk,buttermilk,primary_name_or_parenthetical_source_alias
+88,Button mushrooms,Button mushrooms,button mushroom,primary_name_or_parenthetical_source_alias
+89,Byadagi Dried Chillies,Byadagi Dried Chillies,byadagi dried chilly,primary_name_or_parenthetical_source_alias
+90,Cabbage,Cabbage,cabbage,primary_name_or_parenthetical_source_alias
+90,Cabbage,Muttaikose,muttaikose,primary_name_or_parenthetical_source_alias
+90,Cabbage,Patta Gobi,patta gobi,primary_name_or_parenthetical_source_alias
+91,Cane sugar,Cane sugar,cane sugar,primary_name_or_parenthetical_source_alias
+92,Canned Cherries,Canned Cherries,canned cherry,primary_name_or_parenthetical_source_alias
+93,Canola Oil,Canola Oil,canola oil,primary_name_or_parenthetical_source_alias
+94,capsicum,capsicum,capsicum,primary_name_or_parenthetical_source_alias
+94,capsicum,green,green,primary_name_or_parenthetical_source_alias
+94,capsicum,red,red,primary_name_or_parenthetical_source_alias
+94,capsicum,yellow,yellow,primary_name_or_parenthetical_source_alias
+95,cardamom,cardamom,cardamom,primary_name_or_parenthetical_source_alias
+96,Cardamom Pods/Seeds,Cardamom Pods/Seeds,cardamom pods seed,primary_name_or_parenthetical_source_alias
+96,Cardamom Pods/Seeds,Elaichi,elaichi,primary_name_or_parenthetical_source_alias
+97,Cardamom Powder,Cardamom Powder,cardamom powder,primary_name_or_parenthetical_source_alias
+97,Cardamom Powder,Elaichi,elaichi,primary_name_or_parenthetical_source_alias
+98,Carrot,Carrot,carrot,primary_name_or_parenthetical_source_alias
+98,Carrot,Gajjar,gajjar,primary_name_or_parenthetical_source_alias
+99,Whole cashews,cashews,cashew,primary_name_or_parenthetical_source_alias
+100,Cashew nuts,Cashew nuts,cashew nut,primary_name_or_parenthetical_source_alias
+101,cast coriander,cast coriander,cast coriander,primary_name_or_parenthetical_source_alias
+102,Caster Sugar,Caster Sugar,caster sugar,primary_name_or_parenthetical_source_alias
+103,Cauliflower,Cauliflower,cauliflower,primary_name_or_parenthetical_source_alias
+103,Cauliflower,gobi,gobi,primary_name_or_parenthetical_source_alias
+104,Cayenne Pepper,Cayenne Pepper,cayenne pepper,primary_name_or_parenthetical_source_alias
+105,celery,Celery,celery,primary_name_or_parenthetical_source_alias
+106,Chaat Masala Powder,Chaat Masala Powder,chaat masala powder,primary_name_or_parenthetical_source_alias
+107,Chai Masala,Chai Masala,chai masala,primary_name_or_parenthetical_source_alias
+108,Chana dal,Bengal Gram Dal,bengal gram dal,primary_name_or_parenthetical_source_alias
+108,Chana dal,Chana dal,chana dal,primary_name_or_parenthetical_source_alias
+109,Chana Masala Powder,Chana Masala Powder,chana masala powder,primary_name_or_parenthetical_source_alias
+110,Cheddar cheese,Cheddar cheese,cheddar cheese,primary_name_or_parenthetical_source_alias
+111,Cheese,cheese,cheese,primary_name_or_parenthetical_source_alias
+112,Cheese spread,Cheese spread,cheese spread,primary_name_or_parenthetical_source_alias
+113,Chenna,Chenna,chenna,primary_name_or_parenthetical_source_alias
+113,Chenna,Homemade Cottage Cheese,homemade cottage cheese,primary_name_or_parenthetical_source_alias
+114,Fresh Cherries,Fresh Cherries,cherry,primary_name_or_parenthetical_source_alias
+115,Cherry tomatoes,Cherry tomatoes,cherry tomato,primary_name_or_parenthetical_source_alias
+116,Chia Seeds,Chia Seeds,chia seed,primary_name_or_parenthetical_source_alias
+117,Chicken,Chicken,chicken,primary_name_or_parenthetical_source_alias
+118,Chicken breasts,Chicken breasts,chicken breast,primary_name_or_parenthetical_source_alias
+119,Chicken stock,Chicken stock,chicken stock,primary_name_or_parenthetical_source_alias
+120,Chicken thighs,Chicken thigh,chicken thigh,primary_name_or_parenthetical_source_alias
+121,Chicken Wings,Chicken Wings,chicken wing,primary_name_or_parenthetical_source_alias
+122,Chilled butter,Chilled butter,chilled butter,primary_name_or_parenthetical_source_alias
+123,Chilled water,Chilled water,chilled water,primary_name_or_parenthetical_source_alias
+124,Chilli Garlic Sauce,Chilli Garlic Sauce,chilli garlic sauce,primary_name_or_parenthetical_source_alias
+125,Chilli oil,Chilli oil,chilli oil,primary_name_or_parenthetical_source_alias
+126,Chilli vinegar,Chilli vinegar,chilli vinegar,primary_name_or_parenthetical_source_alias
+127,Chinese rice wine,Chinese rice wine,chinese rice wine,primary_name_or_parenthetical_source_alias
+128,Chipotle Chillies / Peppers,Chipotle Chillies / Peppers,chipotle chillies pepper,primary_name_or_parenthetical_source_alias
+129,Chipotle peppers,Chipotle peppers,chipotle pepper,primary_name_or_parenthetical_source_alias
+130,Chipotle sauce,Chipotle sauce,chipotle sauce,primary_name_or_parenthetical_source_alias
+131,Chocolate chips,Chocolate chips,chocolate chip,primary_name_or_parenthetical_source_alias
+132,Chocolate ganache,Chocolate ganache,chocolate ganache,primary_name_or_parenthetical_source_alias
+133,cinnamon,cinnamon,cinnamon,primary_name_or_parenthetical_source_alias
+134,Cinnamon Powder,cinnamon powder,cinnamon powder,primary_name_or_parenthetical_source_alias
+134,Cinnamon Powder,Dalchini,dalchini,primary_name_or_parenthetical_source_alias
+135,Cinnamon Stick,Cinnamon stick,cinnamon stick,primary_name_or_parenthetical_source_alias
+135,Cinnamon Stick,Dalchini,dalchini,primary_name_or_parenthetical_source_alias
+136,Classic Mayonnaise,Classic Mayonnaise,classic mayonnaise,primary_name_or_parenthetical_source_alias
+136,Classic Mayonnaise,With Egg,with egg,primary_name_or_parenthetical_source_alias
+137,Cloves,Cloves,clove,primary_name_or_parenthetical_source_alias
+137,Cloves,Laung,laung,primary_name_or_parenthetical_source_alias
+138,Cluster fig,Cluster fig,cluster fig,primary_name_or_parenthetical_source_alias
+138,Cluster fig,Gular,gular,primary_name_or_parenthetical_source_alias
+139,Fresh coconut,coconut,coconut,primary_name_or_parenthetical_source_alias
+140,Coconut milk,Coconut milk,coconut milk,primary_name_or_parenthetical_source_alias
+141,Coconut Oil,Coconut Oil,coconut oil,primary_name_or_parenthetical_source_alias
+142,Colocasia root,Arbi,arbi,primary_name_or_parenthetical_source_alias
+142,Colocasia root,Colocasia root,colocasia root,primary_name_or_parenthetical_source_alias
+143,Condensed Milk,Condensed Milk,condensed milk,primary_name_or_parenthetical_source_alias
+144,Confectioners sugar,Confectioners sugar,confectioners sugar,primary_name_or_parenthetical_source_alias
+145,Cooked rice,Cooked rice,cooked rice,primary_name_or_parenthetical_source_alias
+146,Cooking soda,Cooking soda,cooking soda,primary_name_or_parenthetical_source_alias
+147,coriander,coriander,coriander,primary_name_or_parenthetical_source_alias
+148,Coriander Leaves,Coriander Leaves,coriander leaf,primary_name_or_parenthetical_source_alias
+148,Coriander Leaves,Dhania,dhania,primary_name_or_parenthetical_source_alias
+149,Coriander Powder,coriander powder,coriander powder,primary_name_or_parenthetical_source_alias
+149,Coriander Powder,Dhania,dhania,primary_name_or_parenthetical_source_alias
+150,Coriander Seeds,coriander seeds,coriander seed,primary_name_or_parenthetical_source_alias
+150,Coriander Seeds,Dhania,dhania,primary_name_or_parenthetical_source_alias
+151,Corn Cob,Corn Cob,corn cob,primary_name_or_parenthetical_source_alias
+152,Corn flour,Corn flour,corn flour,primary_name_or_parenthetical_source_alias
+153,Corn flour tortilla,Corn flour tortilla,corn flour tortilla,primary_name_or_parenthetical_source_alias
+154,Corn Kernels,Corn Kernels,corn kernel,primary_name_or_parenthetical_source_alias
+155,Corn meal,Corn meal,corn meal,primary_name_or_parenthetical_source_alias
+156,Crab,Crab,crab,primary_name_or_parenthetical_source_alias
+157,Cranberries,Cranberries,cranberry,primary_name_or_parenthetical_source_alias
+158,Fresh cream,cream,cream,primary_name_or_parenthetical_source_alias
+159,Cucumber,Cucumber,cucumber,primary_name_or_parenthetical_source_alias
+160,cumin,cumin,cumin,primary_name_or_parenthetical_source_alias
+161,Cumin powder,cumin powder,cumin powder,primary_name_or_parenthetical_source_alias
+161,Cumin powder,Jeera,jeera,primary_name_or_parenthetical_source_alias
+162,Cumin seeds,cumin seeds,cumin seed,primary_name_or_parenthetical_source_alias
+162,Cumin seeds,Jeera,jeera,primary_name_or_parenthetical_source_alias
+163,Curd,Curd,curd,primary_name_or_parenthetical_source_alias
+163,Curd,Dahi,dahi,primary_name_or_parenthetical_source_alias
+163,Curd,Yogurt,yogurt,primary_name_or_parenthetical_source_alias
+164,Curry leaves,curry leaves,curry leaf,primary_name_or_parenthetical_source_alias
+165,Curry powder,Curry powder,curry powder,primary_name_or_parenthetical_source_alias
+166,Custard apple,Custard apple,custard apple,primary_name_or_parenthetical_source_alias
+166,Custard apple,Sitaphal,sitaphal,primary_name_or_parenthetical_source_alias
+167,cut 3 sprigs of mint,cut 3 sprigs of mint,cut 3 sprigs of mint,primary_name_or_parenthetical_source_alias
+168,Dark chocolate,Dark chocolate,dark chocolate,primary_name_or_parenthetical_source_alias
+169,Dark soy sauce,Dark soy sauce,dark soy sauce,primary_name_or_parenthetical_source_alias
+170,Dates,Dates,date,primary_name_or_parenthetical_source_alias
+171,Date syrup,Date syrup,date syrup,primary_name_or_parenthetical_source_alias
+172,Decorative sugar,Cake,cake,primary_name_or_parenthetical_source_alias
+172,Decorative sugar,Candy Sprinkles,candy sprinkle,primary_name_or_parenthetical_source_alias
+172,Decorative sugar,Decorative sugar,decorative sugar,primary_name_or_parenthetical_source_alias
+173,Del Monte Chifferi Rigati Pasta,Del Monte Chifferi Rigati Pasta,del monte chifferi rigati pasta,primary_name_or_parenthetical_source_alias
+174,Dessicated Coconut,Dessicated Coconut,dessicated coconut,primary_name_or_parenthetical_source_alias
+175,Dhansak masala,Dhansak masala,dhansak masala,primary_name_or_parenthetical_source_alias
+176,Dijon Mustard,Dijon Mustard,dijon mustard,primary_name_or_parenthetical_source_alias
+177,Dill leaves,Dill leaves,dill leaf,primary_name_or_parenthetical_source_alias
+178,Dosa rice,Dosa rice,dosa rice,primary_name_or_parenthetical_source_alias
+179,Double Cream,Double Cream,double cream,primary_name_or_parenthetical_source_alias
+180,Dried basil leaves,Dried basil leaves,dried basil leaf,primary_name_or_parenthetical_source_alias
+181,Dried Figs,Dried Figs,dried fig,primary_name_or_parenthetical_source_alias
+182,Dried mushrooms,Dried mushrooms,dried mushroom,primary_name_or_parenthetical_source_alias
+183,Dried oregano,Dried oregano,dried oregano,primary_name_or_parenthetical_source_alias
+184,Dried rose petals,Dried rose petals,dried rose petal,primary_name_or_parenthetical_source_alias
+185,Dried shrimps,Dried shrimps,dried shrimp,primary_name_or_parenthetical_source_alias
+186,Dried Thyme Leaves,Dried Thyme Leaves,dried thyme leaf,primary_name_or_parenthetical_source_alias
+187,Dried Yellow/White Peas,Dried Yellow/White Peas,dried yellow white pea,primary_name_or_parenthetical_source_alias
+187,Dried Yellow/White Peas,Vatana,vatana,primary_name_or_parenthetical_source_alias
+188,Drumstick,Drumstick,drumstick,primary_name_or_parenthetical_source_alias
+189,Drumstick Leaves,Drumstick Leaves,drumstick leaf,primary_name_or_parenthetical_source_alias
+189,Drumstick Leaves,Moringa,moringa,primary_name_or_parenthetical_source_alias
+189,Drumstick Leaves,Murungai Keerai,murungai keerai,primary_name_or_parenthetical_source_alias
+190,Dry coconut,dry coconut,dry coconut,primary_name_or_parenthetical_source_alias
+190,Dry coconut,kopra,kopra,primary_name_or_parenthetical_source_alias
+191,Dry Fruits,Dry Fruits,dry fruit,primary_name_or_parenthetical_source_alias
+192,Dry ginger powder,Dry ginger powder,dry ginger powder,primary_name_or_parenthetical_source_alias
+193,Dry mix herbs,Dry mix herbs,dry mix herb,primary_name_or_parenthetical_source_alias
+194,dry red chili,dry red Chili,dry red chili,primary_name_or_parenthetical_source_alias
+195,Dry Red Chilli,Dry Red Chilli,dry red chilli,primary_name_or_parenthetical_source_alias
+196,Dry Red Chillies,dry red chillies,dry red chilly,primary_name_or_parenthetical_source_alias
+197,Dry white wine,Dry white wine,dry white wine,primary_name_or_parenthetical_source_alias
+198,Whole Eggs,eggs,egg,primary_name_or_parenthetical_source_alias
+199,Egg noodles,Egg noodles,egg noodle,primary_name_or_parenthetical_source_alias
+200,Egg whites,Egg white,egg white,primary_name_or_parenthetical_source_alias
+201,Egg yolks,Egg yolks,egg yolk,primary_name_or_parenthetical_source_alias
+202,eggplant,eggplant,eggplant,primary_name_or_parenthetical_source_alias
+203,Elbow Pasta,Elbow Pasta,elbow pasta,primary_name_or_parenthetical_source_alias
+204,Elephant yam,Elephant yam,elephant yam,primary_name_or_parenthetical_source_alias
+204,Elephant yam,Ratalu,ratalu,primary_name_or_parenthetical_source_alias
+204,Elephant yam,Senai,senai,primary_name_or_parenthetical_source_alias
+204,Elephant yam,Suran,suran,primary_name_or_parenthetical_source_alias
+205,English Cucumber,English Cucumber,english cucumber,primary_name_or_parenthetical_source_alias
+206,Enos fruit salt,Enos fruit salt,enos fruit salt,primary_name_or_parenthetical_source_alias
+207,Extra Virgin Olive Oil,Extra Virgin Olive Oil,extra virgin olive oil,primary_name_or_parenthetical_source_alias
+208,Fennel bulb,Fennel bulb,fennel bulb,primary_name_or_parenthetical_source_alias
+209,Fennel Powder,Fennel Powder,fennel powder,primary_name_or_parenthetical_source_alias
+210,Fennel seeds,Fennel seeds,fennel seed,primary_name_or_parenthetical_source_alias
+210,Fennel seeds,Saunf,saunf,primary_name_or_parenthetical_source_alias
+211,fenugreek seeds,fenugreek seeds,fenugreek seed,primary_name_or_parenthetical_source_alias
+212,Feta Cheese,Feta Cheese,feta cheese,primary_name_or_parenthetical_source_alias
+213,Fresh Figs,Fresh Figs,fig,primary_name_or_parenthetical_source_alias
+214,Fish,fish,fish,primary_name_or_parenthetical_source_alias
+215,Fish fillet,Fish fillet,fish fillet,primary_name_or_parenthetical_source_alias
+216,Fish sauce,Fish sauce,fish sauce,primary_name_or_parenthetical_source_alias
+217,Flax seeds,Flax seeds,flax seed,primary_name_or_parenthetical_source_alias
+218,Foxtail Millet,Foxtail Millet,foxtail millet,primary_name_or_parenthetical_source_alias
+219,Fried Bread Cubes,Croutons,crouton,primary_name_or_parenthetical_source_alias
+219,Fried Bread Cubes,Fried Bread Cubes,fried bread cube,primary_name_or_parenthetical_source_alias
+220,Garam masala powder,garam masala powder,garam masala powder,primary_name_or_parenthetical_source_alias
+221,Garlic,garlic,garlic,primary_name_or_parenthetical_source_alias
+222,Garlic Butter,Garlic Butter,garlic butter,primary_name_or_parenthetical_source_alias
+223,Garlic powder,Garlic powder,garlic powder,primary_name_or_parenthetical_source_alias
+224,Gawar Phali,Cluster beans,cluster bean,primary_name_or_parenthetical_source_alias
+224,Gawar Phali,Gawar Phali,gawar phali,primary_name_or_parenthetical_source_alias
+224,Gawar Phali,Kothavarangai,kothavarangai,primary_name_or_parenthetical_source_alias
+225,Ghee,ghee,ghee,primary_name_or_parenthetical_source_alias
+226,Gingelly oil,Gingelly oil,gingelly oil,primary_name_or_parenthetical_source_alias
+227,Ginger,ginger,ginger,primary_name_or_parenthetical_source_alias
+228,Ginger Ale,Ginger Ale,ginger ale,primary_name_or_parenthetical_source_alias
+229,Ginger Garlic Paste,ginger garlic paste,ginger garlic paste,primary_name_or_parenthetical_source_alias
+230,Ginger Juice,Ginger Juice,ginger juice,primary_name_or_parenthetical_source_alias
+231,Ginger Paste,Ginger Paste,ginger paste,primary_name_or_parenthetical_source_alias
+232,Glazed Cherries,Glazed Cherries,glazed cherry,primary_name_or_parenthetical_source_alias
+233,Goat Cheese,Goat Cheese,goat cheese,primary_name_or_parenthetical_source_alias
+234,Govind Bhog Rice,Govind Bhog Rice,govind bhog rice,primary_name_or_parenthetical_source_alias
+235,Gram flour,besan,besan,primary_name_or_parenthetical_source_alias
+235,Gram flour,Gram flour,gram flour,primary_name_or_parenthetical_source_alias
+236,Green Amaranth Leaves,Green Amaranth Leaves,green amaranth leaf,primary_name_or_parenthetical_source_alias
+237,Green beans,French Beans,french bean,primary_name_or_parenthetical_source_alias
+237,Green beans,green beans,green bean,primary_name_or_parenthetical_source_alias
+238,Green Bell Pepper,Capsicum,capsicum,primary_name_or_parenthetical_source_alias
+238,Green Bell Pepper,Green Bell Pepper,green bell pepper,primary_name_or_parenthetical_source_alias
+239,Fresh green chickpeas,Fresh green chickpeas,green chickpea,primary_name_or_parenthetical_source_alias
+240,green chili,green chili,green chili,primary_name_or_parenthetical_source_alias
+241,Green Chilli,Green Chilli,green chilli,primary_name_or_parenthetical_source_alias
+242,Green Chilli Paste,Green Chilli Paste,green chilli paste,primary_name_or_parenthetical_source_alias
+243,Green Chilli Sauce,Green Chilli Sauce,green chilli sauce,primary_name_or_parenthetical_source_alias
+244,Green Chillies,green chillies,green chilly,primary_name_or_parenthetical_source_alias
+245,Green Chutney,Coriander & Mint,coriander mint,primary_name_or_parenthetical_source_alias
+245,Green Chutney,Green Chutney,green chutney,primary_name_or_parenthetical_source_alias
+246,green coriander,green coriander,green coriander,primary_name_or_parenthetical_source_alias
+247,Green Moong Dal,Green Moong Dal,green moong dal,primary_name_or_parenthetical_source_alias
+248,Green Moong Sprouts,Green Moong Sprouts,green moong sprout,primary_name_or_parenthetical_source_alias
+249,Green olives,Green olives,green olive,primary_name_or_parenthetical_source_alias
+250,green onions,green onion,green onion,primary_name_or_parenthetical_source_alias
+251,Green peas,Green peas,green pea,primary_name_or_parenthetical_source_alias
+251,Green peas,Matar,matar,primary_name_or_parenthetical_source_alias
+252,Green seedless Grapes,Green seedless Grapes,green seedless grape,primary_name_or_parenthetical_source_alias
+253,Green zucchini,Green zucchini,green zucchini,primary_name_or_parenthetical_source_alias
+254,grind 1 tbsp whole black pepper,grind 1 tbsp whole black pepper,grind 1 tbsp black pepper,primary_name_or_parenthetical_source_alias
+255,Gruyere Cheese,Gruyere Cheese,gruyere cheese,primary_name_or_parenthetical_source_alias
+256,Guava,guava,guava,primary_name_or_parenthetical_source_alias
+257,Gulkand,Gulkand,gulkand,primary_name_or_parenthetical_source_alias
+258,Hakka Noodles,Hakka Noodles,hakka noodle,primary_name_or_parenthetical_source_alias
+259,Heavy whipping cream,Heavy whipping cream,heavy whipping cream,primary_name_or_parenthetical_source_alias
+260,Fresh Herbs,Fresh Herbs,herb,primary_name_or_parenthetical_source_alias
+261,Herb Butter,Herb Butter,herb butter,primary_name_or_parenthetical_source_alias
+262,Homemade Basil Pesto,Homemade Basil Pesto,homemade basil pesto,primary_name_or_parenthetical_source_alias
+263,Homemade Hoisin Sauce,Homemade Hoisin Sauce,homemade hoisin sauce,primary_name_or_parenthetical_source_alias
+264,Homemade Mole sauce,Homemade Mole sauce,homemade mole sauce,primary_name_or_parenthetical_source_alias
+265,Homemade Pizza And Pasta Sauce,Homemade Pizza And Pasta Sauce,homemade pizza and pasta sauce,primary_name_or_parenthetical_source_alias
+266,Homemade tomato puree,Homemade tomato puree,homemade tomato puree,primary_name_or_parenthetical_source_alias
+267,Honey,honey,honey,primary_name_or_parenthetical_source_alias
+268,Horse Gram Dal,Horse Gram Dal,horse gram dal,primary_name_or_parenthetical_source_alias
+268,Horse Gram Dal,Kollu,kollu,primary_name_or_parenthetical_source_alias
+268,Horse Gram Dal,Kulith,kulith,primary_name_or_parenthetical_source_alias
+269,Hot water,Hot water,hot water,primary_name_or_parenthetical_source_alias
+270,Hung Curd,Greek Yogurt,greek yogurt,primary_name_or_parenthetical_source_alias
+270,Hung Curd,Hung Curd,hung curd,primary_name_or_parenthetical_source_alias
+271,Ice cubes,Ice cubes,ice cube,primary_name_or_parenthetical_source_alias
+272,Iceberg lettuce,Iceberg lettuce,iceberg lettuce,primary_name_or_parenthetical_source_alias
+273,Icing Sugar,Icing Sugar,icing sugar,primary_name_or_parenthetical_source_alias
+274,Idli,Idli,idli,primary_name_or_parenthetical_source_alias
+275,Idli Dosa Batter,Idli Dosa Batter,idli dosa batter,primary_name_or_parenthetical_source_alias
+276,idli dosa mixture,idli dosa mixture,idli dosa mixture,primary_name_or_parenthetical_source_alias
+277,Idli Rice,Idli Rice,idli rice,primary_name_or_parenthetical_source_alias
+278,Instant Oats,Instant Oats,instant oat,primary_name_or_parenthetical_source_alias
+278,Instant Oats,Oatmeal,oatmeal,primary_name_or_parenthetical_source_alias
+279,Italian Bread,Italian Bread,italian bread,primary_name_or_parenthetical_source_alias
+280,Italian seasoning,Italian seasoning,italian seasoning,primary_name_or_parenthetical_source_alias
+281,Jackfruit Raw,Jackfruit Raw,jackfruit raw,primary_name_or_parenthetical_source_alias
+281,Jackfruit Raw,Kathal,kathal,primary_name_or_parenthetical_source_alias
+282,Jackfruit Ripe,Jackfruit Ripe,jackfruit ripe,primary_name_or_parenthetical_source_alias
+282,Jackfruit Ripe,Kathal,kathal,primary_name_or_parenthetical_source_alias
+283,Jaggery,Jaggery,jaggery,primary_name_or_parenthetical_source_alias
+284,Jasmine Rice,Jasmine Rice,jasmine rice,primary_name_or_parenthetical_source_alias
+285,Jowar Flour,Jowar Flour,jowar flour,primary_name_or_parenthetical_source_alias
+285,Jowar Flour,Sorghum,sorghum,primary_name_or_parenthetical_source_alias
+286,Kabuli Chana,Kabuli Chana,kabuli chana,primary_name_or_parenthetical_source_alias
+286,Kabuli Chana,White Chickpeas,white chickpea,primary_name_or_parenthetical_source_alias
+287,Kaddu,Kaddu,kaddu,primary_name_or_parenthetical_source_alias
+287,Kaddu,Parangikai,parangikai,primary_name_or_parenthetical_source_alias
+287,Kaddu,Pumpkin,pumpkin,primary_name_or_parenthetical_source_alias
+288,Kaffir lime leaves,Kaffir lime leaves,kaffir lime leaf,primary_name_or_parenthetical_source_alias
+289,Kala Chana,Brown Chickpeas,brown chickpea,primary_name_or_parenthetical_source_alias
+289,Kala Chana,Kala Chana,kala chana,primary_name_or_parenthetical_source_alias
+290,Kala jeera,Kala jeera,kala jeera,primary_name_or_parenthetical_source_alias
+291,Kalmatta olives,Kalmatta olives,kalmatta olive,primary_name_or_parenthetical_source_alias
+292,Kalonji,Kalonji,kalonji,primary_name_or_parenthetical_source_alias
+292,Kalonji,Onion Nigella Seeds,onion nigella seed,primary_name_or_parenthetical_source_alias
+293,Kalpasi flower,Kalpasi flower,kalpasi flower,primary_name_or_parenthetical_source_alias
+293,Kalpasi flower,Stone flower,stone flower,primary_name_or_parenthetical_source_alias
+294,Karela,Bitter Gourd,bitter gourd,primary_name_or_parenthetical_source_alias
+294,Karela,Karela,karela,primary_name_or_parenthetical_source_alias
+294,Karela,Pavakkai,pavakkai,primary_name_or_parenthetical_source_alias
+295,Kashmiri dry red chilli,Kashmiri dry red chilli,kashmiri dry red chilli,primary_name_or_parenthetical_source_alias
+296,Kashmiri dry red chillies,Kashmiri dry red chillies,kashmiri dry red chilly,primary_name_or_parenthetical_source_alias
+297,Kashmiri Red Chilli Powder,Kashmiri red chilli powder,kashmiri red chilli powder,primary_name_or_parenthetical_source_alias
+298,Kasundi mustard sauce,Kasundi mustard sauce,kasundi mustard sauce,primary_name_or_parenthetical_source_alias
+299,Kasuri Methi,Dried Fenugreek Leaves,dried fenugreek leaf,primary_name_or_parenthetical_source_alias
+299,Kasuri Methi,Kasuri Methi,kasuri methi,primary_name_or_parenthetical_source_alias
+300,Kesar milk masala,Kesar milk masala,kesar milk masala,primary_name_or_parenthetical_source_alias
+301,Kewra Water,Kewra Water,kewra water,primary_name_or_parenthetical_source_alias
+302,Khoya,Khoya,khoya,primary_name_or_parenthetical_source_alias
+302,Khoya,Mawa,mawa,primary_name_or_parenthetical_source_alias
+303,King fish,King fish,king fish,primary_name_or_parenthetical_source_alias
+304,Kiwi,Kiwi,kiwi,primary_name_or_parenthetical_source_alias
+305,Kokum,Kokum,kokum,primary_name_or_parenthetical_source_alias
+305,Kokum,Malabar Tamarind,malabar tamarind,primary_name_or_parenthetical_source_alias
+306,Kosher salt,Kosher salt,kosher salt,primary_name_or_parenthetical_source_alias
+307,Lebanese cucumber,Lebanese cucumber,lebanese cucumber,primary_name_or_parenthetical_source_alias
+308,Leek,Leek,leek,primary_name_or_parenthetical_source_alias
+309,Lemon,Lemon,lemon,primary_name_or_parenthetical_source_alias
+310,Lemon Grass,Lemon Grass,lemon grass,primary_name_or_parenthetical_source_alias
+311,Lemon juice,lemon juice,lemon juice,primary_name_or_parenthetical_source_alias
+312,Lemon wedges,Lemon wedges,lemon wedge,primary_name_or_parenthetical_source_alias
+313,Lemon zest,Lemon zest,lemon zest,primary_name_or_parenthetical_source_alias
+314,Lemongrass,Lemongrass,lemongrass,primary_name_or_parenthetical_source_alias
+315,Lettuce leaves,Lettuce leaves,lettuce leaf,primary_name_or_parenthetical_source_alias
+316,Light soy sauce,Light soy sauce,light soy sauce,primary_name_or_parenthetical_source_alias
+317,Lima Beans,Lima Beans,lima bean,primary_name_or_parenthetical_source_alias
+318,long garlic,long garlic,long garlic,primary_name_or_parenthetical_source_alias
+319,Long String Bean,chavli,chavli,primary_name_or_parenthetical_source_alias
+319,Long String Bean,Long String Bean,long string bean,primary_name_or_parenthetical_source_alias
+320,Lukewarm Water,Lukewarm Water,lukewarm water,primary_name_or_parenthetical_source_alias
+321,Macaroni pasta,Macaroni pasta,macaroni pasta,primary_name_or_parenthetical_source_alias
+322,Mace,Javitri,javitri,primary_name_or_parenthetical_source_alias
+322,Mace,Mace,mace,primary_name_or_parenthetical_source_alias
+323,Mace powder,Mace powder,mace powder,primary_name_or_parenthetical_source_alias
+324,Mackerel fish,Mackerel fish,mackerel fish,primary_name_or_parenthetical_source_alias
+325,Maharashtrian Goda Masala,Maharashtrian Goda Masala,maharashtrian goda masala,primary_name_or_parenthetical_source_alias
+326,make 1 cup tomato-puree,make 1 cup tomato-puree,make 1 cup tomato puree,primary_name_or_parenthetical_source_alias
+327,Makki Ka Atta,Makki Ka Atta,makki ka atta,primary_name_or_parenthetical_source_alias
+327,Makki Ka Atta,Yellow Corn Meal Flour,yellow corn meal flour,primary_name_or_parenthetical_source_alias
+328,Malwani masala,Malwani masala,malwani masala,primary_name_or_parenthetical_source_alias
+329,Mangalorean cucumber,Mangalorean cucumber,mangalorean cucumber,primary_name_or_parenthetical_source_alias
+330,Mango,Mango,mango,primary_name_or_parenthetical_source_alias
+330,Mango,Raw,raw,primary_name_or_parenthetical_source_alias
+330,Mango,Ripe,ripe,primary_name_or_parenthetical_source_alias
+331,Mango pickle,Mango pickle,mango pickle,primary_name_or_parenthetical_source_alias
+332,mango powder,mango powder,mango powder,primary_name_or_parenthetical_source_alias
+333,Mango Pulp,Mango Pulp,mango pulp,primary_name_or_parenthetical_source_alias
+333,Mango Pulp,Puree,puree,primary_name_or_parenthetical_source_alias
+334,Maple syrup,Maple syrup,maple syrup,primary_name_or_parenthetical_source_alias
+335,Masoor Dal,Masoor Dal,masoor dal,primary_name_or_parenthetical_source_alias
+336,Meat masala,Meat masala,meat masala,primary_name_or_parenthetical_source_alias
+337,Methi Leaves,Fenugreek Leaves,fenugreek leaf,primary_name_or_parenthetical_source_alias
+337,Methi Leaves,Methi Leaves,methi leaf,primary_name_or_parenthetical_source_alias
+338,Methi Powder,Fenugreek Powder,fenugreek powder,primary_name_or_parenthetical_source_alias
+338,Methi Powder,Methi Powder,methi powder,primary_name_or_parenthetical_source_alias
+339,Methi Seeds,Fenugreek Seeds,fenugreek seed,primary_name_or_parenthetical_source_alias
+339,Methi Seeds,Methi Seeds,methi seed,primary_name_or_parenthetical_source_alias
+340,Milk,Milk,milk,primary_name_or_parenthetical_source_alias
+341,Milk chocolate,Milk chocolate,milk chocolate,primary_name_or_parenthetical_source_alias
+342,Milk Powder,Milk Powder,milk powder,primary_name_or_parenthetical_source_alias
+343,Mini Pita Breads,Mini Pita Breads,mini pita bread,primary_name_or_parenthetical_source_alias
+344,Mint Leaves,Mint Leaves,mint leaf,primary_name_or_parenthetical_source_alias
+344,Mint Leaves,Pudina,pudina,primary_name_or_parenthetical_source_alias
+345,Mint powder,Mint powder,mint powder,primary_name_or_parenthetical_source_alias
+345,Mint powder,Pudina,pudina,primary_name_or_parenthetical_source_alias
+346,Mixed dry fruits,Mixed dry fruits,mixed dry fruit,primary_name_or_parenthetical_source_alias
+347,Mixed fruits,Mixed fruits,mixed fruit,primary_name_or_parenthetical_source_alias
+348,Mixed Herbs,Dried,dried,primary_name_or_parenthetical_source_alias
+348,Mixed Herbs,Mixed Herbs,mixed herb,primary_name_or_parenthetical_source_alias
+349,Mixed nuts,Mixed nuts,mixed nut,primary_name_or_parenthetical_source_alias
+350,Mixed vegetables,Mixed vegetables,mixed vegetable,primary_name_or_parenthetical_source_alias
+351,Mooli Ke Patte,Mooli Ke Patte,mooli ke patte,primary_name_or_parenthetical_source_alias
+351,Mooli Ke Patte,Radish Greens,radish green,primary_name_or_parenthetical_source_alias
+352,Mooli/ Mullangi,Mooli/ Mullangi,mooli mullangi,primary_name_or_parenthetical_source_alias
+352,Mooli/ Mullangi,Radish,radish,primary_name_or_parenthetical_source_alias
+353,Moth Dal,Matki,matki,primary_name_or_parenthetical_source_alias
+353,Moth Dal,Moth Dal,moth dal,primary_name_or_parenthetical_source_alias
+354,Mozzarella cheese,Mozzarella cheese,mozzarella cheese,primary_name_or_parenthetical_source_alias
+355,mustard,mustard,mustard,primary_name_or_parenthetical_source_alias
+356,Mustard oil,mustard oil,mustard oil,primary_name_or_parenthetical_source_alias
+357,Mustard powder,Mustard powder,mustard powder,primary_name_or_parenthetical_source_alias
+358,Mustard seeds,Mustard seeds,mustard seed,primary_name_or_parenthetical_source_alias
+359,Mutton,mutton,mutton,primary_name_or_parenthetical_source_alias
+360,Mutton Kheema,Mutton Kheema,mutton kheema,primary_name_or_parenthetical_source_alias
+361,Mutton Liver,Mutton Liver,mutton liver,primary_name_or_parenthetical_source_alias
+362,Nendra Pazham Banana,Nendra Pazham Banana,nendra pazham banana,primary_name_or_parenthetical_source_alias
+362,Nendra Pazham Banana,Ripe,ripe,primary_name_or_parenthetical_source_alias
+363,Nutella Spread,Nutella Spread,nutella spread,primary_name_or_parenthetical_source_alias
+364,Nutmeg,Nutmeg,nutmeg,primary_name_or_parenthetical_source_alias
+365,Nutmeg powder,Nutmeg powder,nutmeg powder,primary_name_or_parenthetical_source_alias
+366,Nutralite Cheesy Garlic Mayo,Nutralite Cheesy Garlic Mayo,nutralite cheesy garlic mayo,primary_name_or_parenthetical_source_alias
+367,Nutralite Classic Spread,Nutralite Classic Spread,nutralite classic spread,primary_name_or_parenthetical_source_alias
+368,Nutralite Garlic & Oregano Spread,Nutralite Garlic & Oregano Spread,nutralite garlic oregano spread,primary_name_or_parenthetical_source_alias
+369,Oats Flour,Oats Flour,oats flour,primary_name_or_parenthetical_source_alias
+370,of cardamom powder,of cardamom powder,of cardamom powder,primary_name_or_parenthetical_source_alias
+371,of coriander,of coriander,of coriander,primary_name_or_parenthetical_source_alias
+372,of thyme leaves,of thyme leaves,of thyme leaf,primary_name_or_parenthetical_source_alias
+373,oil,Oil,oil,primary_name_or_parenthetical_source_alias
+374,okra,okra,okra,primary_name_or_parenthetical_source_alias
+375,olive oil,olive oil,olive oil,primary_name_or_parenthetical_source_alias
+376,Onion,Onion,onion,primary_name_or_parenthetical_source_alias
+377,Onion powder,Onion powder,onion powder,primary_name_or_parenthetical_source_alias
+378,Onion Rings,Onion Rings,onion ring,primary_name_or_parenthetical_source_alias
+379,Orange,Orange,orange,primary_name_or_parenthetical_source_alias
+380,Fresh orange juice,Fresh orange juice,orange juice,primary_name_or_parenthetical_source_alias
+381,Orange liquor,Orange liquor,orange liquor,primary_name_or_parenthetical_source_alias
+382,Orange pulp,Orange pulp,orange pulp,primary_name_or_parenthetical_source_alias
+383,Orange Zest,Orange Zest,orange zest,primary_name_or_parenthetical_source_alias
+383,Orange Zest,Rind,rind,primary_name_or_parenthetical_source_alias
+384,Oreo biscuits,Oreo biscuits,oreo biscuit,primary_name_or_parenthetical_source_alias
+385,Orzo pasta,Orzo pasta,orzo pasta,primary_name_or_parenthetical_source_alias
+386,Oyster sauce,Oyster sauce,oyster sauce,primary_name_or_parenthetical_source_alias
+387,Palm jaggery,Palm jaggery,palm jaggery,primary_name_or_parenthetical_source_alias
+388,Palm sugar,Palm sugar,palm sugar,primary_name_or_parenthetical_source_alias
+389,Panch Phoran Masala,Panch Phoran Masala,panch phoran masala,primary_name_or_parenthetical_source_alias
+390,Paneer,Homemade Cottage Cheese,homemade cottage cheese,primary_name_or_parenthetical_source_alias
+390,Paneer,Paneer,paneer,primary_name_or_parenthetical_source_alias
+391,Papaya,Papaya,papaya,primary_name_or_parenthetical_source_alias
+392,Paprika powder,Paprika powder,paprika powder,primary_name_or_parenthetical_source_alias
+393,Parmesan cheese,parmesan cheese,parmesan cheese,primary_name_or_parenthetical_source_alias
+394,Parmigiano reggiano cheese,Parmigiano reggiano cheese,parmigiano reggiano cheese,primary_name_or_parenthetical_source_alias
+395,Parsley leaves,Parsley leaves,parsley leaf,primary_name_or_parenthetical_source_alias
+396,Pasta,Pasta,pasta,primary_name_or_parenthetical_source_alias
+397,Pav bhaji masala,Pav bhaji masala,pav bhaji masala,primary_name_or_parenthetical_source_alias
+398,Pav buns,Pav buns,pav bun,primary_name_or_parenthetical_source_alias
+399,peanuts,peanuts,peanut,primary_name_or_parenthetical_source_alias
+400,Peanut Butter,Peanut Butter,peanut butter,primary_name_or_parenthetical_source_alias
+401,Pearl onions,Pearl onions,pearl onion,primary_name_or_parenthetical_source_alias
+401,Pearl onions,Sambar Onions,sambar onion,primary_name_or_parenthetical_source_alias
+402,Phool Makhana,Lotus Seeds,lotus seed,primary_name_or_parenthetical_source_alias
+402,Phool Makhana,Phool Makhana,phool makhana,primary_name_or_parenthetical_source_alias
+403,Pickle masala,Pickle masala,pickle masala,primary_name_or_parenthetical_source_alias
+404,Pickled Jalapenos,Pickled Jalapenos,pickled jalapeno,primary_name_or_parenthetical_source_alias
+405,pinch Asafoetida,hing,hing,primary_name_or_parenthetical_source_alias
+405,pinch Asafoetida,pinch Asafoetida,pinch asafoetida,primary_name_or_parenthetical_source_alias
+406,pinch Whole Black Peppercorns,pinch Whole Black Peppercorns,pinch black peppercorn,primary_name_or_parenthetical_source_alias
+407,pinch Black Salt,Kala Namak,kala namak,primary_name_or_parenthetical_source_alias
+407,pinch Black Salt,pinch Black Salt,pinch black salt,primary_name_or_parenthetical_source_alias
+408,pinch Cardamom Powder,Elaichi,elaichi,primary_name_or_parenthetical_source_alias
+408,pinch Cardamom Powder,pinch Cardamom Powder,pinch cardamom powder,primary_name_or_parenthetical_source_alias
+409,pinch Chaat Masala Powder,pinch Chaat Masala Powder,pinch chaat masala powder,primary_name_or_parenthetical_source_alias
+410,pinch Cinnamon Powder,Dalchini,dalchini,primary_name_or_parenthetical_source_alias
+410,pinch Cinnamon Powder,pinch Cinnamon Powder,pinch cinnamon powder,primary_name_or_parenthetical_source_alias
+411,pinch Cooking soda,pinch Cooking soda,pinch cooking soda,primary_name_or_parenthetical_source_alias
+412,pinch Enos fruit salt,pinch Enos fruit salt,pinch enos fruit salt,primary_name_or_parenthetical_source_alias
+413,pinch Garam masala powder,pinch Garam masala powder,pinch garam masala powder,primary_name_or_parenthetical_source_alias
+414,pinch Lemon juice,pinch Lemon juice,pinch lemon juice,primary_name_or_parenthetical_source_alias
+415,pinch Nutmeg powder,pinch Nutmeg powder,pinch nutmeg powder,primary_name_or_parenthetical_source_alias
+416,pinch Saffron strands,pinch Saffron strands,pinch saffron strand,primary_name_or_parenthetical_source_alias
+417,pinch Salt,pinch Salt,pinch salt,primary_name_or_parenthetical_source_alias
+418,pinch Sichuan peppercorns,pinch Sichuan peppercorns,pinch sichuan peppercorn,primary_name_or_parenthetical_source_alias
+419,pinch SSP Asafoetida,Hing,hing,primary_name_or_parenthetical_source_alias
+419,pinch SSP Asafoetida,pinch SSP Asafoetida,pinch ssp asafoetida,primary_name_or_parenthetical_source_alias
+420,pinch Sugar,pinch Sugar,pinch sugar,primary_name_or_parenthetical_source_alias
+421,pinch Turmeric powder,Haldi,haldi,primary_name_or_parenthetical_source_alias
+421,pinch Turmeric powder,pinch Turmeric powder,pinch turmeric powder,primary_name_or_parenthetical_source_alias
+422,Pine nuts,Pine nuts,pine nut,primary_name_or_parenthetical_source_alias
+423,Pineapple,Pineapple,pineapple,primary_name_or_parenthetical_source_alias
+424,Pineapple Essence,Pineapple Essence,pineapple essence,primary_name_or_parenthetical_source_alias
+425,Pineapple juice,Pineapple juice,pineapple juice,primary_name_or_parenthetical_source_alias
+426,Pink Masoor Dal,Pink Masoor Dal,pink masoor dal,primary_name_or_parenthetical_source_alias
+427,Pistachios,Pistachios,pistachio,primary_name_or_parenthetical_source_alias
+428,Pizza base,Pizza base,pizza base,primary_name_or_parenthetical_source_alias
+429,Poha,Flattened rice,flattened rice,primary_name_or_parenthetical_source_alias
+429,Poha,Poha,poha,primary_name_or_parenthetical_source_alias
+430,Pohala fish,Pohala fish,pohala fish,primary_name_or_parenthetical_source_alias
+431,Pointed gourd,Parval,parval,primary_name_or_parenthetical_source_alias
+431,Pointed gourd,Pointed gourd,pointed gourd,primary_name_or_parenthetical_source_alias
+432,Fresh Pomegranate Fruit Kernels,Fresh Pomegranate Fruit Kernels,pomegranate fruit kernel,primary_name_or_parenthetical_source_alias
+433,Pomegranate juice,Pomegranate juice,pomegranate juice,primary_name_or_parenthetical_source_alias
+434,Poppy seeds,Poppy seeds,poppy seed,primary_name_or_parenthetical_source_alias
+435,Pork belly,Pork belly,pork belly,primary_name_or_parenthetical_source_alias
+436,Portobello mushrooms,Portobello mushrooms,portobello mushroom,primary_name_or_parenthetical_source_alias
+437,Potatoes,Aloo,aloo,primary_name_or_parenthetical_source_alias
+437,Potatoes,Potato,potato,primary_name_or_parenthetical_source_alias
+438,Prawns,Prawns,prawn,primary_name_or_parenthetical_source_alias
+439,Puff Pastry Sheet,Puff Pastry Sheet,puff pastry sheet,primary_name_or_parenthetical_source_alias
+440,Puffed rice,Puffed rice,puffed rice,primary_name_or_parenthetical_source_alias
+441,Pumpkin flowers,Pumpkin flowers,pumpkin flower,primary_name_or_parenthetical_source_alias
+442,Pumpkin puree,Pumpkin puree,pumpkin puree,primary_name_or_parenthetical_source_alias
+443,Punjabi style mango pickle,Punjabi style mango pickle,punjabi style mango pickle,primary_name_or_parenthetical_source_alias
+444,Quail eggs,Quail eggs,quail egg,primary_name_or_parenthetical_source_alias
+445,Quinoa,Quinoa,quinoa,primary_name_or_parenthetical_source_alias
+446,radish leaves,radish leaves,radish leaf,primary_name_or_parenthetical_source_alias
+447,Ragi Flour,Finger Millet,finger millet,primary_name_or_parenthetical_source_alias
+447,Ragi Flour,Nagli,nagli,primary_name_or_parenthetical_source_alias
+447,Ragi Flour,Ragi Flour,ragi flour,primary_name_or_parenthetical_source_alias
+448,Raisins,raisins,raisin,primary_name_or_parenthetical_source_alias
+449,Rajma,Large Kidney Beans,large kidney bean,primary_name_or_parenthetical_source_alias
+449,Rajma,Rajma,rajma,primary_name_or_parenthetical_source_alias
+450,Rasam Powder,rasam powder,rasam powder,primary_name_or_parenthetical_source_alias
+451,Raw Banana,Raw Banana,raw banana,primary_name_or_parenthetical_source_alias
+452,Raw banana peel,Raw banana peel,raw banana peel,primary_name_or_parenthetical_source_alias
+453,Raw papaya,Raw papaya,raw papaya,primary_name_or_parenthetical_source_alias
+454,Raw Peanuts,Moongphali,moongphali,primary_name_or_parenthetical_source_alias
+454,Raw Peanuts,Raw Peanuts,raw peanut,primary_name_or_parenthetical_source_alias
+455,Red Bell pepper,Capsicum,capsicum,primary_name_or_parenthetical_source_alias
+455,Red Bell pepper,Red Bell pepper,red bell pepper,primary_name_or_parenthetical_source_alias
+456,Red cabbage,Red cabbage,red cabbage,primary_name_or_parenthetical_source_alias
+457,red chili,red chili,red chili,primary_name_or_parenthetical_source_alias
+458,red chili powder,Red chili powder,red chili powder,primary_name_or_parenthetical_source_alias
+459,Fresh Red Chilli,Fresh Red Chilli,red chilli,primary_name_or_parenthetical_source_alias
+460,Red Chilli flakes,Red Chilli flakes,red chilli flake,primary_name_or_parenthetical_source_alias
+461,Red Chilli Paste,Red Chilli Paste,red chilli paste,primary_name_or_parenthetical_source_alias
+462,Red Chilli powder,Red Chilli powder,red chilli powder,primary_name_or_parenthetical_source_alias
+463,Red Chilli sauce,Red Chilli sauce,red chilli sauce,primary_name_or_parenthetical_source_alias
+464,Fresh Red chillies,Fresh Red chillies,red chilly,primary_name_or_parenthetical_source_alias
+465,Red matta rice,Red matta rice,red matta rice,primary_name_or_parenthetical_source_alias
+466,Red onion,Red onion,red onion,primary_name_or_parenthetical_source_alias
+467,Red Romaine lettuce,Red Romaine lettuce,red romaine lettuce,primary_name_or_parenthetical_source_alias
+468,Red wine,Red wine,red wine,primary_name_or_parenthetical_source_alias
+469,Red Wine Vinaigrette,Red Wine Vinaigrette,red wine vinaigrette,primary_name_or_parenthetical_source_alias
+470,Red Yellow and Green Bell Peppers,Capsicum,capsicum,primary_name_or_parenthetical_source_alias
+470,Red Yellow and Green Bell Peppers,Red Yellow and Green Bell Peppers,red yellow and green bell pepper,primary_name_or_parenthetical_source_alias
+471,Red Yellow or Green Bell Pepper,Capsicum,capsicum,primary_name_or_parenthetical_source_alias
+471,Red Yellow or Green Bell Pepper,Red Yellow or Green Bell Pepper,red yellow or green bell pepper,primary_name_or_parenthetical_source_alias
+472,Refried beans,Refried beans,refried bean,primary_name_or_parenthetical_source_alias
+473,Rice,Rice,rice,primary_name_or_parenthetical_source_alias
+474,Rice ada,Rice ada,rice ada,primary_name_or_parenthetical_source_alias
+475,Rice flour,rice flour,rice flour,primary_name_or_parenthetical_source_alias
+476,Rice Noodles,Flat,flat,primary_name_or_parenthetical_source_alias
+476,Rice Noodles,rice noodles,rice noodle,primary_name_or_parenthetical_source_alias
+477,Rice paper rolls,Rice paper rolls,rice paper roll,primary_name_or_parenthetical_source_alias
+478,Rice rava,Rice rava,rice rava,primary_name_or_parenthetical_source_alias
+479,Rice Vermicelli Noodles,Rice Vermicelli Noodles,rice vermicelli noodle,primary_name_or_parenthetical_source_alias
+479,Rice Vermicelli Noodles,Thin,thin,primary_name_or_parenthetical_source_alias
+480,Rice Vinegar,Rice Vinegar,rice vinegar,primary_name_or_parenthetical_source_alias
+481,Rice Wine Vinegar,Rice Wine Vinegar,rice wine vinegar,primary_name_or_parenthetical_source_alias
+482,Ricotta Cheese,Ricotta Cheese,ricotta cheese,primary_name_or_parenthetical_source_alias
+483,Ridge Gourd,Peerkangai,peerkangai,primary_name_or_parenthetical_source_alias
+483,Ridge Gourd,Ridge Gourd,ridge gourd,primary_name_or_parenthetical_source_alias
+483,Ridge Gourd,Turai,turai,primary_name_or_parenthetical_source_alias
+484,Ripe Bananas,Ripe Bananas,ripe banana,primary_name_or_parenthetical_source_alias
+485,Risotto Rice,Risotto Rice,risotto rice,primary_name_or_parenthetical_source_alias
+486,roasted chana dal,roasted chana dal,roasted chana dal,primary_name_or_parenthetical_source_alias
+487,Roasted Gram Dal,Pottukadalai,pottukadalai,primary_name_or_parenthetical_source_alias
+487,Roasted Gram Dal,Roasted Gram Dal,roasted gram dal,primary_name_or_parenthetical_source_alias
+488,Roasted Gram Flour,Roasted Gram Flour,roasted gram flour,primary_name_or_parenthetical_source_alias
+488,Roasted Gram Flour,Sattu Ka Atta,sattu ka atta,primary_name_or_parenthetical_source_alias
+489,Roasted Peanuts,Moongphali,moongphali,primary_name_or_parenthetical_source_alias
+489,Roasted Peanuts,Roasted Peanuts,roasted peanut,primary_name_or_parenthetical_source_alias
+490,Roasted tomato pasta sauce,Roasted tomato pasta sauce,roasted tomato pasta sauce,primary_name_or_parenthetical_source_alias
+491,Rohu fish,Rohu fish,rohu fish,primary_name_or_parenthetical_source_alias
+492,Rolled Oats,Rolled Oats,rolled oat,primary_name_or_parenthetical_source_alias
+493,Rolled Oats Or Instant Oats,Rolled Oats Or Instant Oats,rolled oats or instant oat,primary_name_or_parenthetical_source_alias
+494,Rose Petals,Rose Petals,rose petal,primary_name_or_parenthetical_source_alias
+495,Rose water,Rose water,rose water,primary_name_or_parenthetical_source_alias
+496,Rosemary,Rosemary,rosemary,primary_name_or_parenthetical_source_alias
+497,rye,rye,rye,primary_name_or_parenthetical_source_alias
+498,Sabudana,Sabudana,sabudana,primary_name_or_parenthetical_source_alias
+498,Sabudana,Tapioca Pearls,tapioca pearl,primary_name_or_parenthetical_source_alias
+499,saffron,saffron,saffron,primary_name_or_parenthetical_source_alias
+500,Saffron strands,Saffron strands,saffron strand,primary_name_or_parenthetical_source_alias
+501,Salt,Salt,salt,primary_name_or_parenthetical_source_alias
+502,Salt and Pepper,Salt and Pepper,salt and pepper,primary_name_or_parenthetical_source_alias
+503,Salted butter,Salted butter,salted butter,primary_name_or_parenthetical_source_alias
+504,Sambar Powder,Sambar Powder,sambar powder,primary_name_or_parenthetical_source_alias
+505,Sardine fish,Sardine fish,sardine fish,primary_name_or_parenthetical_source_alias
+506,Schezwan sauce,Schezwan sauce,schezwan sauce,primary_name_or_parenthetical_source_alias
+507,Sea salt,Sea salt,sea salt,primary_name_or_parenthetical_source_alias
+508,Seer fish,Seer fish,seer fish,primary_name_or_parenthetical_source_alias
+509,Seeraga Samba rice,Jeeraga,jeeraga,primary_name_or_parenthetical_source_alias
+509,Seeraga Samba rice,Seeraga Samba rice,seeraga samba rice,primary_name_or_parenthetical_source_alias
+510,Semiya,Semiya,semiya,primary_name_or_parenthetical_source_alias
+510,Semiya,Vermicelli,vermicelli,primary_name_or_parenthetical_source_alias
+511,Serrano Pepper,Serrano Pepper,serrano pepper,primary_name_or_parenthetical_source_alias
+512,sesame,sesame,sesame,primary_name_or_parenthetical_source_alias
+512,sesame,white,white,primary_name_or_parenthetical_source_alias
+513,Sesame Oil,Gingelly,gingelly,primary_name_or_parenthetical_source_alias
+513,Sesame Oil,Sesame Oil,sesame oil,primary_name_or_parenthetical_source_alias
+514,Sesame seeds,Sesame seeds,sesame seed,primary_name_or_parenthetical_source_alias
+514,Sesame seeds,Til seeds,til seed,primary_name_or_parenthetical_source_alias
+514,Sesame seeds,white,white,primary_name_or_parenthetical_source_alias
+515,Shallots,Shallots,shallot,primary_name_or_parenthetical_source_alias
+516,Shiitake mushrooms,Shiitake mushrooms,shiitake mushroom,primary_name_or_parenthetical_source_alias
+517,Shrimps,Shrimps,shrimp,primary_name_or_parenthetical_source_alias
+518,Sichuan peppercorns,Sichuan peppercorns,sichuan peppercorn,primary_name_or_parenthetical_source_alias
+519,Singhade,Singhade,singhade,primary_name_or_parenthetical_source_alias
+519,Singhade,water chestnut,water chestnut,primary_name_or_parenthetical_source_alias
+520,Slivered Almonds,Badam,badam,primary_name_or_parenthetical_source_alias
+520,Slivered Almonds,Slivered Almonds,slivered almond,primary_name_or_parenthetical_source_alias
+521,Small Brinjal,Baingan,baingan,primary_name_or_parenthetical_source_alias
+521,Small Brinjal,Eggplant,eggplant,primary_name_or_parenthetical_source_alias
+521,Small Brinjal,Small Brinjal,small brinjal,primary_name_or_parenthetical_source_alias
+522,Small Green brinjal,green aubergine,green aubergine,primary_name_or_parenthetical_source_alias
+522,Small Green brinjal,Small Green brinjal,small green brinjal,primary_name_or_parenthetical_source_alias
+523,small onion,small onion,small onion,primary_name_or_parenthetical_source_alias
+524,Sooji,Rava,rava,primary_name_or_parenthetical_source_alias
+524,Sooji,Semolina,semolina,primary_name_or_parenthetical_source_alias
+524,Sooji,Sooji,sooji,primary_name_or_parenthetical_source_alias
+525,Sour cream,Sour cream,sour cream,primary_name_or_parenthetical_source_alias
+526,Soy Chunks,Nuggets,nugget,primary_name_or_parenthetical_source_alias
+526,Soy Chunks,Soy Chunks,soy chunk,primary_name_or_parenthetical_source_alias
+527,Soy Flakes,Soy Flakes,soy flake,primary_name_or_parenthetical_source_alias
+528,Soy sauce,Soy sauce,soy sauce,primary_name_or_parenthetical_source_alias
+529,Soya sauce,Soya sauce,soya sauce,primary_name_or_parenthetical_source_alias
+530,Soybeans,Soybeans,soybean,primary_name_or_parenthetical_source_alias
+530,Soybeans,Whole Soya dal,soya dal,primary_name_or_parenthetical_source_alias
+531,Spaghetti Pasta,Spaghetti Pasta,spaghetti pasta,primary_name_or_parenthetical_source_alias
+532,Spinach,spinach,spinach,primary_name_or_parenthetical_source_alias
+533,Spinach Leaves,Palak,palak,primary_name_or_parenthetical_source_alias
+533,Spinach Leaves,Spinach Leaves,spinach leaf,primary_name_or_parenthetical_source_alias
+534,. Spoon oil,. Spoon oil,spoon oil,primary_name_or_parenthetical_source_alias
+535,Spoon peanuts,Spoon peanuts,spoon peanut,primary_name_or_parenthetical_source_alias
+536,Sprig Ginger Teriyaki Sauce,Sprig Ginger Teriyaki Sauce,sprig ginger teriyaki sauce,primary_name_or_parenthetical_source_alias
+537,Spring Onion,Bulb & Greens,bulb green,primary_name_or_parenthetical_source_alias
+537,Spring Onion,Spring Onion,spring onion,primary_name_or_parenthetical_source_alias
+538,Spring Onion Greens,Spring Onion Greens,spring onion green,primary_name_or_parenthetical_source_alias
+539,Sriracha sauce,Sriracha sauce,sriracha sauce,primary_name_or_parenthetical_source_alias
+540,SSP Asafoetida,Hing,hing,primary_name_or_parenthetical_source_alias
+540,SSP Asafoetida,SSP Asafoetida,ssp asafoetida,primary_name_or_parenthetical_source_alias
+541,Stalk Celery,Stalk Celery,stalk celery,primary_name_or_parenthetical_source_alias
+542,Stalk Lemon Grass,Stalk Lemon Grass,stalk lemon grass,primary_name_or_parenthetical_source_alias
+543,Stalks Celery,Stalks Celery,stalks celery,primary_name_or_parenthetical_source_alias
+544,Stalks Lemon Grass,Stalks Lemon Grass,stalks lemon grass,primary_name_or_parenthetical_source_alias
+545,Stalks Lemongrass,Stalks Lemongrass,stalks lemongrass,primary_name_or_parenthetical_source_alias
+546,Stalks Spring Onion,Bulb & Greens,bulb green,primary_name_or_parenthetical_source_alias
+546,Stalks Spring Onion,stalks Spring Onion,stalks spring onion,primary_name_or_parenthetical_source_alias
+547,Stalks Spring Onion Greens,Stalks Spring Onion Greens,stalks spring onion green,primary_name_or_parenthetical_source_alias
+548,Star anise,Star anise,star anise,primary_name_or_parenthetical_source_alias
+549,Star fruit,Star fruit,star fruit,primary_name_or_parenthetical_source_alias
+550,Stone flower,Stone flower,stone flower,primary_name_or_parenthetical_source_alias
+551,Strawberries,Strawberries,strawberry,primary_name_or_parenthetical_source_alias
+552,Strawberry jam,Strawberry jam,strawberry jam,primary_name_or_parenthetical_source_alias
+553,Strawberry Vodka,Strawberry Vodka,strawberry vodka,primary_name_or_parenthetical_source_alias
+554,Sugar,sugar,sugar,primary_name_or_parenthetical_source_alias
+555,Sugar syrup,Sugar syrup,sugar syrup,primary_name_or_parenthetical_source_alias
+556,Sun Dried Tomatoes,Sun Dried Tomatoes,sun dried tomato,primary_name_or_parenthetical_source_alias
+557,Sundakkai,Sundakkai,sundakkai,primary_name_or_parenthetical_source_alias
+557,Sundakkai,Turkey Berries,turkey berry,primary_name_or_parenthetical_source_alias
+558,Sunflower Oil,Sunflower Oil,sunflower oil,primary_name_or_parenthetical_source_alias
+559,Sweet and Spicy Red Chilli Sauce,Sweet and Spicy Red Chilli Sauce,sweet and spicy red chilli sauce,primary_name_or_parenthetical_source_alias
+559,Sweet and Spicy Red Chilli Sauce,Tomato Chilli Sauce,tomato chilli sauce,primary_name_or_parenthetical_source_alias
+560,Sweet Chutney,Date & Tamarind,date tamarind,primary_name_or_parenthetical_source_alias
+560,Sweet Chutney,Sweet Chutney,sweet chutney,primary_name_or_parenthetical_source_alias
+561,Sweet corn,Sweet corn,sweet corn,primary_name_or_parenthetical_source_alias
+562,Sweet Potatoes,Sweet Potato,sweet potato,primary_name_or_parenthetical_source_alias
+563,Tahini,Tahini,tahini,primary_name_or_parenthetical_source_alias
+564,Tamarind,tamarind,tamarind,primary_name_or_parenthetical_source_alias
+565,Tamarind Paste,tamarind paste,tamarind paste,primary_name_or_parenthetical_source_alias
+566,Tamarind Water,Tamarind Water,tamarind water,primary_name_or_parenthetical_source_alias
+567,Taro root,Taro root,taro root,primary_name_or_parenthetical_source_alias
+568,Tender coconut water,Tender coconut water,tender coconut water,primary_name_or_parenthetical_source_alias
+569,Thai basil leaves,Thai Basil leaves,thai basil leaf,primary_name_or_parenthetical_source_alias
+570,Thai Jasmine Rice,Thai Jasmine Rice,thai jasmine rice,primary_name_or_parenthetical_source_alias
+571,Thai Red chilli,Birds Eye Chilli,birds eye chilli,primary_name_or_parenthetical_source_alias
+571,Thai Red chilli,Thai Red chilli,thai red chilli,primary_name_or_parenthetical_source_alias
+572,Thai Sweet Chilli Sauce,Thai Sweet Chilli Sauce,thai sweet chilli sauce,primary_name_or_parenthetical_source_alias
+573,Thin Semiya,Seviyan,seviyan,primary_name_or_parenthetical_source_alias
+573,Thin Semiya,Thin Semiya,thin semiya,primary_name_or_parenthetical_source_alias
+574,Fresh Thyme leaves,Fresh Thyme leaves,thyme leaf,primary_name_or_parenthetical_source_alias
+575,Tinda,Apple Gourd,apple gourd,primary_name_or_parenthetical_source_alias
+575,Tinda,Tinda,tinda,primary_name_or_parenthetical_source_alias
+576,tindora,Dondakaya,dondakaya,primary_name_or_parenthetical_source_alias
+576,tindora,Kovakkai,kovakkai,primary_name_or_parenthetical_source_alias
+576,tindora,Tindora,tindora,primary_name_or_parenthetical_source_alias
+577,Tofu,Tofu,tofu,primary_name_or_parenthetical_source_alias
+578,Tomatoes,Tomato,tomato,primary_name_or_parenthetical_source_alias
+579,Tomato Basil Pasta Sauce,Tomato Basil Pasta Sauce,tomato basil pasta sauce,primary_name_or_parenthetical_source_alias
+580,Tomato Ketchup,Tomato Ketchup,tomato ketchup,primary_name_or_parenthetical_source_alias
+581,tomato puree,tomato puree,tomato puree,primary_name_or_parenthetical_source_alias
+582,Tortillas,Tortillas,tortilla,primary_name_or_parenthetical_source_alias
+583,tur dal,tur dal,tur dal,primary_name_or_parenthetical_source_alias
+584,turmeric,turmeric,turmeric,primary_name_or_parenthetical_source_alias
+585,Turmeric powder,Haldi,haldi,primary_name_or_parenthetical_source_alias
+585,Turmeric powder,Turmeric powder,turmeric powder,primary_name_or_parenthetical_source_alias
+586,Udon noodles,Udon noodles,udon noodle,primary_name_or_parenthetical_source_alias
+587,urad dal,urad dal,urad dal,primary_name_or_parenthetical_source_alias
+588,urad dal flour,urad dal flour,urad dal flour,primary_name_or_parenthetical_source_alias
+589,Vanilla Extract,Vanilla Extract,vanilla extract,primary_name_or_parenthetical_source_alias
+590,Vanilla Ice cream,Vanilla Ice cream,vanilla ice cream,primary_name_or_parenthetical_source_alias
+591,Veeba Harissa Sauce,Veeba Harissa Sauce,veeba harissa sauce,primary_name_or_parenthetical_source_alias
+592,Veeba Sweet Chilli Sauce,Veeba Sweet Chilli Sauce,veeba sweet chilli sauce,primary_name_or_parenthetical_source_alias
+593,Veg Hakka Noodles,Veg Hakka Noodles,veg hakka noodle,primary_name_or_parenthetical_source_alias
+594,Vegetable stock,Vegetable stock,vegetable stock,primary_name_or_parenthetical_source_alias
+595,Vellai Poosanikai,Ash gourd,ash gourd,primary_name_or_parenthetical_source_alias
+595,Vellai Poosanikai,Vellai Poosanikai,vellai poosanikai,primary_name_or_parenthetical_source_alias
+595,Vellai Poosanikai,White Pumpkin,white pumpkin,primary_name_or_parenthetical_source_alias
+596,Vinegar,Vinegar,vinegar,primary_name_or_parenthetical_source_alias
+597,Vivatta Maida,Vivatta Maida,vivatta maida,primary_name_or_parenthetical_source_alias
+598,Walnuts,walnuts,walnut,primary_name_or_parenthetical_source_alias
+599,Water,water,water,primary_name_or_parenthetical_source_alias
+600,Watermelon,Watermelon,watermelon,primary_name_or_parenthetical_source_alias
+601,Wheat Berries/ Whole Wheat,Wheat Berries/ Whole Wheat,wheat berries wheat,primary_name_or_parenthetical_source_alias
+602,Wheat Bran,Wheat Bran,wheat bran,primary_name_or_parenthetical_source_alias
+603,Whole Wheat Bread crumbs,Whole Wheat Bread crumbs,wheat bread crumb,primary_name_or_parenthetical_source_alias
+604,Whole Wheat Brown Bread,Whole Wheat Brown Bread,wheat brown bread,primary_name_or_parenthetical_source_alias
+605,Whole Wheat Flour,wheat flour,wheat flour,primary_name_or_parenthetical_source_alias
+606,Whole Wheat Flour Tortilla,Whole Wheat Flour Tortilla,wheat flour tortilla,primary_name_or_parenthetical_source_alias
+607,Wheat Noodles,Wheat Noodles,wheat noodle,primary_name_or_parenthetical_source_alias
+608,Whole Wheat Pita Bread,Whole Wheat Pita Bread,wheat pita bread,primary_name_or_parenthetical_source_alias
+609,White broad beans,White broad beans,white broad bean,primary_name_or_parenthetical_source_alias
+610,White onion,White onion,white onion,primary_name_or_parenthetical_source_alias
+611,White pepper powder,White pepper powder,white pepper powder,primary_name_or_parenthetical_source_alias
+612,White Urad Dal,white urad dal,white urad dal,primary_name_or_parenthetical_source_alias
+613,White vinegar,White vinegar,white vinegar,primary_name_or_parenthetical_source_alias
+614,White Wine,White Wine,white wine,primary_name_or_parenthetical_source_alias
+615,White wine vinegar,White wine vinegar,white wine vinegar,primary_name_or_parenthetical_source_alias
+616,Worcestershire sauce,Worcestershire sauce,worcestershire sauce,primary_name_or_parenthetical_source_alias
+617,Yakisoba noodles,Yakisoba noodles,yakisoba noodle,primary_name_or_parenthetical_source_alias
+618,Yellow Bell Pepper,Capsicum,capsicum,primary_name_or_parenthetical_source_alias
+618,Yellow Bell Pepper,Yellow Bell Pepper,yellow bell pepper,primary_name_or_parenthetical_source_alias
+619,Yellow Fenugreek Seeds,Yellow Fenugreek Seeds,yellow fenugreek seed,primary_name_or_parenthetical_source_alias
+620,Yellow Moong Dal,Yellow Moong Dal,yellow moong dal,primary_name_or_parenthetical_source_alias
+621,Yellow mustard seeds,Yellow mustard seeds,yellow mustard seed,primary_name_or_parenthetical_source_alias
+622,Yellow Zucchini,Yellow Zucchini,yellow zucchini,primary_name_or_parenthetical_source_alias
+623,yogurt,yogurt,yogurt,primary_name_or_parenthetical_source_alias

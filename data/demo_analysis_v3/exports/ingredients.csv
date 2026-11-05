@@ -1,0 +1,624 @@
+ingredient_id,canonical_name,canonical_key,ingredient_type,classification_method,default_unit_dimension,suggested_units,observed_units,recipe_occurrences,recipe_count,ingredient_form,classification_source
+1,Aam Papad,aam papad,Fruits,keyword_rule,mass,"g, kg, piece",cup,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+2,Achari masala,achari masala,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tbsp,2,2,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+3,Active dry yeast,active dry yeast,Bakery & Pasta,keyword_rule,mass,"g, kg, cup",g | tbsp | tsp,7,7,dried,Source text and curated keyword rules; not individually web-verified
+4,Ajwain,ajwain,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",clove | tbsp | tsp,48,47,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+5,All Purpose Flour,all purpose flour,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup | g | tbsp | tsp,88,86,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+6,almonds,almond,Nuts & Seeds,keyword_rule,mass,"g, kg, cup",cup,2,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+7,Almond butter,almond butter,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",tbsp,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+8,Almond essence,almond essence,Nuts & Seeds,keyword_rule,mass,"g, kg, cup",tsp,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+9,Almond Meal,almond meal,Nuts & Seeds,keyword_rule,mass,"g, kg, cup",cup | tbsp,3,3,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+10,Almond Milk,almond milk,Nuts & Seeds,keyword_rule,mass,"g, kg, cup",cup,1,1,liquid,Source text and curated keyword rules; not individually web-verified
+11,Aloe vera extract,aloe vera extract,Liquids,glossary_rule,volume,"ml, l, cup, tbsp, tsp",cup,1,1,liquid,Indian ingredient glossaries cross-checked; see audit/quality_report.json
+12,Aloo Tikki,aloo tikki,Vegetables,keyword_rule,mass,"g, kg, piece",,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+13,Amchur,amchur,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tsp,15,15,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+14,Amla,amla,Fruits,keyword_rule,mass,"g, kg, piece",,3,3,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+15,Anardana Powder,anardana powder,Fruits,keyword_rule,mass,"g, kg, piece",cup | tsp,6,6,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+16,Apple,apple,Fruits,keyword_rule,mass,"g, kg, piece",cup,20,20,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+17,Apple cider vinegar,apple cider vinegar,Liquids,keyword_rule,volume,"ml, l, cup, tbsp, tsp",ml,2,2,liquid,Source text and curated keyword rules; not individually web-verified
+18,Apple juice,apple juice,Fruits,keyword_rule,mass,"g, kg, piece",cup,1,1,liquid,Source text and curated keyword rules; not individually web-verified
+19,Apple Vodka,apple vodka,Fruits,keyword_rule,mass,"g, kg, piece",ml,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+20,Apricots,apricot,Fruits,keyword_rule,mass,"g, kg, piece",g,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+21,Arborio rice,arborio rice,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup,3,3,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+22,Arhar dal,arhar dal,Pulses & Legumes,keyword_rule,mass,"g, kg, cup",cup | g | tbsp | tsp,31,31,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+23,Arrowroot flour,arrowroot flour,Grains & Flours,keyword_rule,mass,"g, kg, cup",tbsp,1,1,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+24,asafetida,asafetida,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",,4,4,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+25,Asafoetida,asafoetida,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",inch | tbsp | tsp,92,91,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+26,Avarekai,avarekai,Vegetables,keyword_rule,mass,"g, kg, piece",cup,2,2,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+27,Avarekalu / Lilva Beans,avarekalu lilva bean,Vegetables,keyword_rule,mass,"g, kg, piece",cup,9,9,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+28,Avocado,avocado,Fruits,keyword_rule,mass,"g, kg, piece",,6,5,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+29,Baby corn,baby corn,Vegetables,keyword_rule,mass,"g, kg, piece",cup | g,10,10,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+30,Baby Potatoes,baby potato,Vegetables,keyword_rule,mass,"g, kg, piece",g,8,8,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+31,Baby spinach,baby spinach,Vegetables,keyword_rule,mass,"g, kg, piece",,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+32,Badam,badam,Nuts & Seeds,keyword_rule,mass,"g, kg, cup",cup | tbsp | tsp,41,38,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+33,Baguette,baguette,Bakery & Pasta,keyword_rule,mass,"g, kg, cup",,4,4,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+34,Bajra Flour,bajra flour,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup,2,2,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+35,Baked beans,baked bean,Vegetables,keyword_rule,mass,"g, kg, piece",cup,2,2,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+36,Baking powder,baking powder,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tbsp | tsp,27,27,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+37,Baking soda,baking soda,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tsp,14,14,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+38,Balsamic Vinegar,balsamic vinegar,Liquids,keyword_rule,volume,"ml, l, cup, tbsp, tsp",tsp,1,1,liquid,Source text and curated keyword rules; not individually web-verified
+39,Banana flower,banana flower,Fruits,keyword_rule,mass,"g, kg, piece",,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+40,Banana leaf,banana leaf,Fruits,keyword_rule,mass,"g, kg, piece",,1,1,fresh_or_cut,Source text and curated keyword rules; not individually web-verified
+41,Barbeque masala,barbeque masala,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",,1,1,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+42,Barbeque sauce,barbeque sauce,Liquids,glossary_rule,volume,"ml, l, cup, tbsp, tsp",cup,1,1,liquid,Indian ingredient glossaries cross-checked; see audit/quality_report.json
+43,Barley,barley,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+44,Barnyard Millet,barnyard millet,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup,2,2,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+45,Basa fish,basa fish,Meat & Seafood,keyword_rule,mass,"g, kg, piece",g,4,4,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+46,Basella,basella,Vegetables,keyword_rule,mass,"g, kg, piece",g,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+47,Basil leaves,basil leaf,Herbs,keyword_rule,mass,"g, tsp, tbsp",cup | g | sprig | tbsp,18,18,fresh_or_cut,Source text and curated keyword rules; not individually web-verified
+48,Basmati rice,basmati rice,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup,35,35,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+49,Bay leaf,bay leaf,Herbs,keyword_rule,mass,"g, tsp, tbsp",tsp,88,87,fresh_or_cut,Source text and curated keyword rules; not individually web-verified
+50,Bean Paste,bean paste,Vegetables,glossary_rule,mass,"g, kg, piece",tbsp,1,1,paste_or_puree,Indian ingredient glossaries cross-checked; see audit/quality_report.json
+51,Bean Sprouts,bean sprout,Vegetables,keyword_rule,mass,"g, kg, piece",cup,2,2,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+52,Beetroot,beetroot,Vegetables,keyword_rule,mass,"g, kg, piece",cup | g,13,13,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+53,Betel Nut,betel nut,Nuts & Seeds,keyword_rule,mass,"g, kg, cup",tsp,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+54,Bhetki fish,bhetki fish,Meat & Seafood,keyword_rule,mass,"g, kg, piece",,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+55,Bhindi,bhindi,Vegetables,keyword_rule,mass,"g, kg, piece",g | kg,10,10,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+56,Biryani Masala Powder,biryani masala powder,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tbsp | tsp,2,2,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+57,Black beans,black bean,Vegetables,keyword_rule,mass,"g, kg, piece",cup,3,3,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+58,Black beans sauce,black beans sauce,Liquids,glossary_rule,volume,"ml, l, cup, tbsp, tsp",tbsp,1,1,liquid,Indian ingredient glossaries cross-checked; see audit/quality_report.json
+59,Black cardamom,black cardamom,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",,24,24,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+60,Black Eyed Beans,black eyed bean,Vegetables,keyword_rule,mass,"g, kg, piece",cup,4,4,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+61,Black olives,black olive,Fruits,keyword_rule,mass,"g, kg, piece",cup,3,3,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+62,Black pepper corns,black pepper corn,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tbsp | tsp,5,5,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+63,Black pepper powder,black pepper powder,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tbsp | tsp,157,144,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+64,Whole Black Peppercorns,black peppercorn,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tbsp | tsp,100,97,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+65,Black raisins,black raisin,Nuts & Seeds,keyword_rule,mass,"g, kg, cup",tbsp,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+66,Black Rice,black rice,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup | tbsp,3,3,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+67,Black Salt,black salt,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tsp,6,6,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+68,black salt or rock salt,black salt or rock salt,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+69,Black sesame seeds,black sesame seed,Nuts & Seeds,keyword_rule,mass,"g, kg, cup",,2,2,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+70,Black Urad Dal,black urad dal,Pulses & Legumes,keyword_rule,mass,"g, kg, cup",cup | tbsp | tsp,11,11,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+71,Boiled Peanuts,boiled peanut,Nuts & Seeds,keyword_rule,mass,"g, kg, cup",tbsp,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+72,Bok Choy,bok choy,Vegetables,keyword_rule,mass,"g, kg, piece",cup | g,6,6,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+73,Boneless chicken,boneless chicken,Meat & Seafood,keyword_rule,mass,"g, kg, piece",cup | g | kg,10,10,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+74,Bottle gourd,bottle gourd,Vegetables,keyword_rule,mass,"g, kg, piece",cup,4,4,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+75,Brinjal,brinjal,Vegetables,keyword_rule,mass,"g, kg, piece",cup | g,29,29,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+76,Britannia Cheese Block,britannia cheese block,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",cup | g,4,4,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+77,Britannia Cheese Spread,britannia cheese spread,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",tbsp,2,2,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+78,Britannia Cream Cheese,britannia cream cheese,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",cup | g,3,3,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+79,Broccoli,broccoli,Vegetables,keyword_rule,mass,"g, kg, piece",cup | g,21,21,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+80,Broken Raw Rice,broken raw rice,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup | g,2,2,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+81,Broken Wheat,broken wheat,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup | tbsp,3,3,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+82,Brown Rice,brown rice,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup | g,5,5,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+83,Brown Sugar,brown sugar,Sweeteners,keyword_rule,mass,"g, tsp, tbsp",cup | tbsp | tsp,32,30,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+84,bud garlic,bud garlic,Vegetables,keyword_rule,mass,"g, kg, piece",,2,2,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+85,Burger buns,burger bun,Bakery & Pasta,keyword_rule,mass,"g, kg, cup",,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+86,Butter,butter,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",cup | g | tbsp | tsp,106,95,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+87,Buttermilk,buttermilk,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",cup,6,6,liquid,Source text and curated keyword rules; not individually web-verified
+88,Button mushrooms,button mushroom,Vegetables,keyword_rule,mass,"g, kg, piece",cup | g,36,36,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+89,Byadagi Dried Chillies,byadagi dried chilly,Vegetables,keyword_rule,mass,"g, kg, piece",,8,8,dried,Source text and curated keyword rules; not individually web-verified
+90,Cabbage,cabbage,Vegetables,keyword_rule,mass,"g, kg, piece",cup,28,28,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+91,Cane sugar,cane sugar,Sweeteners,keyword_rule,mass,"g, tsp, tbsp",cup,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+92,Canned Cherries,canned cherry,Fruits,keyword_rule,mass,"g, kg, piece",,2,2,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+93,Canola Oil,canola oil,Oils & Fats,keyword_rule,volume,"ml, tbsp, tsp",,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+94,capsicum,capsicum,Vegetables,keyword_rule,mass,"g, kg, piece",cup,4,2,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+95,cardamom,cardamom,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+96,Cardamom Pods/Seeds,cardamom pods seed,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",clove | tsp,93,90,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+97,Cardamom Powder,cardamom powder,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tbsp | tsp,55,55,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+98,Carrot,carrot,Vegetables,keyword_rule,mass,"g, kg, piece",cup | g | tbsp,100,100,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+99,Whole cashews,cashew,Nuts & Seeds,keyword_rule,mass,"g, kg, cup",cup,3,3,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+100,Cashew nuts,cashew nut,Nuts & Seeds,keyword_rule,mass,"g, kg, cup",cup | g | tbsp | tsp,48,48,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+101,cast coriander,cast coriander,Herbs,keyword_rule,mass,"g, tsp, tbsp",,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+102,Caster Sugar,caster sugar,Sweeteners,keyword_rule,mass,"g, tsp, tbsp",cup | g | tbsp | tsp,12,12,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+103,Cauliflower,cauliflower,Vegetables,keyword_rule,mass,"g, kg, piece",cup,21,21,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+104,Cayenne Pepper,cayenne pepper,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tsp,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+105,celery,celery,Vegetables,keyword_rule,mass,"g, kg, piece",cup | tsp,2,2,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+106,Chaat Masala Powder,chaat masala powder,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tbsp | tsp,13,13,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+107,Chai Masala,chai masala,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tsp,1,1,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+108,Chana dal,chana dal,Pulses & Legumes,keyword_rule,mass,"g, kg, cup",cup | tbsp | tsp,47,46,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+109,Chana Masala Powder,chana masala powder,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tsp,1,1,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+110,Cheddar cheese,cheddar cheese,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",cup | g | tbsp | tsp,19,19,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+111,Cheese,cheese,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",cup | g | tbsp,17,17,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+112,Cheese spread,cheese spread,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",cup,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+113,Chenna,chenna,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",cup,2,2,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+114,Fresh Cherries,cherry,Fruits,keyword_rule,mass,"g, kg, piece",,1,1,fresh_or_cut,Source text and curated keyword rules; not individually web-verified
+115,Cherry tomatoes,cherry tomato,Vegetables,keyword_rule,mass,"g, kg, piece",,7,7,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+116,Chia Seeds,chia seed,Nuts & Seeds,keyword_rule,mass,"g, kg, cup",tbsp,2,2,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+117,Chicken,chicken,Meat & Seafood,keyword_rule,mass,"g, kg, piece",cup | g | kg,26,26,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+118,Chicken breasts,chicken breast,Meat & Seafood,keyword_rule,mass,"g, kg, piece",cup | g,29,29,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+119,Chicken stock,chicken stock,Meat & Seafood,keyword_rule,mass,"g, kg, piece",cup,5,5,liquid,Source text and curated keyword rules; not individually web-verified
+120,Chicken thighs,chicken thigh,Meat & Seafood,keyword_rule,mass,"g, kg, piece",g,7,7,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+121,Chicken Wings,chicken wing,Meat & Seafood,keyword_rule,mass,"g, kg, piece",g,2,2,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+122,Chilled butter,chilled butter,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",cup,2,2,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+123,Chilled water,chilled water,Liquids,keyword_rule,volume,"ml, l, cup, tbsp, tsp",cup | ml | tbsp,12,12,liquid,Source text and curated keyword rules; not individually web-verified
+124,Chilli Garlic Sauce,chilli garlic sauce,Vegetables,keyword_rule,mass,"g, kg, piece",tbsp,1,1,liquid,Source text and curated keyword rules; not individually web-verified
+125,Chilli oil,chilli oil,Vegetables,keyword_rule,mass,"g, kg, piece",tbsp,2,2,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+126,Chilli vinegar,chilli vinegar,Liquids,keyword_rule,volume,"ml, l, cup, tbsp, tsp",tbsp | tsp,11,11,liquid,Source text and curated keyword rules; not individually web-verified
+127,Chinese rice wine,chinese rice wine,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup,1,1,liquid,Source text and curated keyword rules; not individually web-verified
+128,Chipotle Chillies / Peppers,chipotle chillies pepper,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+129,Chipotle peppers,chipotle pepper,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+130,Chipotle sauce,chipotle sauce,Liquids,glossary_rule,volume,"ml, l, cup, tbsp, tsp",tbsp,1,1,liquid,Indian ingredient glossaries cross-checked; see audit/quality_report.json
+131,Chocolate chips,chocolate chip,Sweeteners,keyword_rule,mass,"g, tsp, tbsp",cup,2,2,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+132,Chocolate ganache,chocolate ganache,Sweeteners,keyword_rule,mass,"g, tsp, tbsp",cup | tbsp,2,2,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+133,cinnamon,cinnamon,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",inch,2,2,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+134,Cinnamon Powder,cinnamon powder,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tbsp | tsp,36,35,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+135,Cinnamon Stick,cinnamon stick,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",inch | tbsp | tsp,110,108,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+136,Classic Mayonnaise,classic mayonnaise,Meat & Seafood,glossary_rule,mass,"g, kg, piece",cup | tbsp,3,3,fresh_or_whole,Indian ingredient glossaries cross-checked; see audit/quality_report.json
+137,Cloves,clove,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",clove | tsp,98,95,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+138,Cluster fig,cluster fig,Fruits,keyword_rule,mass,"g, kg, piece",g,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+139,Fresh coconut,coconut,Fruits,keyword_rule,mass,"g, kg, piece",cup | g | tbsp | tsp,144,141,fresh_or_cut,Source text and curated keyword rules; not individually web-verified
+140,Coconut milk,coconut milk,Liquids,keyword_rule,volume,"ml, l, cup, tbsp, tsp",cup | ml | tbsp,39,37,liquid,Source text and curated keyword rules; not individually web-verified
+141,Coconut Oil,coconut oil,Oils & Fats,keyword_rule,volume,"ml, tbsp, tsp",tbsp | tsp,26,23,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+142,Colocasia root,colocasia root,Vegetables,keyword_rule,mass,"g, kg, piece",g,6,6,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+143,Condensed Milk,condensed milk,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",cup | g | ml,7,6,liquid,Source text and curated keyword rules; not individually web-verified
+144,Confectioners sugar,confectioners sugar,Sweeteners,keyword_rule,mass,"g, tsp, tbsp",tsp,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+145,Cooked rice,cooked rice,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup | tbsp,15,15,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+146,Cooking soda,cooking soda,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tsp,2,2,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+147,coriander,coriander,Herbs,keyword_rule,mass,"g, tsp, tbsp",sprig | tbsp,5,5,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+148,Coriander Leaves,coriander leaf,Herbs,keyword_rule,mass,"g, tsp, tbsp",cup | sprig | tbsp | tsp,272,259,fresh_or_cut,Source text and curated keyword rules; not individually web-verified
+149,Coriander Powder,coriander powder,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tbsp | tsp,132,132,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+150,Coriander Seeds,coriander seed,Herbs,keyword_rule,mass,"g, tsp, tbsp",cup | tbsp | tsp,75,74,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+151,Corn Cob,corn cob,Vegetables,keyword_rule,mass,"g, kg, piece",,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+152,Corn flour,corn flour,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup | g | tbsp | tsp,64,57,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+153,Corn flour tortilla,corn flour tortilla,Grains & Flours,keyword_rule,mass,"g, kg, cup",,1,1,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+154,Corn Kernels,corn kernel,Vegetables,keyword_rule,mass,"g, kg, piece",cup,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+155,Corn meal,corn meal,Vegetables,keyword_rule,mass,"g, kg, piece",cup,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+156,Crab,crab,Meat & Seafood,keyword_rule,mass,"g, kg, piece",g,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+157,Cranberries,cranberry,Fruits,keyword_rule,mass,"g, kg, piece",cup,2,2,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+158,Fresh cream,cream,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",cup | g | ml | tbsp,38,38,fresh_or_cut,Source text and curated keyword rules; not individually web-verified
+159,Cucumber,cucumber,Vegetables,keyword_rule,mass,"g, kg, piece",cup,17,17,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+160,cumin,cumin,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tsp,3,2,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+161,Cumin powder,cumin powder,Spices & Seasonings,glossary_rule,mass,"g, tsp, tbsp",tbsp | tsp,110,108,powder_or_blend,Indian ingredient glossaries cross-checked; see audit/quality_report.json
+162,Cumin seeds,cumin seed,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tbsp | tsp,253,237,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+163,Curd,curd,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",cup | g | ml | tbsp | tsp,111,110,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+164,Curry leaves,curry leaf,Herbs,keyword_rule,mass,"g, tsp, tbsp",clove | sprig | tbsp,195,187,fresh_or_cut,Source text and curated keyword rules; not individually web-verified
+165,Curry powder,curry powder,Spices & Seasonings,glossary_rule,mass,"g, tsp, tbsp",tbsp | tsp,6,6,powder_or_blend,Indian ingredient glossaries cross-checked; see audit/quality_report.json
+166,Custard apple,custard apple,Fruits,keyword_rule,mass,"g, kg, piece",,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+167,cut 3 sprigs of mint,cut 3 sprigs of mint,Herbs,keyword_rule,mass,"g, tsp, tbsp",,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+168,Dark chocolate,dark chocolate,Sweeteners,keyword_rule,mass,"g, tsp, tbsp",g | inch,4,4,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+169,Dark soy sauce,dark soy sauce,Liquids,glossary_rule,volume,"ml, l, cup, tbsp, tsp",cup | tbsp | tsp,12,11,liquid,Indian ingredient glossaries cross-checked; see audit/quality_report.json
+170,Dates,date,Fruits,keyword_rule,mass,"g, kg, piece",cup | g,8,8,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+171,Date syrup,date syrup,Sweeteners,keyword_rule,mass,"g, tsp, tbsp",tbsp,1,1,liquid,Source text and curated keyword rules; not individually web-verified
+172,Decorative sugar,decorative sugar,Sweeteners,keyword_rule,mass,"g, tsp, tbsp",tbsp,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+173,Del Monte Chifferi Rigati Pasta,del monte chifferi rigati pasta,Bakery & Pasta,keyword_rule,mass,"g, kg, cup",cup,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+174,Dessicated Coconut,dessicated coconut,Fruits,keyword_rule,mass,"g, kg, piece",cup | tbsp,6,5,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+175,Dhansak masala,dhansak masala,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tbsp | tsp,2,2,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+176,Dijon Mustard,dijon mustard,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tsp,2,2,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+177,Dill leaves,dill leaf,Herbs,keyword_rule,mass,"g, tsp, tbsp",tbsp | tsp,3,2,fresh_or_cut,Source text and curated keyword rules; not individually web-verified
+178,Dosa rice,dosa rice,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup,3,3,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+179,Double Cream,double cream,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",cup,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+180,Dried basil leaves,dried basil leaf,Herbs,keyword_rule,mass,"g, tsp, tbsp",tsp,2,2,dried,Source text and curated keyword rules; not individually web-verified
+181,Dried Figs,dried fig,Fruits,keyword_rule,mass,"g, kg, piece",,1,1,dried,Source text and curated keyword rules; not individually web-verified
+182,Dried mushrooms,dried mushroom,Vegetables,keyword_rule,mass,"g, kg, piece",,1,1,dried,Source text and curated keyword rules; not individually web-verified
+183,Dried oregano,dried oregano,Herbs,keyword_rule,mass,"g, tsp, tbsp",sprig | tbsp | tsp,28,28,dried,Source text and curated keyword rules; not individually web-verified
+184,Dried rose petals,dried rose petal,Herbs,keyword_rule,mass,"g, tsp, tbsp",tbsp,1,1,dried,Source text and curated keyword rules; not individually web-verified
+185,Dried shrimps,dried shrimp,Meat & Seafood,keyword_rule,mass,"g, kg, piece",tbsp,1,1,dried,Source text and curated keyword rules; not individually web-verified
+186,Dried Thyme Leaves,dried thyme leaf,Herbs,keyword_rule,mass,"g, tsp, tbsp",tbsp | tsp,8,8,dried,Source text and curated keyword rules; not individually web-verified
+187,Dried Yellow/White Peas,dried yellow white pea,Vegetables,keyword_rule,mass,"g, kg, piece",cup,1,1,dried,Source text and curated keyword rules; not individually web-verified
+188,Drumstick,drumstick,Vegetables,keyword_rule,mass,"g, kg, piece",,4,4,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+189,Drumstick Leaves,drumstick leaf,Vegetables,keyword_rule,mass,"g, kg, piece",cup,1,1,fresh_or_cut,Source text and curated keyword rules; not individually web-verified
+190,Dry coconut,dry coconut,Fruits,keyword_rule,mass,"g, kg, piece",cup | tbsp,16,16,dried,Source text and curated keyword rules; not individually web-verified
+191,Dry Fruits,dry fruit,Nuts & Seeds,keyword_rule,mass,"g, kg, cup",cup | tbsp,4,4,dried,Source text and curated keyword rules; not individually web-verified
+192,Dry ginger powder,dry ginger powder,Vegetables,keyword_rule,mass,"g, kg, piece",inch | tbsp | tsp,11,11,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+193,Dry mix herbs,dry mix herb,Herbs,keyword_rule,mass,"g, tsp, tbsp",tsp,1,1,dried,Source text and curated keyword rules; not individually web-verified
+194,dry red chili,dry red chili,Spices & Seasonings,glossary_rule,mass,"g, tsp, tbsp",,2,2,dried,Indian ingredient glossaries cross-checked; see audit/quality_report.json
+195,Dry Red Chilli,dry red chilli,Vegetables,keyword_rule,mass,"g, kg, piece",tbsp,64,63,dried,Source text and curated keyword rules; not individually web-verified
+196,Dry Red Chillies,dry red chilly,Vegetables,keyword_rule,mass,"g, kg, piece",,126,117,dried,Source text and curated keyword rules; not individually web-verified
+197,Dry white wine,dry white wine,Liquids,keyword_rule,volume,"ml, l, cup, tbsp, tsp",cup,1,1,liquid,Source text and curated keyword rules; not individually web-verified
+198,Whole Eggs,egg,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",,98,95,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+199,Egg noodles,egg noodle,Bakery & Pasta,keyword_rule,mass,"g, kg, cup",cup | g | packet,5,5,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+200,Egg whites,egg white,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",,4,4,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+201,Egg yolks,egg yolk,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",,2,2,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+202,eggplant,eggplant,Vegetables,keyword_rule,mass,"g, kg, piece",,4,4,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+203,Elbow Pasta,elbow pasta,Bakery & Pasta,keyword_rule,mass,"g, kg, cup",cup,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+204,Elephant yam,elephant yam,Vegetables,keyword_rule,mass,"g, kg, piece",cup | g,7,7,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+205,English Cucumber,english cucumber,Vegetables,keyword_rule,mass,"g, kg, piece",,5,5,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+206,Enos fruit salt,enos fruit salt,Fruits,keyword_rule,mass,"g, kg, piece",tsp,7,7,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+207,Extra Virgin Olive Oil,extra virgin olive oil,Oils & Fats,keyword_rule,volume,"ml, tbsp, tsp",cup | tbsp | tsp,101,89,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+208,Fennel bulb,fennel bulb,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+209,Fennel Powder,fennel powder,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tbsp | tsp,10,10,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+210,Fennel seeds,fennel seed,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tbsp | tsp,71,68,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+211,fenugreek seeds,fenugreek seed,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tsp,2,2,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+212,Feta Cheese,feta cheese,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",cup | g | tbsp,7,6,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+213,Fresh Figs,fig,Fruits,keyword_rule,mass,"g, kg, piece",g,1,1,fresh_or_cut,Source text and curated keyword rules; not individually web-verified
+214,Fish,fish,Meat & Seafood,keyword_rule,mass,"g, kg, piece",cup | kg,3,3,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+215,Fish fillet,fish fillet,Meat & Seafood,keyword_rule,mass,"g, kg, piece",g | kg,3,3,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+216,Fish sauce,fish sauce,Liquids,glossary_rule,volume,"ml, l, cup, tbsp, tsp",tbsp | tsp,9,9,liquid,Indian ingredient glossaries cross-checked; see audit/quality_report.json
+217,Flax seeds,flax seed,Nuts & Seeds,keyword_rule,mass,"g, kg, cup",tbsp,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+218,Foxtail Millet,foxtail millet,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup | g,2,2,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+219,Fried Bread Cubes,fried bread cube,Bakery & Pasta,keyword_rule,mass,"g, kg, cup",cup,2,2,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+220,Garam masala powder,garam masala powder,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tbsp | tsp,105,105,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+221,Garlic,garlic,Vegetables,keyword_rule,mass,"g, kg, piece",clove | cup | piece | tbsp | tsp,406,383,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+222,Garlic Butter,garlic butter,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",tbsp,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+223,Garlic powder,garlic powder,Vegetables,keyword_rule,mass,"g, kg, piece",tbsp | tsp,7,7,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+224,Gawar Phali,gawar phali,Vegetables,keyword_rule,mass,"g, kg, piece",cup | g,4,4,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+225,Ghee,ghee,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",cup | tbsp | tsp,146,139,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+226,Gingelly oil,gingelly oil,Oils & Fats,keyword_rule,volume,"ml, tbsp, tsp",tbsp,2,2,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+227,Ginger,ginger,Vegetables,keyword_rule,mass,"g, kg, piece",inch | tbsp | tsp,283,269,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+228,Ginger Ale,ginger ale,Vegetables,keyword_rule,mass,"g, kg, piece",cup,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+229,Ginger Garlic Paste,ginger garlic paste,Vegetables,keyword_rule,mass,"g, kg, piece",tbsp | tsp,51,50,paste_or_puree,Source text and curated keyword rules; not individually web-verified
+230,Ginger Juice,ginger juice,Vegetables,keyword_rule,mass,"g, kg, piece",tbsp | tsp,3,3,liquid,Source text and curated keyword rules; not individually web-verified
+231,Ginger Paste,ginger paste,Vegetables,keyword_rule,mass,"g, kg, piece",tsp,1,1,paste_or_puree,Source text and curated keyword rules; not individually web-verified
+232,Glazed Cherries,glazed cherry,Fruits,keyword_rule,mass,"g, kg, piece",,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+233,Goat Cheese,goat cheese,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",cup,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+234,Govind Bhog Rice,govind bhog rice,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+235,Gram flour,gram flour,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup | g | tbsp | tsp,55,52,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+236,Green Amaranth Leaves,green amaranth leaf,Vegetables,keyword_rule,mass,"g, kg, piece",g,4,4,fresh_or_cut,Source text and curated keyword rules; not individually web-verified
+237,Green beans,green bean,Vegetables,keyword_rule,mass,"g, kg, piece",cup | g,35,35,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+238,Green Bell Pepper,green bell pepper,Vegetables,keyword_rule,mass,"g, kg, piece",cup | tbsp,76,74,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+239,Fresh green chickpeas,green chickpea,Pulses & Legumes,keyword_rule,mass,"g, kg, cup",cup,1,1,fresh_or_cut,Source text and curated keyword rules; not individually web-verified
+240,green chili,green chili,Vegetables,keyword_rule,mass,"g, kg, piece",tbsp,5,5,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+241,Green Chilli,green chilli,Vegetables,keyword_rule,mass,"g, kg, piece",tsp,108,104,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+242,Green Chilli Paste,green chilli paste,Vegetables,keyword_rule,mass,"g, kg, piece",tbsp | tsp,4,4,paste_or_puree,Source text and curated keyword rules; not individually web-verified
+243,Green Chilli Sauce,green chilli sauce,Vegetables,keyword_rule,mass,"g, kg, piece",tbsp | tsp,7,7,liquid,Source text and curated keyword rules; not individually web-verified
+244,Green Chillies,green chilly,Vegetables,keyword_rule,mass,"g, kg, piece",g | tsp,232,225,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+245,Green Chutney,green chutney,Herbs,keyword_rule,mass,"g, tsp, tbsp",cup | tbsp,2,2,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+246,green coriander,green coriander,Herbs,keyword_rule,mass,"g, tsp, tbsp",cup | sprig | tbsp,8,8,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+247,Green Moong Dal,green moong dal,Pulses & Legumes,keyword_rule,mass,"g, kg, cup",cup,6,6,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+248,Green Moong Sprouts,green moong sprout,Pulses & Legumes,keyword_rule,mass,"g, kg, cup",cup | g,2,2,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+249,Green olives,green olive,Fruits,keyword_rule,mass,"g, kg, piece",,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+250,green onions,green onion,Vegetables,keyword_rule,mass,"g, kg, piece",cup,2,2,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+251,Green peas,green pea,Vegetables,keyword_rule,mass,"g, kg, piece",cup | tbsp,34,34,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+252,Green seedless Grapes,green seedless grape,Fruits,keyword_rule,mass,"g, kg, piece",cup,2,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+253,Green zucchini,green zucchini,Vegetables,keyword_rule,mass,"g, kg, piece",g,14,13,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+254,grind 1 tbsp whole black pepper,grind 1 tbsp black pepper,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+255,Gruyere Cheese,gruyere cheese,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",cup,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+256,Guava,guava,Fruits,keyword_rule,mass,"g, kg, piece",,3,3,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+257,Gulkand,gulkand,Sweeteners,keyword_rule,mass,"g, tsp, tbsp",cup | tsp,2,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+258,Hakka Noodles,hakka noodle,Bakery & Pasta,keyword_rule,mass,"g, kg, cup",cup | g,4,4,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+259,Heavy whipping cream,heavy whipping cream,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",cup | ml,6,5,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+260,Fresh Herbs,herb,Herbs,keyword_rule,mass,"g, tsp, tbsp",,1,1,fresh_or_cut,Source text and curated keyword rules; not individually web-verified
+261,Herb Butter,herb butter,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",tbsp,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+262,Homemade Basil Pesto,homemade basil pesto,Herbs,keyword_rule,mass,"g, tsp, tbsp",cup | tbsp,2,2,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+263,Homemade Hoisin Sauce,homemade hoisin sauce,Liquids,glossary_rule,volume,"ml, l, cup, tbsp, tsp",tsp,1,1,liquid,Indian ingredient glossaries cross-checked; see audit/quality_report.json
+264,Homemade Mole sauce,homemade mole sauce,Liquids,glossary_rule,volume,"ml, l, cup, tbsp, tsp",cup,1,1,liquid,Indian ingredient glossaries cross-checked; see audit/quality_report.json
+265,Homemade Pizza And Pasta Sauce,homemade pizza and pasta sauce,Bakery & Pasta,keyword_rule,mass,"g, kg, cup",cup,1,1,liquid,Source text and curated keyword rules; not individually web-verified
+266,Homemade tomato puree,homemade tomato puree,Vegetables,keyword_rule,mass,"g, kg, piece",cup | tbsp | tsp,22,21,paste_or_puree,Source text and curated keyword rules; not individually web-verified
+267,Honey,honey,Sweeteners,keyword_rule,mass,"g, tsp, tbsp",cup | tbsp | tsp,34,34,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+268,Horse Gram Dal,horse gram dal,Pulses & Legumes,keyword_rule,mass,"g, kg, cup",cup,3,3,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+269,Hot water,hot water,Liquids,keyword_rule,volume,"ml, l, cup, tbsp, tsp",cup,3,3,liquid,Source text and curated keyword rules; not individually web-verified
+270,Hung Curd,hung curd,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",cup | g | tbsp | tsp,27,27,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+271,Ice cubes,ice cube,Liquids,keyword_rule,volume,"ml, l, cup, tbsp, tsp",cup,9,9,liquid,Source text and curated keyword rules; not individually web-verified
+272,Iceberg lettuce,iceberg lettuce,Vegetables,keyword_rule,mass,"g, kg, piece",cup,8,8,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+273,Icing Sugar,icing sugar,Sweeteners,keyword_rule,mass,"g, tsp, tbsp",cup | g,4,4,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+274,Idli,idli,Bakery & Pasta,keyword_rule,mass,"g, kg, cup",,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+275,Idli Dosa Batter,idli dosa batter,Bakery & Pasta,keyword_rule,mass,"g, kg, cup",cup,4,4,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+276,idli dosa mixture,idli dosa mixture,Bakery & Pasta,keyword_rule,mass,"g, kg, cup",cup,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+277,Idli Rice,idli rice,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+278,Instant Oats,instant oat,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup | g | tbsp,11,11,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+279,Italian Bread,italian bread,Bakery & Pasta,keyword_rule,mass,"g, kg, cup",,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+280,Italian seasoning,italian seasoning,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tbsp | tsp,2,2,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+281,Jackfruit Raw,jackfruit raw,Fruits,keyword_rule,mass,"g, kg, piece",,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+282,Jackfruit Ripe,jackfruit ripe,Fruits,keyword_rule,mass,"g, kg, piece",cup,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+283,Jaggery,jaggery,Sweeteners,keyword_rule,mass,"g, tsp, tbsp",cup | g | tbsp | tsp,81,79,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+284,Jasmine Rice,jasmine rice,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup,3,3,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+285,Jowar Flour,jowar flour,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup,6,6,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+286,Kabuli Chana,kabuli chana,Pulses & Legumes,keyword_rule,mass,"g, kg, cup",cup | g,23,22,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+287,Kaddu,kaddu,Vegetables,keyword_rule,mass,"g, kg, piece",cup | g,20,20,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+288,Kaffir lime leaves,kaffir lime leaf,Fruits,keyword_rule,mass,"g, kg, piece",,1,1,fresh_or_cut,Source text and curated keyword rules; not individually web-verified
+289,Kala Chana,kala chana,Pulses & Legumes,keyword_rule,mass,"g, kg, cup",cup,9,8,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+290,Kala jeera,kala jeera,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",cup | tbsp | tsp,5,5,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+291,Kalmatta olives,kalmatta olive,Fruits,keyword_rule,mass,"g, kg, piece",cup,2,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+292,Kalonji,kalonji,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tbsp | tsp,19,18,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+293,Kalpasi flower,kalpasi flower,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+294,Karela,karela,Vegetables,keyword_rule,mass,"g, kg, piece",,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+295,Kashmiri dry red chilli,kashmiri dry red chilli,Vegetables,keyword_rule,mass,"g, kg, piece",tsp,2,2,dried,Source text and curated keyword rules; not individually web-verified
+296,Kashmiri dry red chillies,kashmiri dry red chilly,Vegetables,keyword_rule,mass,"g, kg, piece",,4,4,dried,Source text and curated keyword rules; not individually web-verified
+297,Kashmiri Red Chilli Powder,kashmiri red chilli powder,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tbsp | tsp,27,26,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+298,Kasundi mustard sauce,kasundi mustard sauce,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tbsp,1,1,liquid,Source text and curated keyword rules; not individually web-verified
+299,Kasuri Methi,kasuri methi,Herbs,keyword_rule,mass,"g, tsp, tbsp",cup | tbsp | tsp,14,14,dried,Source text and curated keyword rules; not individually web-verified
+300,Kesar milk masala,kesar milk masala,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tsp,2,1,liquid,Source text and curated keyword rules; not individually web-verified
+301,Kewra Water,kewra water,Liquids,keyword_rule,volume,"ml, l, cup, tbsp, tsp",tsp,1,1,liquid,Source text and curated keyword rules; not individually web-verified
+302,Khoya,khoya,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",cup | g,4,4,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+303,King fish,king fish,Meat & Seafood,keyword_rule,mass,"g, kg, piece",g,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+304,Kiwi,kiwi,Fruits,keyword_rule,mass,"g, kg, piece",,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+305,Kokum,kokum,Fruits,keyword_rule,mass,"g, kg, piece",,8,8,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+306,Kosher salt,kosher salt,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+307,Lebanese cucumber,lebanese cucumber,Vegetables,keyword_rule,mass,"g, kg, piece",,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+308,Leek,leek,Vegetables,keyword_rule,mass,"g, kg, piece",,2,2,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+309,Lemon,lemon,Fruits,keyword_rule,mass,"g, kg, piece",tsp,20,20,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+310,Lemon Grass,lemon grass,Fruits,keyword_rule,mass,"g, kg, piece",,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+311,Lemon juice,lemon juice,Fruits,keyword_rule,mass,"g, kg, piece",cup | tbsp | tsp,129,121,liquid,Source text and curated keyword rules; not individually web-verified
+312,Lemon wedges,lemon wedge,Fruits,keyword_rule,mass,"g, kg, piece",,2,2,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+313,Lemon zest,lemon zest,Fruits,keyword_rule,mass,"g, kg, piece",tbsp | tsp,8,8,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+314,Lemongrass,lemongrass,Herbs,keyword_rule,mass,"g, tsp, tbsp",inch | tbsp,5,5,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+315,Lettuce leaves,lettuce leaf,Vegetables,keyword_rule,mass,"g, kg, piece",cup,2,2,fresh_or_cut,Source text and curated keyword rules; not individually web-verified
+316,Light soy sauce,light soy sauce,Liquids,glossary_rule,volume,"ml, l, cup, tbsp, tsp",tbsp | tsp,5,5,liquid,Indian ingredient glossaries cross-checked; see audit/quality_report.json
+317,Lima Beans,lima bean,Vegetables,keyword_rule,mass,"g, kg, piece",cup,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+318,long garlic,long garlic,Vegetables,keyword_rule,mass,"g, kg, piece",,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+319,Long String Bean,long string bean,Vegetables,keyword_rule,mass,"g, kg, piece",cup,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+320,Lukewarm Water,lukewarm water,Liquids,keyword_rule,volume,"ml, l, cup, tbsp, tsp",cup | ml,13,13,liquid,Source text and curated keyword rules; not individually web-verified
+321,Macaroni pasta,macaroni pasta,Bakery & Pasta,keyword_rule,mass,"g, kg, cup",cup | g,5,5,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+322,Mace,mace,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",inch | tsp,14,13,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+323,Mace powder,mace powder,Spices & Seasonings,glossary_rule,mass,"g, tsp, tbsp",tsp,4,4,powder_or_blend,Indian ingredient glossaries cross-checked; see audit/quality_report.json
+324,Mackerel fish,mackerel fish,Meat & Seafood,keyword_rule,mass,"g, kg, piece",,2,2,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+325,Maharashtrian Goda Masala,maharashtrian goda masala,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tbsp | tsp,2,2,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+326,make 1 cup tomato-puree,make 1 cup tomato puree,Vegetables,keyword_rule,mass,"g, kg, piece",,1,1,paste_or_puree,Source text and curated keyword rules; not individually web-verified
+327,Makki Ka Atta,makki ka atta,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup | tbsp,7,7,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+328,Malwani masala,malwani masala,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tbsp | tsp,2,2,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+329,Mangalorean cucumber,mangalorean cucumber,Vegetables,keyword_rule,mass,"g, kg, piece",kg,4,4,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+330,Mango,mango,Fruits,keyword_rule,mass,"g, kg, piece",cup | tbsp,19,19,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+331,Mango pickle,mango pickle,Fruits,glossary_rule,mass,"g, kg, piece",tbsp,1,1,fresh_or_whole,Indian ingredient glossaries cross-checked; see audit/quality_report.json
+332,mango powder,mango powder,Fruits,glossary_rule,mass,"g, kg, piece",tsp,1,1,powder_or_blend,Indian ingredient glossaries cross-checked; see audit/quality_report.json
+333,Mango Pulp,mango pulp,Fruits,keyword_rule,mass,"g, kg, piece",cup,2,2,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+334,Maple syrup,maple syrup,Sweeteners,keyword_rule,mass,"g, tsp, tbsp",cup,1,1,liquid,Source text and curated keyword rules; not individually web-verified
+335,Masoor Dal,masoor dal,Pulses & Legumes,keyword_rule,mass,"g, kg, cup",cup | tbsp,13,13,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+336,Meat masala,meat masala,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tbsp,2,2,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+337,Methi Leaves,methi leaf,Herbs,keyword_rule,mass,"g, tsp, tbsp",cup | g | sprig,13,13,fresh_or_cut,Source text and curated keyword rules; not individually web-verified
+338,Methi Powder,methi powder,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tsp,2,2,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+339,Methi Seeds,methi seed,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tbsp | tsp,53,53,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+340,Milk,milk,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",cup | g | l | ml | tbsp | tsp,102,100,liquid,Source text and curated keyword rules; not individually web-verified
+341,Milk chocolate,milk chocolate,Sweeteners,keyword_rule,mass,"g, tsp, tbsp",g,1,1,liquid,Source text and curated keyword rules; not individually web-verified
+342,Milk Powder,milk powder,Dairy & Eggs,glossary_rule,mass,"g, kg, piece",cup | g | tbsp,5,5,liquid,Indian ingredient glossaries cross-checked; see audit/quality_report.json
+343,Mini Pita Breads,mini pita bread,Bakery & Pasta,keyword_rule,mass,"g, kg, cup",,2,2,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+344,Mint Leaves,mint leaf,Herbs,keyword_rule,mass,"g, tsp, tbsp",cup | sprig | tbsp | tsp,55,53,fresh_or_cut,Source text and curated keyword rules; not individually web-verified
+345,Mint powder,mint powder,Herbs,glossary_rule,mass,"g, tsp, tbsp",tsp,1,1,powder_or_blend,Indian ingredient glossaries cross-checked; see audit/quality_report.json
+346,Mixed dry fruits,mixed dry fruit,Nuts & Seeds,keyword_rule,mass,"g, kg, cup",cup,3,3,dried,Source text and curated keyword rules; not individually web-verified
+347,Mixed fruits,mixed fruit,Fruits,keyword_rule,mass,"g, kg, piece",,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+348,Mixed Herbs,mixed herb,Herbs,keyword_rule,mass,"g, tsp, tbsp",tbsp | tsp,8,7,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+349,Mixed nuts,mixed nut,Nuts & Seeds,keyword_rule,mass,"g, kg, cup",cup | tbsp,8,8,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+350,Mixed vegetables,mixed vegetable,Vegetables,keyword_rule,mass,"g, kg, piece",cup,7,7,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+351,Mooli Ke Patte,mooli ke patte,Vegetables,keyword_rule,mass,"g, kg, piece",cup,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+352,Mooli/ Mullangi,mooli mullangi,Vegetables,keyword_rule,mass,"g, kg, piece",cup,12,12,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+353,Moth Dal,moth dal,Pulses & Legumes,keyword_rule,mass,"g, kg, cup",cup,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+354,Mozzarella cheese,mozzarella cheese,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",cup | g | tbsp,12,12,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+355,mustard,mustard,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tsp,13,13,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+356,Mustard oil,mustard oil,Oils & Fats,keyword_rule,volume,"ml, tbsp, tsp",tbsp | tsp,56,54,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+357,Mustard powder,mustard powder,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tsp,2,2,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+358,Mustard seeds,mustard seed,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tbsp | tsp,176,168,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+359,Mutton,mutton,Meat & Seafood,keyword_rule,mass,"g, kg, piece",g | kg,23,23,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+360,Mutton Kheema,mutton kheema,Meat & Seafood,keyword_rule,mass,"g, kg, piece",g,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+361,Mutton Liver,mutton liver,Meat & Seafood,keyword_rule,mass,"g, kg, piece",g,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+362,Nendra Pazham Banana,nendra pazham banana,Fruits,keyword_rule,mass,"g, kg, piece",,2,2,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+363,Nutella Spread,nutella spread,Sweeteners,keyword_rule,mass,"g, tsp, tbsp",,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+364,Nutmeg,nutmeg,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tbsp | tsp,8,8,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+365,Nutmeg powder,nutmeg powder,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tbsp | tsp,11,11,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+366,Nutralite Cheesy Garlic Mayo,nutralite cheesy garlic mayo,Vegetables,keyword_rule,mass,"g, kg, piece",tbsp,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+367,Nutralite Classic Spread,nutralite classic spread,Oils & Fats,keyword_rule,volume,"ml, tbsp, tsp",cup | tbsp,3,3,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+368,Nutralite Garlic & Oregano Spread,nutralite garlic oregano spread,Herbs,keyword_rule,mass,"g, tsp, tbsp",tbsp,2,2,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+369,Oats Flour,oats flour,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup,1,1,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+370,of cardamom powder,of cardamom powder,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tbsp,1,1,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+371,of coriander,of coriander,Herbs,keyword_rule,mass,"g, tsp, tbsp",sprig,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+372,of thyme leaves,of thyme leaf,Herbs,keyword_rule,mass,"g, tsp, tbsp",sprig,1,1,fresh_or_cut,Source text and curated keyword rules; not individually web-verified
+373,oil,oil,Oils & Fats,keyword_rule,volume,"ml, tbsp, tsp",tbsp | tsp,29,27,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+374,okra,okra,Vegetables,keyword_rule,mass,"g, kg, piece",cup,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+375,olive oil,olive oil,Oils & Fats,keyword_rule,volume,"ml, tbsp, tsp",tbsp,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+376,Onion,onion,Vegetables,keyword_rule,mass,"g, kg, piece",cup | g | tbsp | tsp,412,390,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+377,Onion powder,onion powder,Vegetables,glossary_rule,mass,"g, kg, piece",tbsp | tsp,3,3,powder_or_blend,Indian ingredient glossaries cross-checked; see audit/quality_report.json
+378,Onion Rings,onion ring,Vegetables,keyword_rule,mass,"g, kg, piece",cup,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+379,Orange,orange,Fruits,keyword_rule,mass,"g, kg, piece",,2,2,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+380,Fresh orange juice,orange juice,Fruits,keyword_rule,mass,"g, kg, piece",cup,3,3,liquid,Source text and curated keyword rules; not individually web-verified
+381,Orange liquor,orange liquor,Fruits,keyword_rule,mass,"g, kg, piece",ml,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+382,Orange pulp,orange pulp,Fruits,keyword_rule,mass,"g, kg, piece",cup,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+383,Orange Zest,orange zest,Fruits,keyword_rule,mass,"g, kg, piece",tsp,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+384,Oreo biscuits,oreo biscuit,Bakery & Pasta,keyword_rule,mass,"g, kg, cup",,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+385,Orzo pasta,orzo pasta,Bakery & Pasta,keyword_rule,mass,"g, kg, cup",cup,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+386,Oyster sauce,oyster sauce,Liquids,glossary_rule,volume,"ml, l, cup, tbsp, tsp",tbsp,2,2,liquid,Indian ingredient glossaries cross-checked; see audit/quality_report.json
+387,Palm jaggery,palm jaggery,Sweeteners,keyword_rule,mass,"g, tsp, tbsp",tbsp,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+388,Palm sugar,palm sugar,Sweeteners,keyword_rule,mass,"g, tsp, tbsp",cup | g | tbsp | tsp,8,7,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+389,Panch Phoran Masala,panch phoran masala,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tsp,12,12,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+390,Paneer,paneer,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",cup | g | tbsp,37,37,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+391,Papaya,papaya,Fruits,keyword_rule,mass,"g, kg, piece",cup,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+392,Paprika powder,paprika powder,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tbsp | tsp,18,18,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+393,Parmesan cheese,parmesan cheese,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",cup | tbsp,11,11,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+394,Parmigiano reggiano cheese,parmigiano reggiano cheese,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",cup | tbsp,2,2,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+395,Parsley leaves,parsley leaf,Herbs,keyword_rule,mass,"g, tsp, tbsp",cup | sprig | tbsp | tsp,31,30,fresh_or_cut,Source text and curated keyword rules; not individually web-verified
+396,Pasta,pasta,Bakery & Pasta,keyword_rule,mass,"g, kg, cup",cup | g,3,3,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+397,Pav bhaji masala,pav bhaji masala,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tbsp,3,3,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+398,Pav buns,pav bun,Bakery & Pasta,keyword_rule,mass,"g, kg, cup",,2,2,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+399,peanuts,peanut,Nuts & Seeds,keyword_rule,mass,"g, kg, cup",cup | tbsp,4,4,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+400,Peanut Butter,peanut butter,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",tbsp,5,5,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+401,Pearl onions,pearl onion,Vegetables,keyword_rule,mass,"g, kg, piece",cup | g,20,20,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+402,Phool Makhana,phool makhana,Nuts & Seeds,keyword_rule,mass,"g, kg, cup",cup,3,3,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+403,Pickle masala,pickle masala,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",,1,1,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+404,Pickled Jalapenos,pickled jalapeno,Vegetables,keyword_rule,mass,"g, kg, piece",cup | tbsp,7,7,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+405,pinch Asafoetida,pinch asafoetida,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",,41,41,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+406,pinch Whole Black Peppercorns,pinch black peppercorn,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+407,pinch Black Salt,pinch black salt,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+408,pinch Cardamom Powder,pinch cardamom powder,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",,1,1,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+409,pinch Chaat Masala Powder,pinch chaat masala powder,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",,1,1,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+410,pinch Cinnamon Powder,pinch cinnamon powder,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",,2,2,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+411,pinch Cooking soda,pinch cooking soda,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+412,pinch Enos fruit salt,pinch enos fruit salt,Fruits,keyword_rule,mass,"g, kg, piece",,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+413,pinch Garam masala powder,pinch garam masala powder,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",,2,2,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+414,pinch Lemon juice,pinch lemon juice,Fruits,keyword_rule,mass,"g, kg, piece",,1,1,liquid,Source text and curated keyword rules; not individually web-verified
+415,pinch Nutmeg powder,pinch nutmeg powder,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",,4,4,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+416,pinch Saffron strands,pinch saffron strand,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",,5,5,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+417,pinch Salt,pinch salt,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",,24,24,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+418,pinch Sichuan peppercorns,pinch sichuan peppercorn,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+419,pinch SSP Asafoetida,pinch ssp asafoetida,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+420,pinch Sugar,pinch sugar,Sweeteners,keyword_rule,mass,"g, tsp, tbsp",,7,7,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+421,pinch Turmeric powder,pinch turmeric powder,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",,6,5,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+422,Pine nuts,pine nut,Nuts & Seeds,keyword_rule,mass,"g, kg, cup",,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+423,Pineapple,pineapple,Fruits,keyword_rule,mass,"g, kg, piece",cup,9,8,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+424,Pineapple Essence,pineapple essence,Fruits,keyword_rule,mass,"g, kg, piece",tsp,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+425,Pineapple juice,pineapple juice,Fruits,keyword_rule,mass,"g, kg, piece",cup,1,1,liquid,Source text and curated keyword rules; not individually web-verified
+426,Pink Masoor Dal,pink masoor dal,Pulses & Legumes,keyword_rule,mass,"g, kg, cup",cup,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+427,Pistachios,pistachio,Nuts & Seeds,keyword_rule,mass,"g, kg, cup",cup | tbsp | tsp,18,18,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+428,Pizza base,pizza base,Bakery & Pasta,keyword_rule,mass,"g, kg, cup",,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+429,Poha,poha,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup | g | tbsp,15,15,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+430,Pohala fish,pohala fish,Meat & Seafood,keyword_rule,mass,"g, kg, piece",g,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+431,Pointed gourd,pointed gourd,Vegetables,keyword_rule,mass,"g, kg, piece",cup | g,4,4,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+432,Fresh Pomegranate Fruit Kernels,pomegranate fruit kernel,Fruits,keyword_rule,mass,"g, kg, piece",tbsp,2,2,fresh_or_cut,Source text and curated keyword rules; not individually web-verified
+433,Pomegranate juice,pomegranate juice,Fruits,keyword_rule,mass,"g, kg, piece",cup,2,2,liquid,Source text and curated keyword rules; not individually web-verified
+434,Poppy seeds,poppy seed,Nuts & Seeds,keyword_rule,mass,"g, kg, cup",cup | g | tbsp | tsp,32,32,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+435,Pork belly,pork belly,Meat & Seafood,keyword_rule,mass,"g, kg, piece",g,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+436,Portobello mushrooms,portobello mushroom,Vegetables,keyword_rule,mass,"g, kg, piece",cup,2,2,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+437,Potatoes,potato,Vegetables,keyword_rule,mass,"g, kg, piece",cup | g | kg,93,93,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+438,Prawns,prawn,Meat & Seafood,keyword_rule,mass,"g, kg, piece",g,12,12,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+439,Puff Pastry Sheet,puff pastry sheet,Bakery & Pasta,keyword_rule,mass,"g, kg, cup",,4,4,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+440,Puffed rice,puffed rice,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup,2,2,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+441,Pumpkin flowers,pumpkin flower,Vegetables,keyword_rule,mass,"g, kg, piece",,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+442,Pumpkin puree,pumpkin puree,Vegetables,keyword_rule,mass,"g, kg, piece",cup,2,2,paste_or_puree,Source text and curated keyword rules; not individually web-verified
+443,Punjabi style mango pickle,punjabi style mango pickle,Fruits,glossary_rule,mass,"g, kg, piece",tsp,1,1,fresh_or_whole,Indian ingredient glossaries cross-checked; see audit/quality_report.json
+444,Quail eggs,quail egg,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+445,Quinoa,quinoa,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup | g,6,6,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+446,radish leaves,radish leaf,Vegetables,keyword_rule,mass,"g, kg, piece",g,1,1,fresh_or_cut,Source text and curated keyword rules; not individually web-verified
+447,Ragi Flour,ragi flour,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup,3,3,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+448,Raisins,raisin,Nuts & Seeds,keyword_rule,mass,"g, kg, cup",cup | tbsp | tsp,35,35,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+449,Rajma,rajma,Pulses & Legumes,keyword_rule,mass,"g, kg, cup",cup | g | tsp,9,8,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+450,Rasam Powder,rasam powder,Spices & Seasonings,glossary_rule,mass,"g, tsp, tbsp",tsp,4,4,powder_or_blend,Indian ingredient glossaries cross-checked; see audit/quality_report.json
+451,Raw Banana,raw banana,Fruits,keyword_rule,mass,"g, kg, piece",cup,11,11,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+452,Raw banana peel,raw banana peel,Fruits,keyword_rule,mass,"g, kg, piece",,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+453,Raw papaya,raw papaya,Fruits,keyword_rule,mass,"g, kg, piece",cup | tbsp,3,3,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+454,Raw Peanuts,raw peanut,Nuts & Seeds,keyword_rule,mass,"g, kg, cup",cup | tbsp | tsp,15,14,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+455,Red Bell pepper,red bell pepper,Vegetables,keyword_rule,mass,"g, kg, piece",cup,47,47,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+456,Red cabbage,red cabbage,Vegetables,keyword_rule,mass,"g, kg, piece",cup,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+457,red chili,red chili,Spices & Seasonings,glossary_rule,mass,"g, tsp, tbsp",,1,1,whole_or_solid,Indian ingredient glossaries cross-checked; see audit/quality_report.json
+458,red chili powder,red chili powder,Spices & Seasonings,glossary_rule,mass,"g, tsp, tbsp",tsp,5,5,powder_or_blend,Indian ingredient glossaries cross-checked; see audit/quality_report.json
+459,Fresh Red Chilli,red chilli,Vegetables,keyword_rule,mass,"g, kg, piece",,3,3,fresh_or_cut,Source text and curated keyword rules; not individually web-verified
+460,Red Chilli flakes,red chilli flake,Vegetables,keyword_rule,mass,"g, kg, piece",tbsp | tsp,45,44,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+461,Red Chilli Paste,red chilli paste,Vegetables,keyword_rule,mass,"g, kg, piece",tbsp,2,2,paste_or_puree,Source text and curated keyword rules; not individually web-verified
+462,Red Chilli powder,red chilli powder,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",cup | tbsp | tsp,279,268,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+463,Red Chilli sauce,red chilli sauce,Vegetables,keyword_rule,mass,"g, kg, piece",tbsp | tsp,50,48,liquid,Source text and curated keyword rules; not individually web-verified
+464,Fresh Red chillies,red chilly,Vegetables,keyword_rule,mass,"g, kg, piece",tsp,10,10,fresh_or_cut,Source text and curated keyword rules; not individually web-verified
+465,Red matta rice,red matta rice,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup,3,3,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+466,Red onion,red onion,Vegetables,keyword_rule,mass,"g, kg, piece",,6,6,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+467,Red Romaine lettuce,red romaine lettuce,Vegetables,keyword_rule,mass,"g, kg, piece",,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+468,Red wine,red wine,Liquids,keyword_rule,volume,"ml, l, cup, tbsp, tsp",ml | tbsp,2,2,liquid,Source text and curated keyword rules; not individually web-verified
+469,Red Wine Vinaigrette,red wine vinaigrette,Liquids,keyword_rule,volume,"ml, l, cup, tbsp, tsp",tbsp | tsp,6,6,liquid,Source text and curated keyword rules; not individually web-verified
+470,Red Yellow and Green Bell Peppers,red yellow and green bell pepper,Vegetables,keyword_rule,mass,"g, kg, piece",cup,5,5,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+471,Red Yellow or Green Bell Pepper,red yellow or green bell pepper,Vegetables,keyword_rule,mass,"g, kg, piece",,5,5,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+472,Refried beans,refried bean,Vegetables,keyword_rule,mass,"g, kg, piece",cup,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+473,Rice,rice,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup | tbsp | tsp,44,44,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+474,Rice ada,rice ada,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+475,Rice flour,rice flour,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup | g | tbsp | tsp,39,38,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+476,Rice Noodles,rice noodle,Bakery & Pasta,keyword_rule,mass,"g, kg, cup",g,6,6,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+477,Rice paper rolls,rice paper roll,Grains & Flours,keyword_rule,mass,"g, kg, cup",,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+478,Rice rava,rice rava,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup | tbsp,4,4,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+479,Rice Vermicelli Noodles,rice vermicelli noodle,Grains & Flours,keyword_rule,mass,"g, kg, cup",g,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+480,Rice Vinegar,rice vinegar,Liquids,keyword_rule,volume,"ml, l, cup, tbsp, tsp",cup | tbsp | tsp,7,7,liquid,Source text and curated keyword rules; not individually web-verified
+481,Rice Wine Vinegar,rice wine vinegar,Liquids,keyword_rule,volume,"ml, l, cup, tbsp, tsp",tbsp | tsp,7,7,liquid,Source text and curated keyword rules; not individually web-verified
+482,Ricotta Cheese,ricotta cheese,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",g,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+483,Ridge Gourd,ridge gourd,Vegetables,keyword_rule,mass,"g, kg, piece",cup,3,3,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+484,Ripe Bananas,ripe banana,Fruits,keyword_rule,mass,"g, kg, piece",cup,17,17,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+485,Risotto Rice,risotto rice,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+486,roasted chana dal,roasted chana dal,Pulses & Legumes,keyword_rule,mass,"g, kg, cup",cup,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+487,Roasted Gram Dal,roasted gram dal,Pulses & Legumes,keyword_rule,mass,"g, kg, cup",cup | tbsp | tsp,7,7,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+488,Roasted Gram Flour,roasted gram flour,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup,2,2,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+489,Roasted Peanuts,roasted peanut,Nuts & Seeds,keyword_rule,mass,"g, kg, cup",cup | tbsp,21,21,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+490,Roasted tomato pasta sauce,roasted tomato pasta sauce,Vegetables,keyword_rule,mass,"g, kg, piece",tbsp | tsp,4,4,liquid,Source text and curated keyword rules; not individually web-verified
+491,Rohu fish,rohu fish,Meat & Seafood,keyword_rule,mass,"g, kg, piece",g,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+492,Rolled Oats,rolled oat,Grains & Flours,keyword_rule,mass,"g, kg, cup",tbsp,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+493,Rolled Oats Or Instant Oats,rolled oats or instant oat,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup | g,6,5,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+494,Rose Petals,rose petal,Herbs,keyword_rule,mass,"g, tsp, tbsp",tbsp,2,2,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+495,Rose water,rose water,Liquids,keyword_rule,volume,"ml, l, cup, tbsp, tsp",tbsp | tsp,7,7,liquid,Source text and curated keyword rules; not individually web-verified
+496,Rosemary,rosemary,Herbs,keyword_rule,mass,"g, tsp, tbsp",tsp,4,4,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+497,rye,rye,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tsp,5,5,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+498,Sabudana,sabudana,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+499,saffron,saffron,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+500,Saffron strands,saffron strand,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tbsp | tsp,39,36,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+501,Salt,salt,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",cup | g | tbsp | tsp,863,764,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+502,Salt and Pepper,salt and pepper,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",,37,36,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+503,Salted butter,salted butter,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",cup | tbsp,3,3,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+504,Sambar Powder,sambar powder,Spices & Seasonings,glossary_rule,mass,"g, tsp, tbsp",tbsp | tsp,11,11,powder_or_blend,Indian ingredient glossaries cross-checked; see audit/quality_report.json
+505,Sardine fish,sardine fish,Meat & Seafood,keyword_rule,mass,"g, kg, piece",,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+506,Schezwan sauce,schezwan sauce,Liquids,glossary_rule,volume,"ml, l, cup, tbsp, tsp",tbsp,4,4,liquid,Indian ingredient glossaries cross-checked; see audit/quality_report.json
+507,Sea salt,sea salt,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+508,Seer fish,seer fish,Meat & Seafood,keyword_rule,mass,"g, kg, piece",,2,2,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+509,Seeraga Samba rice,seeraga samba rice,Grains & Flours,keyword_rule,mass,"g, kg, cup",g,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+510,Semiya,semiya,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup | g,3,3,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+511,Serrano Pepper,serrano pepper,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+512,sesame,sesame,Nuts & Seeds,keyword_rule,mass,"g, kg, cup",tsp,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+513,Sesame Oil,sesame oil,Oils & Fats,keyword_rule,volume,"ml, tbsp, tsp",cup | tbsp | tsp,40,40,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+514,Sesame seeds,sesame seed,Nuts & Seeds,keyword_rule,mass,"g, kg, cup",cup | g | tbsp | tsp,62,59,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+515,Shallots,shallot,Vegetables,keyword_rule,mass,"g, kg, piece",cup,11,11,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+516,Shiitake mushrooms,shiitake mushroom,Vegetables,keyword_rule,mass,"g, kg, piece",cup,2,2,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+517,Shrimps,shrimp,Meat & Seafood,keyword_rule,mass,"g, kg, piece",g,5,4,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+518,Sichuan peppercorns,sichuan peppercorn,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tsp,4,4,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+519,Singhade,singhade,Liquids,keyword_rule,volume,"ml, l, cup, tbsp, tsp",,1,1,liquid,Source text and curated keyword rules; not individually web-verified
+520,Slivered Almonds,slivered almond,Nuts & Seeds,keyword_rule,mass,"g, kg, cup",cup | tbsp,6,6,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+521,Small Brinjal,small brinjal,Vegetables,keyword_rule,mass,"g, kg, piece",g,6,6,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+522,Small Green brinjal,small green brinjal,Vegetables,keyword_rule,mass,"g, kg, piece",cup | g,3,3,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+523,small onion,small onion,Vegetables,keyword_rule,mass,"g, kg, piece",cup,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+524,Sooji,sooji,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup | tbsp | tsp,29,29,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+525,Sour cream,sour cream,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",cup | tbsp,4,4,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+526,Soy Chunks,soy chunk,Pulses & Legumes,keyword_rule,mass,"g, kg, cup",cup | g,4,4,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+527,Soy Flakes,soy flake,Pulses & Legumes,keyword_rule,mass,"g, kg, cup",cup,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+528,Soy sauce,soy sauce,Liquids,glossary_rule,volume,"ml, l, cup, tbsp, tsp",cup | tbsp | tsp,96,86,liquid,Indian ingredient glossaries cross-checked; see audit/quality_report.json
+529,Soya sauce,soya sauce,Liquids,glossary_rule,volume,"ml, l, cup, tbsp, tsp",tsp,1,1,liquid,Indian ingredient glossaries cross-checked; see audit/quality_report.json
+530,Soybeans,soybean,Pulses & Legumes,keyword_rule,mass,"g, kg, cup",cup,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+531,Spaghetti Pasta,spaghetti pasta,Bakery & Pasta,keyword_rule,mass,"g, kg, cup",cup | g,4,4,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+532,Spinach,spinach,Vegetables,keyword_rule,mass,"g, kg, piece",cup | g,19,19,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+533,Spinach Leaves,spinach leaf,Vegetables,keyword_rule,mass,"g, kg, piece",cup | g | kg | sprig,15,15,fresh_or_cut,Source text and curated keyword rules; not individually web-verified
+534,. Spoon oil,spoon oil,Oils & Fats,keyword_rule,volume,"ml, tbsp, tsp",tbsp,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+535,Spoon peanuts,spoon peanut,Nuts & Seeds,keyword_rule,mass,"g, kg, cup",tbsp,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+536,Sprig Ginger Teriyaki Sauce,sprig ginger teriyaki sauce,Vegetables,keyword_rule,mass,"g, kg, piece",cup | tbsp | tsp,4,4,liquid,Source text and curated keyword rules; not individually web-verified
+537,Spring Onion,spring onion,Vegetables,keyword_rule,mass,"g, kg, piece",cup | sprig | tbsp,36,36,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+538,Spring Onion Greens,spring onion green,Vegetables,keyword_rule,mass,"g, kg, piece",cup | sprig | tbsp | tsp,48,45,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+539,Sriracha sauce,sriracha sauce,Liquids,glossary_rule,volume,"ml, l, cup, tbsp, tsp",tbsp | tsp,9,9,liquid,Indian ingredient glossaries cross-checked; see audit/quality_report.json
+540,SSP Asafoetida,ssp asafoetida,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tsp,2,2,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+541,Stalk Celery,stalk celery,Vegetables,keyword_rule,mass,"g, kg, piece",,2,2,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+542,Stalk Lemon Grass,stalk lemon grass,Fruits,keyword_rule,mass,"g, kg, piece",,2,2,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+543,Stalks Celery,stalks celery,Vegetables,keyword_rule,mass,"g, kg, piece",,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+544,Stalks Lemon Grass,stalks lemon grass,Fruits,keyword_rule,mass,"g, kg, piece",,2,2,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+545,Stalks Lemongrass,stalks lemongrass,Herbs,keyword_rule,mass,"g, tsp, tbsp",,2,2,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+546,Stalks Spring Onion,stalks spring onion,Vegetables,keyword_rule,mass,"g, kg, piece",,4,4,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+547,Stalks Spring Onion Greens,stalks spring onion green,Vegetables,keyword_rule,mass,"g, kg, piece",,2,2,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+548,Star anise,star anise,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",,17,17,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+549,Star fruit,star fruit,Fruits,keyword_rule,mass,"g, kg, piece",cup,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+550,Stone flower,stone flower,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",,2,2,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+551,Strawberries,strawberry,Fruits,keyword_rule,mass,"g, kg, piece",cup,4,4,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+552,Strawberry jam,strawberry jam,Fruits,keyword_rule,mass,"g, kg, piece",,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+553,Strawberry Vodka,strawberry vodka,Fruits,keyword_rule,mass,"g, kg, piece",cup,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+554,Sugar,sugar,Sweeteners,keyword_rule,mass,"g, tsp, tbsp",cup | g | tbsp | tsp,175,166,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+555,Sugar syrup,sugar syrup,Sweeteners,keyword_rule,mass,"g, tsp, tbsp",cup,1,1,liquid,Source text and curated keyword rules; not individually web-verified
+556,Sun Dried Tomatoes,sun dried tomato,Vegetables,keyword_rule,mass,"g, kg, piece",g,3,3,dried,Source text and curated keyword rules; not individually web-verified
+557,Sundakkai,sundakkai,Fruits,keyword_rule,mass,"g, kg, piece",tbsp,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+558,Sunflower Oil,sunflower oil,Oils & Fats,keyword_rule,volume,"ml, tbsp, tsp",cup | tbsp | tsp,477,432,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+559,Sweet and Spicy Red Chilli Sauce,sweet and spicy red chilli sauce,Vegetables,keyword_rule,mass,"g, kg, piece",tbsp,8,8,liquid,Source text and curated keyword rules; not individually web-verified
+560,Sweet Chutney,sweet chutney,Fruits,keyword_rule,mass,"g, kg, piece",tbsp,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+561,Sweet corn,sweet corn,Vegetables,keyword_rule,mass,"g, kg, piece",cup | g | tbsp,21,21,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+562,Sweet Potatoes,sweet potato,Vegetables,keyword_rule,mass,"g, kg, piece",g,11,11,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+563,Tahini,tahini,Nuts & Seeds,keyword_rule,mass,"g, kg, cup",cup | tbsp,10,10,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+564,Tamarind,tamarind,Fruits,keyword_rule,mass,"g, kg, piece",g | tbsp,38,37,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+565,Tamarind Paste,tamarind paste,Fruits,keyword_rule,mass,"g, kg, piece",cup | g | tbsp | tsp,30,29,paste_or_puree,Source text and curated keyword rules; not individually web-verified
+566,Tamarind Water,tamarind water,Liquids,keyword_rule,volume,"ml, l, cup, tbsp, tsp",cup | g | tbsp,23,22,liquid,Source text and curated keyword rules; not individually web-verified
+567,Taro root,taro root,Vegetables,glossary_rule,mass,"g, kg, piece",cup,1,1,fresh_or_whole,Indian ingredient glossaries cross-checked; see audit/quality_report.json
+568,Tender coconut water,tender coconut water,Fruits,keyword_rule,mass,"g, kg, piece",cup,1,1,liquid,Source text and curated keyword rules; not individually web-verified
+569,Thai basil leaves,thai basil leaf,Herbs,keyword_rule,mass,"g, tsp, tbsp",cup,6,6,fresh_or_cut,Source text and curated keyword rules; not individually web-verified
+570,Thai Jasmine Rice,thai jasmine rice,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+571,Thai Red chilli,thai red chilli,Vegetables,keyword_rule,mass,"g, kg, piece",,5,5,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+572,Thai Sweet Chilli Sauce,thai sweet chilli sauce,Vegetables,keyword_rule,mass,"g, kg, piece",tbsp,1,1,liquid,Source text and curated keyword rules; not individually web-verified
+573,Thin Semiya,thin semiya,Grains & Flours,keyword_rule,mass,"g, kg, cup",g,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+574,Fresh Thyme leaves,thyme leaf,Herbs,keyword_rule,mass,"g, tsp, tbsp",sprig | tbsp | tsp,6,6,fresh_or_cut,Source text and curated keyword rules; not individually web-verified
+575,Tinda,tinda,Vegetables,keyword_rule,mass,"g, kg, piece",,2,2,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+576,tindora,tindora,Vegetables,keyword_rule,mass,"g, kg, piece",g,2,2,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+577,Tofu,tofu,Pulses & Legumes,keyword_rule,mass,"g, kg, cup",cup | g,15,15,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+578,Tomatoes,tomato,Vegetables,keyword_rule,mass,"g, kg, piece",cup | g | kg | tbsp,186,183,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+579,Tomato Basil Pasta Sauce,tomato basil pasta sauce,Vegetables,keyword_rule,mass,"g, kg, piece",cup,2,2,liquid,Source text and curated keyword rules; not individually web-verified
+580,Tomato Ketchup,tomato ketchup,Vegetables,glossary_rule,mass,"g, kg, piece",cup | tbsp | tsp,18,18,fresh_or_whole,Indian ingredient glossaries cross-checked; see audit/quality_report.json
+581,tomato puree,tomato puree,Vegetables,keyword_rule,mass,"g, kg, piece",cup,3,3,paste_or_puree,Source text and curated keyword rules; not individually web-verified
+582,Tortillas,tortilla,Bakery & Pasta,keyword_rule,mass,"g, kg, cup",,10,10,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+583,tur dal,tur dal,Pulses & Legumes,keyword_rule,mass,"g, kg, cup",cup,2,2,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+584,turmeric,turmeric,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",g,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+585,Turmeric powder,turmeric powder,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tbsp | tsp,367,354,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+586,Udon noodles,udon noodle,Bakery & Pasta,keyword_rule,mass,"g, kg, cup",cup,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+587,urad dal,urad dal,Pulses & Legumes,keyword_rule,mass,"g, kg, cup",cup | tsp,3,3,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+588,urad dal flour,urad dal flour,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup,1,1,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+589,Vanilla Extract,vanilla extract,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",g | tsp,23,22,liquid,Source text and curated keyword rules; not individually web-verified
+590,Vanilla Ice cream,vanilla ice cream,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+591,Veeba Harissa Sauce,veeba harissa sauce,Liquids,glossary_rule,volume,"ml, l, cup, tbsp, tsp",tbsp,1,1,liquid,Indian ingredient glossaries cross-checked; see audit/quality_report.json
+592,Veeba Sweet Chilli Sauce,veeba sweet chilli sauce,Vegetables,keyword_rule,mass,"g, kg, piece",tbsp,1,1,liquid,Source text and curated keyword rules; not individually web-verified
+593,Veg Hakka Noodles,veg hakka noodle,Bakery & Pasta,keyword_rule,mass,"g, kg, cup",g,5,5,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+594,Vegetable stock,vegetable stock,Liquids,keyword_rule,volume,"ml, l, cup, tbsp, tsp",cup | l | ml | tbsp,15,15,liquid,Source text and curated keyword rules; not individually web-verified
+595,Vellai Poosanikai,vellai poosanikai,Vegetables,keyword_rule,mass,"g, kg, piece",cup | g,4,4,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+596,Vinegar,vinegar,Liquids,keyword_rule,volume,"ml, l, cup, tbsp, tsp",cup | tbsp | tsp,31,30,liquid,Source text and curated keyword rules; not individually web-verified
+597,Vivatta Maida,vivatta maida,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup | g | tbsp,9,8,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+598,Walnuts,walnut,Nuts & Seeds,keyword_rule,mass,"g, kg, cup",cup,8,8,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+599,Water,water,Liquids,keyword_rule,volume,"ml, l, cup, tbsp, tsp",cup | ml | tbsp | tsp,186,173,liquid,Source text and curated keyword rules; not individually web-verified
+600,Watermelon,watermelon,Fruits,keyword_rule,mass,"g, kg, piece",cup,1,1,liquid,Source text and curated keyword rules; not individually web-verified
+601,Wheat Berries/ Whole Wheat,wheat berries wheat,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+602,Wheat Bran,wheat bran,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup | tbsp,3,3,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+603,Whole Wheat Bread crumbs,wheat bread crumb,Bakery & Pasta,keyword_rule,mass,"g, kg, cup",cup | tbsp,24,22,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+604,Whole Wheat Brown Bread,wheat brown bread,Grains & Flours,keyword_rule,mass,"g, kg, cup",,19,19,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+605,Whole Wheat Flour,wheat flour,Grains & Flours,keyword_rule,mass,"g, kg, cup",cup | g | tbsp | tsp,74,73,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+606,Whole Wheat Flour Tortilla,wheat flour tortilla,Bakery & Pasta,keyword_rule,mass,"g, kg, cup",,3,3,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+607,Wheat Noodles,wheat noodle,Bakery & Pasta,keyword_rule,mass,"g, kg, cup",cup,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+608,Whole Wheat Pita Bread,wheat pita bread,Grains & Flours,keyword_rule,mass,"g, kg, cup",,2,2,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+609,White broad beans,white broad bean,Vegetables,keyword_rule,mass,"g, kg, piece",cup,2,2,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+610,White onion,white onion,Vegetables,keyword_rule,mass,"g, kg, piece",cup,2,2,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+611,White pepper powder,white pepper powder,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tsp,3,3,powder_or_blend,Source text and curated keyword rules; not individually web-verified
+612,White Urad Dal,white urad dal,Pulses & Legumes,keyword_rule,mass,"g, kg, cup",cup | tbsp | tsp,51,50,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+613,White vinegar,white vinegar,Liquids,keyword_rule,volume,"ml, l, cup, tbsp, tsp",cup | tbsp | tsp,5,5,liquid,Source text and curated keyword rules; not individually web-verified
+614,White Wine,white wine,Liquids,keyword_rule,volume,"ml, l, cup, tbsp, tsp",cup,1,1,liquid,Source text and curated keyword rules; not individually web-verified
+615,White wine vinegar,white wine vinegar,Liquids,keyword_rule,volume,"ml, l, cup, tbsp, tsp",cup | tbsp,2,2,liquid,Source text and curated keyword rules; not individually web-verified
+616,Worcestershire sauce,worcestershire sauce,Liquids,glossary_rule,volume,"ml, l, cup, tbsp, tsp",tsp,1,1,liquid,Indian ingredient glossaries cross-checked; see audit/quality_report.json
+617,Yakisoba noodles,yakisoba noodle,Bakery & Pasta,keyword_rule,mass,"g, kg, cup",g,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+618,Yellow Bell Pepper,yellow bell pepper,Vegetables,keyword_rule,mass,"g, kg, piece",cup,17,17,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+619,Yellow Fenugreek Seeds,yellow fenugreek seed,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tsp,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+620,Yellow Moong Dal,yellow moong dal,Pulses & Legumes,keyword_rule,mass,"g, kg, cup",cup | tbsp,22,22,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+621,Yellow mustard seeds,yellow mustard seed,Spices & Seasonings,keyword_rule,mass,"g, tsp, tbsp",tbsp,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
+622,Yellow Zucchini,yellow zucchini,Vegetables,keyword_rule,mass,"g, kg, piece",cup,1,1,fresh_or_whole,Source text and curated keyword rules; not individually web-verified
+623,yogurt,yogurt,Dairy & Eggs,keyword_rule,mass,"g, kg, piece",cup,1,1,whole_or_solid,Source text and curated keyword rules; not individually web-verified
